@@ -1,0 +1,3637 @@
+city,year,electoral_district,mention_count
+Helsinki,1988,Turun läänin eteläinen vaalipiiri,30
+Helsinki,1990,Keski-Suomen läänin vaalipiiri,17
+Helsinki,1994,Turun läänin pohjoinen vaalipiiri,9
+Helsinki,1989,Lapin läänin vaalipiiri,23
+Helsinki,1992,Vaasan läänin vaalipiiri,29
+Helsinki,1994,Kuopion läänin vaalipiiri,19
+Helsinki,1991,Helsingin kaupungin vaalipiiri,48
+Helsinki,1986,Oulun läänin vaalipiiri,29
+Helsinki,1988,Uudenmaan läänin vaalipiiri,68
+Helsinki,1987,Turun läänin eteläinen vaalipiiri,29
+Helsinki,1989,Oulun läänin vaalipiiri,60
+Helsinki,1987,Uudenmaan läänin vaalipiiri,56
+Helsinki,1992,Hämeen läänin pohjoinen vaalipiiri,44
+Helsinki,1989,Hämeen läänin eteläinen vaalipiiri,17
+Helsinki,1994,Oulun läänin vaalipiiri,34
+Helsinki,1988,Helsingin kaupungin vaalipiiri,138
+Helsinki,1990,Uudenmaan läänin vaalipiiri,54
+Helsinki,1991,Uudenmaan läänin vaalipiiri,32
+Helsinki,1991,Hämeen läänin pohjoinen vaalipiiri,28
+Helsinki,1993,Lapin läänin vaalipiiri,19
+Helsinki,1986,Turun läänin pohjoinen vaalipiiri,19
+Helsinki,1989,Uudenmaan läänin vaalipiiri,70
+Helsinki,1993,Hämeen läänin eteläinen vaalipiiri,17
+Helsinki,1994,Helsingin kaupungin vaalipiiri,55
+Helsinki,1987,NaN,2
+Helsinki,1989,Vaasan läänin vaalipiiri,19
+Helsinki,1990,Turun läänin eteläinen vaalipiiri,30
+Helsinki,1986,Keski-Suomen läänin vaalipiiri,10
+Helsinki,1988,Keski-Suomen läänin vaalipiiri,24
+Helsinki,1989,Mikkelin läänin vaalipiiri,10
+Helsinki,1988,Turun läänin pohjoinen vaalipiiri,20
+Helsinki,1989,Helsingin kaupungin vaalipiiri,75
+Helsinki,1990,Oulun läänin vaalipiiri,37
+Helsinki,1994,Lapin läänin vaalipiiri,18
+Helsinki,1990,Hämeen läänin eteläinen vaalipiiri,17
+Helsinki,1990,Turun läänin pohjoinen vaalipiiri,25
+Helsinki,1992,Oulun läänin vaalipiiri,35
+Helsinki,1992,Keski-Suomen läänin vaalipiiri,19
+Helsinki,1987,Turun läänin pohjoinen vaalipiiri,15
+Helsinki,1992,Turun läänin pohjoinen vaalipiiri,8
+Helsinki,1989,Pohjois-Karjalan läänin vaalipiiri,12
+Helsinki,1994,NaN,6
+Helsinki,1994,Hämeen läänin pohjoinen vaalipiiri,22
+Helsinki,1993,Pohjois-Karjalan läänin vaalipiiri,13
+Helsinki,1987,Helsingin kaupungin vaalipiiri,102
+Helsinki,1992,Uudenmaan läänin vaalipiiri,38
+Helsinki,1995,Uudenmaan läänin vaalipiiri,34
+Helsinki,1987,Oulun läänin vaalipiiri,37
+Helsinki,1993,Kymen läänin vaalipiiri,22
+Helsinki,1988,Oulun läänin vaalipiiri,44
+Helsinki,1993,Helsingin kaupungin vaalipiiri,69
+Helsinki,1995,Keski-Suomen läänin vaalipiiri,15
+Helsinki,1987,Kymen läänin vaalipiiri,15
+Helsinki,1993,Turun läänin eteläinen vaalipiiri,35
+Helsinki,1993,Uudenmaan läänin vaalipiiri,38
+Helsinki,1995,Turun läänin pohjoinen vaalipiiri,18
+Helsinki,1989,Keski-Suomen läänin vaalipiiri,37
+Helsinki,1994,Uudenmaan läänin vaalipiiri,40
+Helsinki,1994,Pohjois-Karjalan läänin vaalipiiri,9
+Helsinki,1989,Kymen läänin vaalipiiri,32
+Helsinki,1990,Helsingin kaupungin vaalipiiri,94
+Helsinki,1986,Hämeen läänin eteläinen vaalipiiri,32
+Helsinki,1988,Mikkelin läänin vaalipiiri,14
+Helsinki,1988,Hämeen läänin pohjoinen vaalipiiri,18
+Helsinki,1986,Helsingin kaupungin vaalipiiri,100
+Helsinki,1988,Kymen läänin vaalipiiri,26
+Helsinki,1992,Hämeen läänin eteläinen vaalipiiri,21
+Helsinki,1990,Vaasan läänin vaalipiiri,24
+Helsinki,1995,Vaasan läänin vaalipiiri,13
+Helsinki,1986,Hämeen läänin pohjoinen vaalipiiri,25
+Helsinki,1986,Uudenmaan läänin vaalipiiri,55
+Helsinki,1994,Turun läänin eteläinen vaalipiiri,23
+Helsinki,1988,Pohjois-Karjalan läänin vaalipiiri,11
+Helsinki,1987,Lapin läänin vaalipiiri,19
+Helsinki,1986,Kymen läänin vaalipiiri,9
+Helsinki,1988,Vaasan läänin vaalipiiri,18
+Helsinki,1986,Mikkelin läänin vaalipiiri,14
+Helsinki,1992,Kymen läänin vaalipiiri,17
+Helsinki,1989,Hämeen läänin pohjoinen vaalipiiri,20
+Helsinki,1986,Turun läänin eteläinen vaalipiiri,36
+Helsinki,1990,Hämeen läänin pohjoinen vaalipiiri,32
+Helsinki,1987,Hämeen läänin eteläinen vaalipiiri,15
+Helsinki,1989,Turun läänin pohjoinen vaalipiiri,36
+Helsinki,1994,Hämeen läänin eteläinen vaalipiiri,9
+Helsinki,1987,Hämeen läänin pohjoinen vaalipiiri,21
+Helsinki,1995,Hämeen läänin pohjoinen vaalipiiri,16
+Helsinki,1987,Keski-Suomen läänin vaalipiiri,15
+Helsinki,1992,Helsingin kaupungin vaalipiiri,59
+Helsinki,1988,NaN,3
+Helsinki,1993,Oulun läänin vaalipiiri,38
+Helsinki,1991,Vaasan läänin vaalipiiri,15
+Helsinki,1995,Helsingin kaupungin vaalipiiri,37
+Helsinki,1991,Lapin läänin vaalipiiri,20
+Helsinki,1993,Kuopion läänin vaalipiiri,15
+Helsinki,1987,Vaasan läänin vaalipiiri,21
+Helsinki,1994,Kymen läänin vaalipiiri,8
+Helsinki,1993,Turun läänin pohjoinen vaalipiiri,8
+Helsinki,1989,Kuopion läänin vaalipiiri,17
+Helsinki,1994,Keski-Suomen läänin vaalipiiri,8
+Helsinki,1992,Turun läänin eteläinen vaalipiiri,21
+Helsinki,1988,Lapin läänin vaalipiiri,22
+Helsinki,1992,Lapin läänin vaalipiiri,19
+Helsinki,1992,Kuopion läänin vaalipiiri,8
+Helsinki,1993,Hämeen läänin pohjoinen vaalipiiri,51
+Helsinki,1991,Turun läänin eteläinen vaalipiiri,13
+Helsinki,1989,Turun läänin eteläinen vaalipiiri,38
+Helsinki,1995,Hämeen läänin eteläinen vaalipiiri,9
+Helsinki,1994,Vaasan läänin vaalipiiri,18
+Helsinki,1990,Kymen läänin vaalipiiri,29
+Helsinki,1990,Kuopion läänin vaalipiiri,13
+Helsinki,1988,Kuopion läänin vaalipiiri,13
+Helsinki,1993,Mikkelin läänin vaalipiiri,12
+Helsinki,1991,Oulun läänin vaalipiiri,24
+Helsinki,1987,Pohjois-Karjalan läänin vaalipiiri,6
+Helsinki,1990,Lapin läänin vaalipiiri,12
+Helsinki,1995,Lapin läänin vaalipiiri,15
+Helsinki,1991,Kuopion läänin vaalipiiri,6
+Helsinki,1986,Lapin läänin vaalipiiri,23
+Helsinki,1995,NaN,1
+Helsinki,1995,Kymen läänin vaalipiiri,11
+Helsinki,1992,Pohjois-Karjalan läänin vaalipiiri,5
+Helsinki,1986,Vaasan läänin vaalipiiri,12
+Helsinki,1990,Mikkelin läänin vaalipiiri,9
+Helsinki,1986,Kuopion läänin vaalipiiri,9
+Helsinki,1991,Turun läänin pohjoinen vaalipiiri,11
+Helsinki,1987,Kuopion läänin vaalipiiri,11
+Helsinki,1991,Keski-Suomen läänin vaalipiiri,9
+Helsinki,1987,Mikkelin läänin vaalipiiri,15
+Helsinki,1993,Keski-Suomen läänin vaalipiiri,15
+Helsinki,1995,Oulun läänin vaalipiiri,22
+Helsinki,1991,Hämeen läänin eteläinen vaalipiiri,9
+Helsinki,1995,Turun läänin eteläinen vaalipiiri,19
+Helsinki,1993,Vaasan läänin vaalipiiri,24
+Helsinki,1995,Pohjois-Karjalan läänin vaalipiiri,6
+Helsinki,1988,Hämeen läänin eteläinen vaalipiiri,18
+Helsinki,1993,NaN,5
+Helsinki,1994,Mikkelin läänin vaalipiiri,4
+Helsinki,1992,Mikkelin läänin vaalipiiri,3
+Helsinki,1986,NaN,3
+Helsinki,1991,Kymen läänin vaalipiiri,9
+Helsinki,1990,Pohjois-Karjalan läänin vaalipiiri,8
+Helsinki,1991,Pohjois-Karjalan läänin vaalipiiri,2
+Helsinki,1995,Kuopion läänin vaalipiiri,3
+Helsinki,1995,Mikkelin läänin vaalipiiri,7
+Helsinki,1991,Mikkelin läänin vaalipiiri,5
+Helsinki,1986,Pohjois-Karjalan läänin vaalipiiri,5
+Helsinki,1987,Ahvenanmaan maakunnan vaalipiiri,1
+Helsinki,1990,NaN,2
+Helsinki,1991,NaN,1
+Helsinki,1991,Ahvenanmaan maakunnan vaalipiiri,1
+Helsinki,1992,Ahvenanmaan maakunnan vaalipiiri,1
+Espoo,1987,Uudenmaan läänin vaalipiiri,16
+Espoo,1991,Uudenmaan läänin vaalipiiri,23
+Espoo,1991,Oulun läänin vaalipiiri,1
+Espoo,1995,Helsingin kaupungin vaalipiiri,6
+Espoo,1995,Mikkelin läänin vaalipiiri,1
+Espoo,1995,Uudenmaan läänin vaalipiiri,12
+Espoo,1995,Turun läänin eteläinen vaalipiiri,1
+Espoo,1993,Uudenmaan läänin vaalipiiri,9
+Espoo,1993,Hämeen läänin eteläinen vaalipiiri,1
+Espoo,1992,Vaasan läänin vaalipiiri,4
+Espoo,1988,Hämeen läänin pohjoinen vaalipiiri,4
+Espoo,1988,Uudenmaan läänin vaalipiiri,15
+Espoo,1988,Helsingin kaupungin vaalipiiri,16
+Espoo,1988,Kymen läänin vaalipiiri,2
+Espoo,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Espoo,1989,Helsingin kaupungin vaalipiiri,9
+Espoo,1989,Uudenmaan läänin vaalipiiri,22
+Espoo,1986,Helsingin kaupungin vaalipiiri,5
+Espoo,1990,Uudenmaan läänin vaalipiiri,10
+Espoo,1991,Helsingin kaupungin vaalipiiri,13
+Espoo,1991,Kymen läänin vaalipiiri,2
+Espoo,1986,Uudenmaan läänin vaalipiiri,13
+Espoo,1993,Mikkelin läänin vaalipiiri,1
+Espoo,1992,Uudenmaan läänin vaalipiiri,16
+Espoo,1987,Turun läänin eteläinen vaalipiiri,1
+Espoo,1988,Hämeen läänin eteläinen vaalipiiri,1
+Espoo,1989,Oulun läänin vaalipiiri,2
+Espoo,1990,Oulun läänin vaalipiiri,2
+Espoo,1994,Uudenmaan läänin vaalipiiri,7
+Espoo,1990,Lapin läänin vaalipiiri,2
+Espoo,1987,Mikkelin läänin vaalipiiri,3
+Espoo,1993,Lapin läänin vaalipiiri,1
+Espoo,1995,Kymen läänin vaalipiiri,1
+Espoo,1993,Kuopion läänin vaalipiiri,2
+Espoo,1988,Turun läänin pohjoinen vaalipiiri,1
+Espoo,1989,Hämeen läänin eteläinen vaalipiiri,1
+Espoo,1987,Hämeen läänin pohjoinen vaalipiiri,2
+Espoo,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Espoo,1994,Helsingin kaupungin vaalipiiri,7
+Espoo,1993,Turun läänin eteläinen vaalipiiri,1
+Espoo,1993,Oulun läänin vaalipiiri,3
+Espoo,1987,Oulun läänin vaalipiiri,2
+Espoo,1988,Lapin läänin vaalipiiri,8
+Espoo,1988,Mikkelin läänin vaalipiiri,7
+Espoo,1990,Helsingin kaupungin vaalipiiri,6
+Espoo,1995,Oulun läänin vaalipiiri,2
+Espoo,1986,Turun läänin eteläinen vaalipiiri,2
+Espoo,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Espoo,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Espoo,1986,Mikkelin läänin vaalipiiri,1
+Espoo,1991,Turun läänin eteläinen vaalipiiri,1
+Espoo,1988,Vaasan läänin vaalipiiri,2
+Espoo,1987,Helsingin kaupungin vaalipiiri,5
+Espoo,1988,Oulun läänin vaalipiiri,2
+Espoo,1991,Lapin läänin vaalipiiri,1
+Espoo,1994,Kuopion läänin vaalipiiri,2
+Espoo,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Espoo,1993,Helsingin kaupungin vaalipiiri,2
+Espoo,1991,Hämeen läänin pohjoinen vaalipiiri,2
+Espoo,1988,Keski-Suomen läänin vaalipiiri,1
+Espoo,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Espoo,1992,Lapin läänin vaalipiiri,2
+Espoo,1994,Pohjois-Karjalan läänin vaalipiiri,2
+Espoo,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Espoo,1993,Keski-Suomen läänin vaalipiiri,2
+Espoo,1986,Turun läänin pohjoinen vaalipiiri,1
+Espoo,1991,Kuopion läänin vaalipiiri,2
+Espoo,1986,Oulun läänin vaalipiiri,3
+Espoo,1990,Kymen läänin vaalipiiri,1
+Espoo,1995,Keski-Suomen läänin vaalipiiri,2
+Espoo,1986,Hämeen läänin eteläinen vaalipiiri,2
+Espoo,1994,Turun läänin eteläinen vaalipiiri,1
+Espoo,1989,Mikkelin läänin vaalipiiri,1
+Espoo,1989,Keski-Suomen läänin vaalipiiri,3
+Espoo,1988,Turun läänin eteläinen vaalipiiri,1
+Espoo,1995,Kuopion läänin vaalipiiri,1
+Espoo,1989,Turun läänin eteläinen vaalipiiri,1
+Espoo,1989,Vaasan läänin vaalipiiri,2
+Espoo,1991,Vaasan läänin vaalipiiri,1
+Espoo,1994,Hämeen läänin pohjoinen vaalipiiri,3
+Espoo,1986,Lapin läänin vaalipiiri,1
+Espoo,1993,Vaasan läänin vaalipiiri,1
+Espoo,1992,Kymen läänin vaalipiiri,2
+Espoo,1987,Keski-Suomen läänin vaalipiiri,1
+Espoo,1990,Turun läänin pohjoinen vaalipiiri,1
+Espoo,1992,Keski-Suomen läänin vaalipiiri,1
+Espoo,1994,Oulun läänin vaalipiiri,1
+Espoo,1994,Vaasan läänin vaalipiiri,1
+Tampere,1990,Hämeen läänin pohjoinen vaalipiiri,39
+Tampere,1993,Hämeen läänin pohjoinen vaalipiiri,65
+Tampere,1986,Hämeen läänin pohjoinen vaalipiiri,54
+Tampere,1991,Oulun läänin vaalipiiri,4
+Tampere,1988,Hämeen läänin pohjoinen vaalipiiri,31
+Tampere,1987,Hämeen läänin pohjoinen vaalipiiri,63
+Tampere,1989,Hämeen läänin pohjoinen vaalipiiri,42
+Tampere,1988,Turun läänin pohjoinen vaalipiiri,10
+Tampere,1994,Hämeen läänin pohjoinen vaalipiiri,46
+Tampere,1987,Turun läänin eteläinen vaalipiiri,27
+Tampere,1986,Turun läänin pohjoinen vaalipiiri,12
+Tampere,1991,Hämeen läänin pohjoinen vaalipiiri,43
+Tampere,1991,Hämeen läänin eteläinen vaalipiiri,3
+Tampere,1993,Oulun läänin vaalipiiri,7
+Tampere,1990,Helsingin kaupungin vaalipiiri,6
+Tampere,1995,Hämeen läänin pohjoinen vaalipiiri,39
+Tampere,1986,Helsingin kaupungin vaalipiiri,9
+Tampere,1987,Keski-Suomen läänin vaalipiiri,5
+Tampere,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Tampere,1993,Helsingin kaupungin vaalipiiri,3
+Tampere,1992,Hämeen läänin pohjoinen vaalipiiri,67
+Tampere,1989,Turun läänin eteläinen vaalipiiri,2
+Tampere,1987,Turun läänin pohjoinen vaalipiiri,17
+Tampere,1991,Turun läänin eteläinen vaalipiiri,8
+Tampere,1986,Hämeen läänin eteläinen vaalipiiri,11
+Tampere,1989,Lapin läänin vaalipiiri,4
+Tampere,1988,Kuopion läänin vaalipiiri,7
+Tampere,1990,Vaasan läänin vaalipiiri,8
+Tampere,1986,Turun läänin eteläinen vaalipiiri,11
+Tampere,1995,Keski-Suomen läänin vaalipiiri,5
+Tampere,1992,Kuopion läänin vaalipiiri,3
+Tampere,1986,Oulun läänin vaalipiiri,3
+Tampere,1994,Uudenmaan läänin vaalipiiri,7
+Tampere,1988,Uudenmaan läänin vaalipiiri,10
+Tampere,1993,Turun läänin pohjoinen vaalipiiri,9
+Tampere,1988,Vaasan läänin vaalipiiri,7
+Tampere,1995,Kuopion läänin vaalipiiri,1
+Tampere,1992,Oulun läänin vaalipiiri,11
+Tampere,1991,Helsingin kaupungin vaalipiiri,8
+Tampere,1990,Hämeen läänin eteläinen vaalipiiri,16
+Tampere,1994,Turun läänin eteläinen vaalipiiri,5
+Tampere,1994,Vaasan läänin vaalipiiri,4
+Tampere,1995,Kymen läänin vaalipiiri,1
+Tampere,1992,Uudenmaan läänin vaalipiiri,6
+Tampere,1988,Helsingin kaupungin vaalipiiri,25
+Tampere,1987,Uudenmaan läänin vaalipiiri,14
+Tampere,1991,NaN,2
+Tampere,1989,Helsingin kaupungin vaalipiiri,9
+Tampere,1990,Kymen läänin vaalipiiri,8
+Tampere,1993,Kuopion läänin vaalipiiri,4
+Tampere,1986,Lapin läänin vaalipiiri,2
+Tampere,1993,Uudenmaan läänin vaalipiiri,11
+Tampere,1994,Kuopion läänin vaalipiiri,5
+Tampere,1988,Oulun läänin vaalipiiri,10
+Tampere,1988,Keski-Suomen läänin vaalipiiri,10
+Tampere,1991,Lapin läänin vaalipiiri,2
+Tampere,1988,Mikkelin läänin vaalipiiri,2
+Tampere,1992,Helsingin kaupungin vaalipiiri,6
+Tampere,1986,Vaasan läänin vaalipiiri,4
+Tampere,1986,Uudenmaan läänin vaalipiiri,9
+Tampere,1993,Hämeen läänin eteläinen vaalipiiri,5
+Tampere,1989,Oulun läänin vaalipiiri,6
+Tampere,1994,Helsingin kaupungin vaalipiiri,3
+Tampere,1987,Helsingin kaupungin vaalipiiri,12
+Tampere,1988,Turun läänin eteläinen vaalipiiri,10
+Tampere,1989,Turun läänin pohjoinen vaalipiiri,6
+Tampere,1990,Uudenmaan läänin vaalipiiri,8
+Tampere,1991,Vaasan läänin vaalipiiri,2
+Tampere,1989,Uudenmaan läänin vaalipiiri,11
+Tampere,1994,Lapin läänin vaalipiiri,3
+Tampere,1988,Hämeen läänin eteläinen vaalipiiri,10
+Tampere,1990,Turun läänin eteläinen vaalipiiri,7
+Tampere,1987,Hämeen läänin eteläinen vaalipiiri,4
+Tampere,1990,Turun läänin pohjoinen vaalipiiri,7
+Tampere,1990,Kuopion läänin vaalipiiri,3
+Tampere,1995,Pohjois-Karjalan läänin vaalipiiri,2
+Tampere,1986,Mikkelin läänin vaalipiiri,4
+Tampere,1991,Uudenmaan läänin vaalipiiri,1
+Tampere,1989,Hämeen läänin eteläinen vaalipiiri,10
+Tampere,1995,Turun läänin pohjoinen vaalipiiri,6
+Tampere,1989,Mikkelin läänin vaalipiiri,1
+Tampere,1990,Oulun läänin vaalipiiri,5
+Tampere,1986,Kymen läänin vaalipiiri,4
+Tampere,1989,Vaasan läänin vaalipiiri,4
+Tampere,1987,Oulun läänin vaalipiiri,5
+Tampere,1988,Lapin läänin vaalipiiri,4
+Tampere,1994,Turun läänin pohjoinen vaalipiiri,7
+Tampere,1993,Vaasan läänin vaalipiiri,1
+Tampere,1993,Kymen läänin vaalipiiri,3
+Tampere,1995,Helsingin kaupungin vaalipiiri,1
+Tampere,1994,Keski-Suomen läänin vaalipiiri,5
+Tampere,1991,Kymen läänin vaalipiiri,2
+Tampere,1990,Keski-Suomen läänin vaalipiiri,1
+Tampere,1992,Hämeen läänin eteläinen vaalipiiri,2
+Tampere,1992,Turun läänin eteläinen vaalipiiri,5
+Tampere,1995,Turun läänin eteläinen vaalipiiri,12
+Tampere,1988,NaN,2
+Tampere,1994,Oulun läänin vaalipiiri,6
+Tampere,1988,Kymen läänin vaalipiiri,1
+Tampere,1995,Lapin läänin vaalipiiri,2
+Tampere,1987,Kymen läänin vaalipiiri,5
+Tampere,1995,Oulun läänin vaalipiiri,2
+Tampere,1990,NaN,4
+Tampere,1986,NaN,2
+Tampere,1992,Keski-Suomen läänin vaalipiiri,3
+Tampere,1995,Mikkelin läänin vaalipiiri,1
+Tampere,1986,Kuopion läänin vaalipiiri,2
+Tampere,1993,Turun läänin eteläinen vaalipiiri,9
+Tampere,1991,Turun läänin pohjoinen vaalipiiri,1
+Tampere,1994,Hämeen läänin eteläinen vaalipiiri,2
+Tampere,1989,Keski-Suomen läänin vaalipiiri,4
+Tampere,1986,Keski-Suomen läänin vaalipiiri,2
+Tampere,1987,Mikkelin läänin vaalipiiri,4
+Tampere,1987,Kuopion läänin vaalipiiri,1
+Tampere,1994,Kymen läänin vaalipiiri,2
+Tampere,1993,Mikkelin läänin vaalipiiri,3
+Tampere,1995,Uudenmaan läänin vaalipiiri,4
+Tampere,1993,Keski-Suomen läänin vaalipiiri,1
+Tampere,1991,Mikkelin läänin vaalipiiri,1
+Tampere,1992,Turun läänin pohjoinen vaalipiiri,3
+Tampere,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Tampere,1992,Vaasan läänin vaalipiiri,1
+Tampere,1987,Vaasan läänin vaalipiiri,1
+Tampere,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Tampere,1992,Kymen läänin vaalipiiri,1
+Tampere,1987,NaN,1
+Tampere,1993,Lapin läänin vaalipiiri,2
+Tampere,1995,Hämeen läänin eteläinen vaalipiiri,1
+Tampere,1991,Keski-Suomen läänin vaalipiiri,1
+Tampere,1992,Mikkelin läänin vaalipiiri,1
+Vantaa,1989,Uudenmaan läänin vaalipiiri,18
+Vantaa,1986,Helsingin kaupungin vaalipiiri,9
+Vantaa,1987,Uudenmaan läänin vaalipiiri,12
+Vantaa,1992,Kymen läänin vaalipiiri,3
+Vantaa,1994,Uudenmaan läänin vaalipiiri,11
+Vantaa,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Vantaa,1995,Oulun läänin vaalipiiri,4
+Vantaa,1986,Uudenmaan läänin vaalipiiri,13
+Vantaa,1994,Helsingin kaupungin vaalipiiri,7
+Vantaa,1991,Helsingin kaupungin vaalipiiri,7
+Vantaa,1995,Helsingin kaupungin vaalipiiri,2
+Vantaa,1993,Uudenmaan läänin vaalipiiri,2
+Vantaa,1991,Uudenmaan läänin vaalipiiri,13
+Vantaa,1988,Lapin läänin vaalipiiri,6
+Vantaa,1988,Helsingin kaupungin vaalipiiri,9
+Vantaa,1987,Hämeen läänin pohjoinen vaalipiiri,3
+Vantaa,1993,Kuopion läänin vaalipiiri,1
+Vantaa,1989,Hämeen läänin eteläinen vaalipiiri,2
+Vantaa,1994,Vaasan läänin vaalipiiri,2
+Vantaa,1988,Kuopion läänin vaalipiiri,1
+Vantaa,1990,Uudenmaan läänin vaalipiiri,12
+Vantaa,1989,Helsingin kaupungin vaalipiiri,6
+Vantaa,1995,Uudenmaan läänin vaalipiiri,7
+Vantaa,1987,Turun läänin eteläinen vaalipiiri,1
+Vantaa,1993,NaN,1
+Vantaa,1987,Lapin läänin vaalipiiri,1
+Vantaa,1989,Oulun läänin vaalipiiri,5
+Vantaa,1990,Hämeen läänin pohjoinen vaalipiiri,3
+Vantaa,1992,Uudenmaan läänin vaalipiiri,9
+Vantaa,1992,Turun läänin eteläinen vaalipiiri,2
+Vantaa,1993,Vaasan läänin vaalipiiri,2
+Vantaa,1993,Mikkelin läänin vaalipiiri,2
+Vantaa,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Vantaa,1988,Uudenmaan läänin vaalipiiri,9
+Vantaa,1988,Kymen läänin vaalipiiri,1
+Vantaa,1991,Kymen läänin vaalipiiri,2
+Vantaa,1991,Oulun läänin vaalipiiri,1
+Vantaa,1995,Mikkelin läänin vaalipiiri,1
+Vantaa,1987,Helsingin kaupungin vaalipiiri,4
+Vantaa,1989,Turun läänin pohjoinen vaalipiiri,2
+Vantaa,1988,Oulun läänin vaalipiiri,5
+Vantaa,1992,Vaasan läänin vaalipiiri,4
+Vantaa,1988,Hämeen läänin pohjoinen vaalipiiri,3
+Vantaa,1991,Kuopion läänin vaalipiiri,1
+Vantaa,1986,Turun läänin pohjoinen vaalipiiri,1
+Vantaa,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Vantaa,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Vantaa,1994,Kymen läänin vaalipiiri,1
+Vantaa,1993,Oulun läänin vaalipiiri,4
+Vantaa,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Vantaa,1994,Kuopion läänin vaalipiiri,2
+Vantaa,1988,Vaasan läänin vaalipiiri,1
+Vantaa,1990,Kymen läänin vaalipiiri,3
+Vantaa,1992,Pohjois-Karjalan läänin vaalipiiri,3
+Vantaa,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Vantaa,1986,NaN,2
+Vantaa,1990,Vaasan läänin vaalipiiri,1
+Vantaa,1986,Turun läänin eteläinen vaalipiiri,2
+Vantaa,1991,Turun läänin eteläinen vaalipiiri,2
+Vantaa,1987,Kuopion läänin vaalipiiri,1
+Vantaa,1995,Lapin läänin vaalipiiri,1
+Vantaa,1990,Helsingin kaupungin vaalipiiri,6
+Vantaa,1990,Oulun läänin vaalipiiri,1
+Vantaa,1987,NaN,1
+Vantaa,1986,Hämeen läänin eteläinen vaalipiiri,2
+Vantaa,1995,Kuopion läänin vaalipiiri,2
+Vantaa,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Vantaa,1994,Oulun läänin vaalipiiri,2
+Vantaa,1989,Keski-Suomen läänin vaalipiiri,3
+Vantaa,1986,Mikkelin läänin vaalipiiri,2
+Vantaa,1995,Keski-Suomen läänin vaalipiiri,1
+Vantaa,1988,Mikkelin läänin vaalipiiri,1
+Vantaa,1988,Hämeen läänin eteläinen vaalipiiri,1
+Vantaa,1989,Vaasan läänin vaalipiiri,1
+Vantaa,1995,Turun läänin eteläinen vaalipiiri,1
+Vantaa,1988,Turun läänin pohjoinen vaalipiiri,1
+Vantaa,1987,Mikkelin läänin vaalipiiri,1
+Vantaa,1986,Oulun läänin vaalipiiri,1
+Oulu,1987,Oulun läänin vaalipiiri,41
+Oulu,1989,Oulun läänin vaalipiiri,60
+Oulu,1992,Turun läänin pohjoinen vaalipiiri,4
+Oulu,1987,Mikkelin läänin vaalipiiri,5
+Oulu,1989,Lapin läänin vaalipiiri,9
+Oulu,1986,NaN,8
+Oulu,1993,Keski-Suomen läänin vaalipiiri,1
+Oulu,1992,Oulun läänin vaalipiiri,21
+Oulu,1987,Hämeen läänin eteläinen vaalipiiri,10
+Oulu,1994,Lapin läänin vaalipiiri,10
+Oulu,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Oulu,1989,Keski-Suomen läänin vaalipiiri,6
+Oulu,1990,Oulun läänin vaalipiiri,43
+Oulu,1994,Vaasan läänin vaalipiiri,2
+Oulu,1994,Oulun läänin vaalipiiri,24
+Oulu,1989,Hämeen läänin pohjoinen vaalipiiri,9
+Oulu,1995,Kuopion läänin vaalipiiri,5
+Oulu,1993,Lapin läänin vaalipiiri,11
+Oulu,1989,Turun läänin eteläinen vaalipiiri,10
+Oulu,1986,Oulun läänin vaalipiiri,40
+Oulu,1988,Oulun läänin vaalipiiri,46
+Oulu,1991,Oulun läänin vaalipiiri,18
+Oulu,1986,Vaasan läänin vaalipiiri,4
+Oulu,1994,Kuopion läänin vaalipiiri,13
+Oulu,1993,Oulun läänin vaalipiiri,36
+Oulu,1993,Hämeen läänin pohjoinen vaalipiiri,5
+Oulu,1993,Helsingin kaupungin vaalipiiri,2
+Oulu,1988,Kymen läänin vaalipiiri,3
+Oulu,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Oulu,1995,Oulun läänin vaalipiiri,45
+Oulu,1990,Vaasan läänin vaalipiiri,5
+Oulu,1987,Uudenmaan läänin vaalipiiri,22
+Oulu,1986,Turun läänin eteläinen vaalipiiri,13
+Oulu,1988,Uudenmaan läänin vaalipiiri,13
+Oulu,1994,Pohjois-Karjalan läänin vaalipiiri,3
+Oulu,1991,Pohjois-Karjalan läänin vaalipiiri,1
+Oulu,1991,Uudenmaan läänin vaalipiiri,2
+Oulu,1993,Pohjois-Karjalan läänin vaalipiiri,7
+Oulu,1987,Kuopion läänin vaalipiiri,4
+Oulu,1988,Hämeen läänin pohjoinen vaalipiiri,2
+Oulu,1986,Lapin läänin vaalipiiri,22
+Oulu,1988,Lapin läänin vaalipiiri,9
+Oulu,1990,Lapin läänin vaalipiiri,7
+Oulu,1987,Turun läänin pohjoinen vaalipiiri,5
+Oulu,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Oulu,1994,Helsingin kaupungin vaalipiiri,6
+Oulu,1992,Lapin läänin vaalipiiri,2
+Oulu,1993,Turun läänin pohjoinen vaalipiiri,5
+Oulu,1987,NaN,2
+Oulu,1993,Uudenmaan läänin vaalipiiri,12
+Oulu,1987,Helsingin kaupungin vaalipiiri,16
+Oulu,1995,Turun läänin eteläinen vaalipiiri,1
+Oulu,1987,Hämeen läänin pohjoinen vaalipiiri,7
+Oulu,1990,Turun läänin pohjoinen vaalipiiri,2
+Oulu,1989,Uudenmaan läänin vaalipiiri,10
+Oulu,1993,Vaasan läänin vaalipiiri,4
+Oulu,1988,Helsingin kaupungin vaalipiiri,18
+Oulu,1994,Turun läänin eteläinen vaalipiiri,5
+Oulu,1992,Uudenmaan läänin vaalipiiri,7
+Oulu,1990,Helsingin kaupungin vaalipiiri,10
+Oulu,1989,Helsingin kaupungin vaalipiiri,9
+Oulu,1991,Lapin läänin vaalipiiri,5
+Oulu,1986,Mikkelin läänin vaalipiiri,5
+Oulu,1993,Turun läänin eteläinen vaalipiiri,12
+Oulu,1991,Hämeen läänin pohjoinen vaalipiiri,2
+Oulu,1986,Uudenmaan läänin vaalipiiri,5
+Oulu,1991,Turun läänin pohjoinen vaalipiiri,3
+Oulu,1990,Kymen läänin vaalipiiri,4
+Oulu,1989,Kuopion läänin vaalipiiri,3
+Oulu,1986,Helsingin kaupungin vaalipiiri,3
+Oulu,1991,Vaasan läänin vaalipiiri,1
+Oulu,1989,Vaasan läänin vaalipiiri,4
+Oulu,1992,Kymen läänin vaalipiiri,3
+Oulu,1989,Turun läänin pohjoinen vaalipiiri,6
+Oulu,1987,Pohjois-Karjalan läänin vaalipiiri,3
+Oulu,1988,Hämeen läänin eteläinen vaalipiiri,3
+Oulu,1994,Turun läänin pohjoinen vaalipiiri,1
+Oulu,1988,Mikkelin läänin vaalipiiri,2
+Oulu,1990,Uudenmaan läänin vaalipiiri,5
+Oulu,1988,Keski-Suomen läänin vaalipiiri,6
+Oulu,1990,Pohjois-Karjalan läänin vaalipiiri,2
+Oulu,1994,Uudenmaan läänin vaalipiiri,3
+Oulu,1995,Lapin läänin vaalipiiri,8
+Oulu,1986,Hämeen läänin pohjoinen vaalipiiri,3
+Oulu,1989,Kymen läänin vaalipiiri,4
+Oulu,1991,Keski-Suomen läänin vaalipiiri,1
+Oulu,1986,Turun läänin pohjoinen vaalipiiri,4
+Oulu,1995,Uudenmaan läänin vaalipiiri,3
+Oulu,1994,Hämeen läänin eteläinen vaalipiiri,2
+Oulu,1987,Kymen läänin vaalipiiri,9
+Oulu,1992,NaN,1
+Oulu,1994,Kymen läänin vaalipiiri,1
+Oulu,1995,Pohjois-Karjalan läänin vaalipiiri,4
+Oulu,1990,Turun läänin eteläinen vaalipiiri,2
+Oulu,1986,Hämeen läänin eteläinen vaalipiiri,5
+Oulu,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Oulu,1987,Turun läänin eteläinen vaalipiiri,10
+Oulu,1987,Keski-Suomen läänin vaalipiiri,8
+Oulu,1993,Kymen läänin vaalipiiri,1
+Oulu,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Oulu,1988,Kuopion läänin vaalipiiri,1
+Oulu,1988,Turun läänin pohjoinen vaalipiiri,2
+Oulu,1995,Keski-Suomen läänin vaalipiiri,4
+Oulu,1994,Keski-Suomen läänin vaalipiiri,2
+Oulu,1991,Kymen läänin vaalipiiri,1
+Oulu,1986,Kymen läänin vaalipiiri,1
+Oulu,1993,Kuopion läänin vaalipiiri,5
+Oulu,1987,Lapin läänin vaalipiiri,5
+Oulu,1986,Kuopion läänin vaalipiiri,1
+Oulu,1991,Hämeen läänin eteläinen vaalipiiri,1
+Oulu,1992,Hämeen läänin eteläinen vaalipiiri,4
+Oulu,1988,Vaasan läänin vaalipiiri,3
+Oulu,1990,Hämeen läänin eteläinen vaalipiiri,2
+Oulu,1988,Turun läänin eteläinen vaalipiiri,3
+Oulu,1993,Mikkelin läänin vaalipiiri,1
+Oulu,1992,Vaasan läänin vaalipiiri,2
+Oulu,1992,Kuopion läänin vaalipiiri,1
+Oulu,1987,Vaasan läänin vaalipiiri,2
+Oulu,1995,Mikkelin läänin vaalipiiri,1
+Oulu,1995,Helsingin kaupungin vaalipiiri,1
+Oulu,1989,Pohjois-Karjalan läänin vaalipiiri,1
+Oulu,1991,Mikkelin läänin vaalipiiri,1
+Oulu,1994,NaN,2
+Oulu,1995,Kymen läänin vaalipiiri,1
+Oulu,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Oulu,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Turku,1986,Turun läänin eteläinen vaalipiiri,89
+Turku,1993,Turun läänin eteläinen vaalipiiri,71
+Turku,1990,Uudenmaan läänin vaalipiiri,14
+Turku,1987,Uudenmaan läänin vaalipiiri,12
+Turku,1990,Keski-Suomen läänin vaalipiiri,2
+Turku,1987,Helsingin kaupungin vaalipiiri,19
+Turku,1991,Turun läänin eteläinen vaalipiiri,52
+Turku,1987,Turun läänin eteläinen vaalipiiri,82
+Turku,1988,Hämeen läänin pohjoinen vaalipiiri,7
+Turku,1986,Hämeen läänin eteläinen vaalipiiri,15
+Turku,1993,Turun läänin pohjoinen vaalipiiri,7
+Turku,1993,Helsingin kaupungin vaalipiiri,7
+Turku,1989,Turun läänin eteläinen vaalipiiri,51
+Turku,1988,Turun läänin eteläinen vaalipiiri,80
+Turku,1990,Turun läänin pohjoinen vaalipiiri,23
+Turku,1995,Oulun läänin vaalipiiri,8
+Turku,1990,Hämeen läänin pohjoinen vaalipiiri,6
+Turku,1988,Turun läänin pohjoinen vaalipiiri,17
+Turku,1992,Oulun läänin vaalipiiri,4
+Turku,1986,Uudenmaan läänin vaalipiiri,13
+Turku,1987,Hämeen läänin pohjoinen vaalipiiri,8
+Turku,1992,Turun läänin eteläinen vaalipiiri,48
+Turku,1994,Turun läänin eteläinen vaalipiiri,39
+Turku,1994,Kymen läänin vaalipiiri,2
+Turku,1993,Kymen läänin vaalipiiri,5
+Turku,1986,Keski-Suomen läänin vaalipiiri,5
+Turku,1988,Helsingin kaupungin vaalipiiri,22
+Turku,1995,Turun läänin eteläinen vaalipiiri,30
+Turku,1988,Vaasan läänin vaalipiiri,6
+Turku,1992,Uudenmaan läänin vaalipiiri,11
+Turku,1986,Helsingin kaupungin vaalipiiri,7
+Turku,1994,Lapin läänin vaalipiiri,2
+Turku,1988,Lapin läänin vaalipiiri,5
+Turku,1986,Hämeen läänin pohjoinen vaalipiiri,4
+Turku,1989,Hämeen läänin eteläinen vaalipiiri,7
+Turku,1991,Hämeen läänin pohjoinen vaalipiiri,6
+Turku,1988,Kymen läänin vaalipiiri,7
+Turku,1986,Turun läänin pohjoinen vaalipiiri,24
+Turku,1992,Lapin läänin vaalipiiri,4
+Turku,1993,Uudenmaan läänin vaalipiiri,22
+Turku,1994,Turun läänin pohjoinen vaalipiiri,3
+Turku,1992,Vaasan läänin vaalipiiri,5
+Turku,1995,Kuopion läänin vaalipiiri,1
+Turku,1987,Vaasan läänin vaalipiiri,7
+Turku,1990,Helsingin kaupungin vaalipiiri,8
+Turku,1991,Turun läänin pohjoinen vaalipiiri,5
+Turku,1988,Uudenmaan läänin vaalipiiri,7
+Turku,1995,Vaasan läänin vaalipiiri,3
+Turku,1994,Kuopion läänin vaalipiiri,11
+Turku,1990,Turun läänin eteläinen vaalipiiri,37
+Turku,1990,Oulun läänin vaalipiiri,6
+Turku,1994,Uudenmaan läänin vaalipiiri,16
+Turku,1987,Hämeen läänin eteläinen vaalipiiri,4
+Turku,1989,Kymen läänin vaalipiiri,2
+Turku,1989,Oulun läänin vaalipiiri,10
+Turku,1993,Vaasan läänin vaalipiiri,5
+Turku,1987,Turun läänin pohjoinen vaalipiiri,16
+Turku,1992,Hämeen läänin pohjoinen vaalipiiri,4
+Turku,1990,Kymen läänin vaalipiiri,3
+Turku,1989,Uudenmaan läänin vaalipiiri,16
+Turku,1993,Oulun läänin vaalipiiri,8
+Turku,1987,Keski-Suomen läänin vaalipiiri,6
+Turku,1990,Hämeen läänin eteläinen vaalipiiri,11
+Turku,1986,Pohjois-Karjalan läänin vaalipiiri,2
+Turku,1993,Mikkelin läänin vaalipiiri,4
+Turku,1994,Keski-Suomen läänin vaalipiiri,3
+Turku,1991,Hämeen läänin eteläinen vaalipiiri,6
+Turku,1989,Turun läänin pohjoinen vaalipiiri,22
+Turku,1994,Vaasan läänin vaalipiiri,4
+Turku,1995,Uudenmaan läänin vaalipiiri,7
+Turku,1993,Kuopion läänin vaalipiiri,5
+Turku,1995,Mikkelin läänin vaalipiiri,1
+Turku,1989,Vaasan läänin vaalipiiri,1
+Turku,1989,Helsingin kaupungin vaalipiiri,12
+Turku,1986,Lapin läänin vaalipiiri,3
+Turku,1987,Mikkelin läänin vaalipiiri,6
+Turku,1986,Oulun läänin vaalipiiri,4
+Turku,1993,Hämeen läänin pohjoinen vaalipiiri,14
+Turku,1986,Mikkelin läänin vaalipiiri,2
+Turku,1995,Turun läänin pohjoinen vaalipiiri,4
+Turku,1991,Pohjois-Karjalan läänin vaalipiiri,1
+Turku,1995,Lapin läänin vaalipiiri,4
+Turku,1987,Oulun läänin vaalipiiri,7
+Turku,1992,Helsingin kaupungin vaalipiiri,9
+Turku,1989,Hämeen läänin pohjoinen vaalipiiri,4
+Turku,1992,Kuopion läänin vaalipiiri,3
+Turku,1990,Vaasan läänin vaalipiiri,6
+Turku,1995,Kymen läänin vaalipiiri,2
+Turku,1991,Uudenmaan läänin vaalipiiri,6
+Turku,1992,Turun läänin pohjoinen vaalipiiri,4
+Turku,1986,NaN,4
+Turku,1990,Pohjois-Karjalan läänin vaalipiiri,2
+Turku,1990,Mikkelin läänin vaalipiiri,1
+Turku,1988,Kuopion läänin vaalipiiri,3
+Turku,1989,Lapin läänin vaalipiiri,2
+Turku,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Turku,1989,Mikkelin läänin vaalipiiri,3
+Turku,1991,Helsingin kaupungin vaalipiiri,5
+Turku,1988,Keski-Suomen läänin vaalipiiri,1
+Turku,1993,Hämeen läänin eteläinen vaalipiiri,1
+Turku,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Turku,1992,Hämeen läänin eteläinen vaalipiiri,3
+Turku,1991,Oulun läänin vaalipiiri,4
+Turku,1988,Oulun läänin vaalipiiri,5
+Turku,1991,Vaasan läänin vaalipiiri,2
+Turku,1994,Ahvenanmaan maakunnan vaalipiiri,2
+Turku,1986,Kuopion läänin vaalipiiri,3
+Turku,1989,Keski-Suomen läänin vaalipiiri,4
+Turku,1987,NaN,1
+Turku,1987,Kymen läänin vaalipiiri,3
+Turku,1993,Lapin läänin vaalipiiri,3
+Turku,1995,Helsingin kaupungin vaalipiiri,3
+Turku,1994,Mikkelin läänin vaalipiiri,1
+Turku,1995,Keski-Suomen läänin vaalipiiri,1
+Turku,1994,Hämeen läänin eteläinen vaalipiiri,1
+Turku,1986,Kymen läänin vaalipiiri,2
+Turku,1992,Keski-Suomen läänin vaalipiiri,1
+Turku,1993,Keski-Suomen läänin vaalipiiri,2
+Turku,1995,Hämeen läänin eteläinen vaalipiiri,1
+Turku,1989,Kuopion läänin vaalipiiri,1
+Turku,1991,Kymen läänin vaalipiiri,1
+Turku,1995,Hämeen läänin pohjoinen vaalipiiri,2
+Turku,1990,Kuopion läänin vaalipiiri,1
+Turku,1988,Hämeen läänin eteläinen vaalipiiri,3
+Turku,1992,Kymen läänin vaalipiiri,4
+Turku,1994,Oulun läänin vaalipiiri,1
+Turku,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Turku,1987,Kuopion läänin vaalipiiri,1
+Turku,1986,Vaasan läänin vaalipiiri,1
+Turku,1991,Mikkelin läänin vaalipiiri,1
+Turku,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Turku,1990,Lapin läänin vaalipiiri,1
+Turku,1991,Keski-Suomen läänin vaalipiiri,1
+Turku,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Jyväskylä,1990,Keski-Suomen läänin vaalipiiri,14
+Jyväskylä,1994,Oulun läänin vaalipiiri,4
+Jyväskylä,1989,Vaasan läänin vaalipiiri,3
+Jyväskylä,1989,Keski-Suomen läänin vaalipiiri,20
+Jyväskylä,1992,Keski-Suomen läänin vaalipiiri,13
+Jyväskylä,1988,Uudenmaan läänin vaalipiiri,3
+Jyväskylä,1994,Keski-Suomen läänin vaalipiiri,6
+Jyväskylä,1992,Turun läänin eteläinen vaalipiiri,1
+Jyväskylä,1992,Pohjois-Karjalan läänin vaalipiiri,2
+Jyväskylä,1986,Mikkelin läänin vaalipiiri,3
+Jyväskylä,1988,Hämeen läänin pohjoinen vaalipiiri,3
+Jyväskylä,1990,Helsingin kaupungin vaalipiiri,4
+Jyväskylä,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Jyväskylä,1990,Kuopion läänin vaalipiiri,3
+Jyväskylä,1990,Kymen läänin vaalipiiri,4
+Jyväskylä,1993,Keski-Suomen läänin vaalipiiri,6
+Jyväskylä,1987,Hämeen läänin pohjoinen vaalipiiri,2
+Jyväskylä,1993,Helsingin kaupungin vaalipiiri,1
+Jyväskylä,1993,Vaasan läänin vaalipiiri,3
+Jyväskylä,1990,Turun läänin eteläinen vaalipiiri,1
+Jyväskylä,1988,Turun läänin pohjoinen vaalipiiri,3
+Jyväskylä,1988,Keski-Suomen läänin vaalipiiri,21
+Jyväskylä,1991,Uudenmaan läänin vaalipiiri,2
+Jyväskylä,1986,Hämeen läänin pohjoinen vaalipiiri,2
+Jyväskylä,1989,Uudenmaan läänin vaalipiiri,2
+Jyväskylä,1993,Oulun läänin vaalipiiri,4
+Jyväskylä,1989,Turun läänin pohjoinen vaalipiiri,4
+Jyväskylä,1986,Keski-Suomen läänin vaalipiiri,13
+Jyväskylä,1995,Keski-Suomen läänin vaalipiiri,15
+Jyväskylä,1987,Uudenmaan läänin vaalipiiri,3
+Jyväskylä,1992,Oulun läänin vaalipiiri,1
+Jyväskylä,1989,Oulun läänin vaalipiiri,2
+Jyväskylä,1987,Turun läänin eteläinen vaalipiiri,3
+Jyväskylä,1993,Hämeen läänin pohjoinen vaalipiiri,3
+Jyväskylä,1986,Turun läänin eteläinen vaalipiiri,1
+Jyväskylä,1989,Helsingin kaupungin vaalipiiri,4
+Jyväskylä,1987,Keski-Suomen läänin vaalipiiri,18
+Jyväskylä,1991,Hämeen läänin pohjoinen vaalipiiri,3
+Jyväskylä,1988,Lapin läänin vaalipiiri,3
+Jyväskylä,1994,Pohjois-Karjalan läänin vaalipiiri,2
+Jyväskylä,1991,Kymen läänin vaalipiiri,2
+Jyväskylä,1993,Kuopion läänin vaalipiiri,1
+Jyväskylä,1988,Helsingin kaupungin vaalipiiri,3
+Jyväskylä,1990,Vaasan läänin vaalipiiri,3
+Jyväskylä,1988,Mikkelin läänin vaalipiiri,2
+Jyväskylä,1995,Uudenmaan läänin vaalipiiri,1
+Jyväskylä,1988,Oulun läänin vaalipiiri,4
+Jyväskylä,1995,Kuopion läänin vaalipiiri,1
+Jyväskylä,1986,Helsingin kaupungin vaalipiiri,1
+Jyväskylä,1987,Helsingin kaupungin vaalipiiri,2
+Jyväskylä,1990,Oulun läänin vaalipiiri,2
+Jyväskylä,1990,Uudenmaan läänin vaalipiiri,2
+Jyväskylä,1986,Uudenmaan läänin vaalipiiri,2
+Jyväskylä,1986,Oulun läänin vaalipiiri,3
+Jyväskylä,1991,Turun läänin eteläinen vaalipiiri,1
+Jyväskylä,1989,Lapin läänin vaalipiiri,2
+Jyväskylä,1993,Turun läänin pohjoinen vaalipiiri,2
+Jyväskylä,1994,Turun läänin pohjoinen vaalipiiri,2
+Jyväskylä,1991,Vaasan läänin vaalipiiri,1
+Jyväskylä,1988,Kuopion läänin vaalipiiri,1
+Jyväskylä,1995,Hämeen läänin eteläinen vaalipiiri,1
+Jyväskylä,1989,Kymen läänin vaalipiiri,1
+Jyväskylä,1988,Vaasan läänin vaalipiiri,3
+Jyväskylä,1994,Kuopion läänin vaalipiiri,1
+Jyväskylä,1990,Turun läänin pohjoinen vaalipiiri,1
+Jyväskylä,1987,Mikkelin läänin vaalipiiri,1
+Jyväskylä,1994,Helsingin kaupungin vaalipiiri,2
+Jyväskylä,1986,Hämeen läänin eteläinen vaalipiiri,2
+Jyväskylä,1991,Turun läänin pohjoinen vaalipiiri,1
+Jyväskylä,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Jyväskylä,1987,Oulun läänin vaalipiiri,1
+Jyväskylä,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Jyväskylä,1991,Keski-Suomen läänin vaalipiiri,3
+Jyväskylä,1994,Hämeen läänin eteläinen vaalipiiri,1
+Jyväskylä,1987,Kymen läänin vaalipiiri,1
+Jyväskylä,1986,Kuopion läänin vaalipiiri,2
+Jyväskylä,1986,NaN,1
+Jyväskylä,1986,Lapin läänin vaalipiiri,1
+Jyväskylä,1995,Turun läänin pohjoinen vaalipiiri,1
+Jyväskylä,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Jyväskylä,1988,Hämeen läänin eteläinen vaalipiiri,1
+Jyväskylä,1995,Turun läänin eteläinen vaalipiiri,1
+Jyväskylä,1993,Lapin läänin vaalipiiri,2
+Jyväskylä,1994,Lapin läänin vaalipiiri,1
+Jyväskylä,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Jyväskylä,1995,NaN,1
+Jyväskylä,1989,Kuopion läänin vaalipiiri,1
+Jyväskylä,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Jyväskylä,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Jyväskylä,1987,Hämeen läänin eteläinen vaalipiiri,2
+Jyväskylä,1992,Turun läänin pohjoinen vaalipiiri,1
+Jyväskylä,1992,Uudenmaan läänin vaalipiiri,1
+Kuopio,1991,Kuopion läänin vaalipiiri,36
+Kuopio,1991,Hämeen läänin eteläinen vaalipiiri,4
+Kuopio,1988,Kuopion läänin vaalipiiri,13
+Kuopio,1993,Kuopion läänin vaalipiiri,23
+Kuopio,1987,Kuopion läänin vaalipiiri,12
+Kuopio,1987,Hämeen läänin pohjoinen vaalipiiri,3
+Kuopio,1988,Vaasan läänin vaalipiiri,3
+Kuopio,1987,Mikkelin läänin vaalipiiri,2
+Kuopio,1993,Pohjois-Karjalan läänin vaalipiiri,5
+Kuopio,1987,Pohjois-Karjalan läänin vaalipiiri,2
+Kuopio,1990,Helsingin kaupungin vaalipiiri,3
+Kuopio,1994,Turun läänin eteläinen vaalipiiri,4
+Kuopio,1991,Uudenmaan läänin vaalipiiri,24
+Kuopio,1987,Helsingin kaupungin vaalipiiri,5
+Kuopio,1990,Kuopion läänin vaalipiiri,9
+Kuopio,1986,Hämeen läänin eteläinen vaalipiiri,3
+Kuopio,1987,Uudenmaan läänin vaalipiiri,6
+Kuopio,1993,Turun läänin eteläinen vaalipiiri,6
+Kuopio,1994,Lapin läänin vaalipiiri,1
+Kuopio,1994,Mikkelin läänin vaalipiiri,1
+Kuopio,1986,Uudenmaan läänin vaalipiiri,5
+Kuopio,1989,Uudenmaan läänin vaalipiiri,5
+Kuopio,1988,Oulun läänin vaalipiiri,3
+Kuopio,1987,Vaasan läänin vaalipiiri,3
+Kuopio,1992,Lapin läänin vaalipiiri,1
+Kuopio,1986,Kuopion läänin vaalipiiri,9
+Kuopio,1995,Oulun läänin vaalipiiri,2
+Kuopio,1993,Uudenmaan läänin vaalipiiri,11
+Kuopio,1989,Kuopion läänin vaalipiiri,9
+Kuopio,1991,Pohjois-Karjalan läänin vaalipiiri,2
+Kuopio,1992,Helsingin kaupungin vaalipiiri,4
+Kuopio,1993,Oulun läänin vaalipiiri,6
+Kuopio,1992,Kuopion läänin vaalipiiri,6
+Kuopio,1995,Mikkelin läänin vaalipiiri,5
+Kuopio,1993,Hämeen läänin pohjoinen vaalipiiri,6
+Kuopio,1993,Mikkelin läänin vaalipiiri,2
+Kuopio,1989,Oulun läänin vaalipiiri,5
+Kuopio,1989,Hämeen läänin pohjoinen vaalipiiri,3
+Kuopio,1990,Kymen läänin vaalipiiri,3
+Kuopio,1990,Lapin läänin vaalipiiri,1
+Kuopio,1992,Uudenmaan läänin vaalipiiri,9
+Kuopio,1994,Uudenmaan läänin vaalipiiri,8
+Kuopio,1991,Vaasan läänin vaalipiiri,3
+Kuopio,1990,Mikkelin läänin vaalipiiri,2
+Kuopio,1994,Kuopion läänin vaalipiiri,28
+Kuopio,1992,Keski-Suomen läänin vaalipiiri,7
+Kuopio,1991,Keski-Suomen läänin vaalipiiri,3
+Kuopio,1986,Pohjois-Karjalan läänin vaalipiiri,3
+Kuopio,1986,Mikkelin läänin vaalipiiri,2
+Kuopio,1988,Keski-Suomen läänin vaalipiiri,3
+Kuopio,1993,Keski-Suomen läänin vaalipiiri,1
+Kuopio,1987,Hämeen läänin eteläinen vaalipiiri,2
+Kuopio,1991,Ahvenanmaan maakunnan vaalipiiri,1
+Kuopio,1988,Helsingin kaupungin vaalipiiri,7
+Kuopio,1993,Kymen läänin vaalipiiri,1
+Kuopio,1995,Pohjois-Karjalan läänin vaalipiiri,3
+Kuopio,1992,Hämeen läänin eteläinen vaalipiiri,2
+Kuopio,1993,Turun läänin pohjoinen vaalipiiri,1
+Kuopio,1995,Uudenmaan läänin vaalipiiri,1
+Kuopio,1992,Kymen läänin vaalipiiri,2
+Kuopio,1990,Turun läänin eteläinen vaalipiiri,2
+Kuopio,1988,Uudenmaan läänin vaalipiiri,6
+Kuopio,1994,Oulun läänin vaalipiiri,3
+Kuopio,1995,Hämeen läänin pohjoinen vaalipiiri,2
+Kuopio,1995,Lapin läänin vaalipiiri,2
+Kuopio,1989,Pohjois-Karjalan läänin vaalipiiri,3
+Kuopio,1995,Vaasan läänin vaalipiiri,2
+Kuopio,1987,Oulun läänin vaalipiiri,4
+Kuopio,1989,Keski-Suomen läänin vaalipiiri,5
+Kuopio,1988,Mikkelin läänin vaalipiiri,1
+Kuopio,1995,Turun läänin pohjoinen vaalipiiri,1
+Kuopio,1988,Hämeen läänin eteläinen vaalipiiri,1
+Kuopio,1991,Hämeen läänin pohjoinen vaalipiiri,4
+Kuopio,1986,Turun läänin pohjoinen vaalipiiri,1
+Kuopio,1989,Lapin läänin vaalipiiri,1
+Kuopio,1992,Turun läänin eteläinen vaalipiiri,3
+Kuopio,1989,Vaasan läänin vaalipiiri,2
+Kuopio,1986,Turun läänin eteläinen vaalipiiri,2
+Kuopio,1987,Keski-Suomen läänin vaalipiiri,2
+Kuopio,1993,Vaasan läänin vaalipiiri,2
+Kuopio,1990,Uudenmaan läänin vaalipiiri,2
+Kuopio,1988,Pohjois-Karjalan läänin vaalipiiri,2
+Kuopio,1988,Turun läänin pohjoinen vaalipiiri,2
+Kuopio,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Kuopio,1989,Mikkelin läänin vaalipiiri,1
+Kuopio,1987,Turun läänin eteläinen vaalipiiri,1
+Kuopio,1994,Hämeen läänin eteläinen vaalipiiri,2
+Kuopio,1995,Kuopion läänin vaalipiiri,5
+Kuopio,1993,Helsingin kaupungin vaalipiiri,2
+Kuopio,1994,Helsingin kaupungin vaalipiiri,5
+Kuopio,1986,Oulun läänin vaalipiiri,2
+Kuopio,1989,Turun läänin eteläinen vaalipiiri,1
+Kuopio,1990,Oulun läänin vaalipiiri,3
+Kuopio,1992,Mikkelin läänin vaalipiiri,1
+Kuopio,1991,Turun läänin eteläinen vaalipiiri,1
+Kuopio,1988,Kymen läänin vaalipiiri,1
+Kuopio,1992,Pohjois-Karjalan läänin vaalipiiri,2
+Kuopio,1987,Kymen läänin vaalipiiri,1
+Kuopio,1995,Helsingin kaupungin vaalipiiri,1
+Kuopio,1991,Oulun läänin vaalipiiri,2
+Kuopio,1991,Turun läänin pohjoinen vaalipiiri,1
+Kuopio,1989,Turun läänin pohjoinen vaalipiiri,2
+Kuopio,1990,Turun läänin pohjoinen vaalipiiri,1
+Kuopio,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Kuopio,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Kuopio,1988,NaN,1
+Kuopio,1991,Mikkelin läänin vaalipiiri,1
+Kuopio,1992,Vaasan läänin vaalipiiri,1
+Kuopio,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Kuopio,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Kuopio,1991,Lapin läänin vaalipiiri,1
+Kuopio,1992,Turun läänin pohjoinen vaalipiiri,1
+Kuopio,1990,Vaasan läänin vaalipiiri,1
+Lahti,1986,Uudenmaan läänin vaalipiiri,3
+Lahti,1995,Hämeen läänin pohjoinen vaalipiiri,4
+Lahti,1995,Vaasan läänin vaalipiiri,3
+Lahti,1986,Hämeen läänin eteläinen vaalipiiri,24
+Lahti,1986,Kuopion läänin vaalipiiri,2
+Lahti,1990,Hämeen läänin eteläinen vaalipiiri,6
+Lahti,1992,Uudenmaan läänin vaalipiiri,2
+Lahti,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Lahti,1993,Vaasan läänin vaalipiiri,1
+Lahti,1987,Hämeen läänin eteläinen vaalipiiri,9
+Lahti,1988,Kymen läänin vaalipiiri,2
+Lahti,1989,Hämeen läänin pohjoinen vaalipiiri,2
+Lahti,1990,Hämeen läänin pohjoinen vaalipiiri,4
+Lahti,1993,Hämeen läänin eteläinen vaalipiiri,14
+Lahti,1987,Helsingin kaupungin vaalipiiri,4
+Lahti,1995,Mikkelin läänin vaalipiiri,4
+Lahti,1986,Keski-Suomen läänin vaalipiiri,2
+Lahti,1994,Hämeen läänin pohjoinen vaalipiiri,3
+Lahti,1993,Kymen läänin vaalipiiri,5
+Lahti,1990,Kymen läänin vaalipiiri,4
+Lahti,1990,Turun läänin pohjoinen vaalipiiri,2
+Lahti,1990,Oulun läänin vaalipiiri,3
+Lahti,1993,Mikkelin läänin vaalipiiri,6
+Lahti,1988,Hämeen läänin eteläinen vaalipiiri,5
+Lahti,1991,Hämeen läänin eteläinen vaalipiiri,4
+Lahti,1986,Mikkelin läänin vaalipiiri,4
+Lahti,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Lahti,1995,Turun läänin eteläinen vaalipiiri,1
+Lahti,1989,Uudenmaan läänin vaalipiiri,6
+Lahti,1993,Uudenmaan läänin vaalipiiri,3
+Lahti,1995,Hämeen läänin eteläinen vaalipiiri,8
+Lahti,1986,Turun läänin pohjoinen vaalipiiri,1
+Lahti,1988,Mikkelin läänin vaalipiiri,1
+Lahti,1995,Lapin läänin vaalipiiri,4
+Lahti,1995,Oulun läänin vaalipiiri,2
+Lahti,1993,Kuopion läänin vaalipiiri,2
+Lahti,1989,Helsingin kaupungin vaalipiiri,1
+Lahti,1989,Hämeen läänin eteläinen vaalipiiri,2
+Lahti,1991,Helsingin kaupungin vaalipiiri,1
+Lahti,1991,Hämeen läänin pohjoinen vaalipiiri,2
+Lahti,1987,Kuopion läänin vaalipiiri,2
+Lahti,1987,Uudenmaan läänin vaalipiiri,1
+Lahti,1995,Helsingin kaupungin vaalipiiri,1
+Lahti,1994,Hämeen läänin eteläinen vaalipiiri,9
+Lahti,1988,Keski-Suomen läänin vaalipiiri,2
+Lahti,1993,Pohjois-Karjalan läänin vaalipiiri,3
+Lahti,1992,Hämeen läänin eteläinen vaalipiiri,6
+Lahti,1988,Kuopion läänin vaalipiiri,1
+Lahti,1994,Keski-Suomen läänin vaalipiiri,1
+Lahti,1988,Uudenmaan läänin vaalipiiri,2
+Lahti,1995,Uudenmaan läänin vaalipiiri,2
+Lahti,1995,NaN,1
+Lahti,1988,Oulun läänin vaalipiiri,2
+Lahti,1990,Uudenmaan läänin vaalipiiri,2
+Lahti,1992,Mikkelin läänin vaalipiiri,1
+Lahti,1992,Turun läänin pohjoinen vaalipiiri,1
+Lahti,1990,Vaasan läänin vaalipiiri,2
+Lahti,1986,Turun läänin eteläinen vaalipiiri,2
+Lahti,1989,Turun läänin pohjoinen vaalipiiri,1
+Lahti,1988,Turun läänin eteläinen vaalipiiri,1
+Lahti,1992,Kymen läänin vaalipiiri,2
+Lahti,1993,Hämeen läänin pohjoinen vaalipiiri,3
+Lahti,1988,Helsingin kaupungin vaalipiiri,3
+Lahti,1990,Lapin läänin vaalipiiri,1
+Lahti,1993,Oulun läänin vaalipiiri,1
+Lahti,1993,Turun läänin eteläinen vaalipiiri,1
+Lahti,1992,Oulun läänin vaalipiiri,1
+Lahti,1989,Oulun läänin vaalipiiri,1
+Lahti,1995,Keski-Suomen läänin vaalipiiri,1
+Lahti,1992,Vaasan läänin vaalipiiri,1
+Lahti,1994,Uudenmaan läänin vaalipiiri,3
+Lahti,1993,Turun läänin pohjoinen vaalipiiri,1
+Lahti,1986,Vaasan läänin vaalipiiri,1
+Lahti,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Lahti,1989,Lapin läänin vaalipiiri,1
+Lahti,1986,Helsingin kaupungin vaalipiiri,1
+Lahti,1991,Kymen läänin vaalipiiri,1
+Lahti,1989,Keski-Suomen läänin vaalipiiri,2
+Lahti,1995,Kymen läänin vaalipiiri,3
+Lahti,1991,Turun läänin eteläinen vaalipiiri,1
+Lahti,1994,Kymen läänin vaalipiiri,1
+Lahti,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Lahti,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Lahti,1990,Mikkelin läänin vaalipiiri,1
+Lahti,1992,Lapin läänin vaalipiiri,1
+Lahti,1994,Mikkelin läänin vaalipiiri,2
+Lahti,1989,Kymen läänin vaalipiiri,1
+Lahti,1987,Mikkelin läänin vaalipiiri,1
+Lahti,1995,Kuopion läänin vaalipiiri,1
+Lahti,1987,Oulun läänin vaalipiiri,1
+Lahti,1990,NaN,1
+Pori,1986,Helsingin kaupungin vaalipiiri,5
+Pori,1988,Pohjois-Karjalan läänin vaalipiiri,2
+Pori,1990,Turun läänin pohjoinen vaalipiiri,15
+Pori,1993,Turun läänin pohjoinen vaalipiiri,16
+Pori,1995,Turun läänin pohjoinen vaalipiiri,9
+Pori,1988,Turun läänin pohjoinen vaalipiiri,27
+Pori,1989,Turun läänin pohjoinen vaalipiiri,27
+Pori,1986,Turun läänin pohjoinen vaalipiiri,19
+Pori,1987,Turun läänin pohjoinen vaalipiiri,25
+Pori,1995,Keski-Suomen läänin vaalipiiri,2
+Pori,1991,Turun läänin pohjoinen vaalipiiri,7
+Pori,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Pori,1986,Hämeen läänin eteläinen vaalipiiri,3
+Pori,1990,Uudenmaan läänin vaalipiiri,7
+Pori,1992,Uudenmaan läänin vaalipiiri,2
+Pori,1989,Vaasan läänin vaalipiiri,6
+Pori,1987,Kuopion läänin vaalipiiri,2
+Pori,1995,Vaasan läänin vaalipiiri,1
+Pori,1989,Helsingin kaupungin vaalipiiri,12
+Pori,1988,Turun läänin eteläinen vaalipiiri,7
+Pori,1989,Turun läänin eteläinen vaalipiiri,2
+Pori,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Pori,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Pori,1989,Uudenmaan läänin vaalipiiri,3
+Pori,1990,Hämeen läänin pohjoinen vaalipiiri,4
+Pori,1994,Turun läänin eteläinen vaalipiiri,2
+Pori,1994,Turun läänin pohjoinen vaalipiiri,7
+Pori,1989,Kymen läänin vaalipiiri,4
+Pori,1988,Mikkelin läänin vaalipiiri,1
+Pori,1987,Oulun läänin vaalipiiri,2
+Pori,1994,Oulun läänin vaalipiiri,1
+Pori,1987,Mikkelin läänin vaalipiiri,1
+Pori,1989,Mikkelin läänin vaalipiiri,1
+Pori,1988,Hämeen läänin eteläinen vaalipiiri,2
+Pori,1992,Turun läänin pohjoinen vaalipiiri,7
+Pori,1987,Kymen läänin vaalipiiri,1
+Pori,1995,Turun läänin eteläinen vaalipiiri,1
+Pori,1986,Turun läänin eteläinen vaalipiiri,5
+Pori,1991,Helsingin kaupungin vaalipiiri,2
+Pori,1988,Oulun läänin vaalipiiri,5
+Pori,1992,Helsingin kaupungin vaalipiiri,3
+Pori,1993,Turun läänin eteläinen vaalipiiri,3
+Pori,1987,Lapin läänin vaalipiiri,1
+Pori,1990,Kymen läänin vaalipiiri,1
+Pori,1993,Kymen läänin vaalipiiri,6
+Pori,1993,Oulun läänin vaalipiiri,2
+Pori,1990,Hämeen läänin eteläinen vaalipiiri,1
+Pori,1987,Helsingin kaupungin vaalipiiri,4
+Pori,1990,Vaasan läänin vaalipiiri,2
+Pori,1989,Hämeen läänin pohjoinen vaalipiiri,2
+Pori,1986,Mikkelin läänin vaalipiiri,1
+Pori,1986,Kuopion läänin vaalipiiri,3
+Pori,1988,Uudenmaan läänin vaalipiiri,3
+Pori,1988,Helsingin kaupungin vaalipiiri,4
+Pori,1995,Kuopion läänin vaalipiiri,1
+Pori,1988,Lapin läänin vaalipiiri,1
+Pori,1990,Helsingin kaupungin vaalipiiri,2
+Pori,1989,Lapin läänin vaalipiiri,1
+Pori,1995,Uudenmaan läänin vaalipiiri,1
+Pori,1986,Oulun läänin vaalipiiri,2
+Pori,1995,Kymen läänin vaalipiiri,1
+Pori,1992,Oulun läänin vaalipiiri,1
+Pori,1987,Vaasan läänin vaalipiiri,1
+Pori,1994,Helsingin kaupungin vaalipiiri,1
+Pori,1986,Uudenmaan läänin vaalipiiri,4
+Pori,1990,Oulun läänin vaalipiiri,1
+Pori,1987,Uudenmaan läänin vaalipiiri,1
+Pori,1987,Hämeen läänin eteläinen vaalipiiri,2
+Pori,1987,NaN,1
+Pori,1993,Helsingin kaupungin vaalipiiri,1
+Pori,1990,Lapin läänin vaalipiiri,1
+Pori,1987,Turun läänin eteläinen vaalipiiri,2
+Pori,1986,Vaasan läänin vaalipiiri,1
+Pori,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Pori,1991,Kymen läänin vaalipiiri,1
+Pori,1988,Keski-Suomen läänin vaalipiiri,1
+Pori,1993,Pohjois-Karjalan läänin vaalipiiri,2
+Pori,1990,Turun läänin eteläinen vaalipiiri,1
+Pori,1989,Oulun läänin vaalipiiri,1
+Pori,1995,Lapin läänin vaalipiiri,1
+Pori,1986,NaN,2
+Pori,1992,Turun läänin eteläinen vaalipiiri,2
+Pori,1995,Oulun läänin vaalipiiri,1
+Pori,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Pori,1986,Kymen läänin vaalipiiri,2
+Kouvola,1987,Hämeen läänin pohjoinen vaalipiiri,2
+Kouvola,1990,Helsingin kaupungin vaalipiiri,2
+Kouvola,1993,Kymen läänin vaalipiiri,9
+Kouvola,1986,Turun läänin eteläinen vaalipiiri,1
+Kouvola,1990,Kymen läänin vaalipiiri,6
+Kouvola,1994,Kymen läänin vaalipiiri,4
+Kouvola,1994,Vaasan läänin vaalipiiri,1
+Kouvola,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Kouvola,1988,Turun läänin eteläinen vaalipiiri,1
+Kouvola,1990,Hämeen läänin eteläinen vaalipiiri,1
+Kouvola,1993,Mikkelin läänin vaalipiiri,5
+Kouvola,1987,Keski-Suomen läänin vaalipiiri,1
+Kouvola,1987,Kymen läänin vaalipiiri,2
+Kouvola,1994,Hämeen läänin eteläinen vaalipiiri,1
+Kouvola,1986,NaN,1
+Kouvola,1992,Turun läänin pohjoinen vaalipiiri,2
+Kouvola,1990,Lapin läänin vaalipiiri,1
+Kouvola,1993,Pohjois-Karjalan läänin vaalipiiri,4
+Kouvola,1989,Kymen läänin vaalipiiri,1
+Kouvola,1995,Kymen läänin vaalipiiri,2
+Kouvola,1986,Hämeen läänin eteläinen vaalipiiri,1
+Kouvola,1987,Vaasan läänin vaalipiiri,1
+Kouvola,1991,Kymen läänin vaalipiiri,2
+Kouvola,1993,Vaasan läänin vaalipiiri,2
+Kouvola,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Kouvola,1990,Kuopion läänin vaalipiiri,2
+Kouvola,1988,Uudenmaan läänin vaalipiiri,2
+Kouvola,1990,Uudenmaan läänin vaalipiiri,1
+Kouvola,1992,Kymen läänin vaalipiiri,3
+Kouvola,1986,Helsingin kaupungin vaalipiiri,2
+Kouvola,1988,Kymen läänin vaalipiiri,1
+Kouvola,1994,Keski-Suomen läänin vaalipiiri,1
+Kouvola,1987,Hämeen läänin eteläinen vaalipiiri,1
+Kouvola,1995,Uudenmaan läänin vaalipiiri,2
+Kouvola,1995,Oulun läänin vaalipiiri,1
+Kouvola,1995,Keski-Suomen läänin vaalipiiri,1
+Kouvola,1986,Turun läänin pohjoinen vaalipiiri,1
+Kouvola,1986,Uudenmaan läänin vaalipiiri,1
+Kouvola,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Kouvola,1986,Kymen läänin vaalipiiri,1
+Kouvola,1994,Mikkelin läänin vaalipiiri,1
+Kouvola,1995,Helsingin kaupungin vaalipiiri,1
+Kouvola,1990,Vaasan läänin vaalipiiri,1
+Kouvola,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Joensuu,1993,Uudenmaan läänin vaalipiiri,2
+Joensuu,1989,Pohjois-Karjalan läänin vaalipiiri,10
+Joensuu,1987,Helsingin kaupungin vaalipiiri,5
+Joensuu,1993,Pohjois-Karjalan läänin vaalipiiri,8
+Joensuu,1994,Oulun läänin vaalipiiri,2
+Joensuu,1987,Keski-Suomen läänin vaalipiiri,4
+Joensuu,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Joensuu,1995,Pohjois-Karjalan läänin vaalipiiri,13
+Joensuu,1987,Kuopion läänin vaalipiiri,1
+Joensuu,1986,Pohjois-Karjalan läänin vaalipiiri,7
+Joensuu,1994,Turun läänin eteläinen vaalipiiri,3
+Joensuu,1988,Oulun läänin vaalipiiri,4
+Joensuu,1994,Pohjois-Karjalan läänin vaalipiiri,7
+Joensuu,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Joensuu,1989,Oulun läänin vaalipiiri,8
+Joensuu,1992,Helsingin kaupungin vaalipiiri,2
+Joensuu,1992,Oulun läänin vaalipiiri,5
+Joensuu,1993,Turun läänin eteläinen vaalipiiri,1
+Joensuu,1987,Lapin läänin vaalipiiri,2
+Joensuu,1986,Mikkelin läänin vaalipiiri,4
+Joensuu,1986,Kuopion läänin vaalipiiri,1
+Joensuu,1987,Hämeen läänin eteläinen vaalipiiri,5
+Joensuu,1986,Uudenmaan läänin vaalipiiri,6
+Joensuu,1991,Mikkelin läänin vaalipiiri,1
+Joensuu,1988,Uudenmaan läänin vaalipiiri,4
+Joensuu,1987,Vaasan läänin vaalipiiri,7
+Joensuu,1987,Uudenmaan läänin vaalipiiri,8
+Joensuu,1991,Pohjois-Karjalan läänin vaalipiiri,7
+Joensuu,1990,Kymen läänin vaalipiiri,1
+Joensuu,1988,Pohjois-Karjalan läänin vaalipiiri,17
+Joensuu,1987,Pohjois-Karjalan läänin vaalipiiri,11
+Joensuu,1994,Helsingin kaupungin vaalipiiri,1
+Joensuu,1986,Helsingin kaupungin vaalipiiri,2
+Joensuu,1990,Helsingin kaupungin vaalipiiri,1
+Joensuu,1995,Lapin läänin vaalipiiri,1
+Joensuu,1987,Turun läänin pohjoinen vaalipiiri,4
+Joensuu,1988,Turun läänin pohjoinen vaalipiiri,3
+Joensuu,1994,Kuopion läänin vaalipiiri,1
+Joensuu,1986,Oulun läänin vaalipiiri,2
+Joensuu,1988,Kymen läänin vaalipiiri,1
+Joensuu,1989,Hämeen läänin pohjoinen vaalipiiri,2
+Joensuu,1992,Pohjois-Karjalan läänin vaalipiiri,7
+Joensuu,1987,Oulun läänin vaalipiiri,3
+Joensuu,1995,Keski-Suomen läänin vaalipiiri,1
+Joensuu,1991,Helsingin kaupungin vaalipiiri,1
+Joensuu,1992,Kymen läänin vaalipiiri,1
+Joensuu,1988,Hämeen läänin eteläinen vaalipiiri,1
+Joensuu,1995,Helsingin kaupungin vaalipiiri,2
+Joensuu,1989,Kuopion läänin vaalipiiri,2
+Joensuu,1993,Vaasan läänin vaalipiiri,1
+Joensuu,1989,Uudenmaan läänin vaalipiiri,2
+Joensuu,1988,Mikkelin läänin vaalipiiri,2
+Joensuu,1995,Vaasan läänin vaalipiiri,3
+Joensuu,1989,Turun läänin pohjoinen vaalipiiri,1
+Joensuu,1988,Vaasan läänin vaalipiiri,1
+Joensuu,1995,Kymen läänin vaalipiiri,2
+Joensuu,1988,Keski-Suomen läänin vaalipiiri,1
+Joensuu,1987,Kymen läänin vaalipiiri,2
+Joensuu,1993,Mikkelin läänin vaalipiiri,2
+Joensuu,1990,Pohjois-Karjalan läänin vaalipiiri,6
+Joensuu,1991,Vaasan läänin vaalipiiri,2
+Joensuu,1986,Lapin läänin vaalipiiri,1
+Joensuu,1993,Kuopion läänin vaalipiiri,1
+Joensuu,1994,Keski-Suomen läänin vaalipiiri,2
+Joensuu,1992,Turun läänin pohjoinen vaalipiiri,1
+Joensuu,1990,Hämeen läänin pohjoinen vaalipiiri,2
+Joensuu,1991,Uudenmaan läänin vaalipiiri,1
+Joensuu,1991,Turun läänin pohjoinen vaalipiiri,1
+Joensuu,1991,Oulun läänin vaalipiiri,2
+Joensuu,1987,Turun läänin eteläinen vaalipiiri,3
+Joensuu,1993,Keski-Suomen läänin vaalipiiri,1
+Joensuu,1988,Kuopion läänin vaalipiiri,1
+Joensuu,1986,Hämeen läänin eteläinen vaalipiiri,1
+Joensuu,1989,Turun läänin eteläinen vaalipiiri,1
+Joensuu,1988,Helsingin kaupungin vaalipiiri,4
+Joensuu,1995,Uudenmaan läänin vaalipiiri,2
+Joensuu,1993,Helsingin kaupungin vaalipiiri,1
+Joensuu,1990,Kuopion läänin vaalipiiri,1
+Joensuu,1990,Oulun läänin vaalipiiri,1
+Joensuu,1990,Turun läänin eteläinen vaalipiiri,1
+Joensuu,1990,Uudenmaan läänin vaalipiiri,1
+Joensuu,1995,Hämeen läänin pohjoinen vaalipiiri,2
+Joensuu,1990,Hämeen läänin eteläinen vaalipiiri,1
+Joensuu,1993,Kymen läänin vaalipiiri,1
+Joensuu,1992,Kuopion läänin vaalipiiri,1
+Joensuu,1986,Turun läänin eteläinen vaalipiiri,1
+Joensuu,1991,Kymen läänin vaalipiiri,1
+Joensuu,1993,Hämeen läänin eteläinen vaalipiiri,1
+Joensuu,1989,Mikkelin läänin vaalipiiri,1
+Joensuu,1995,Mikkelin läänin vaalipiiri,1
+Joensuu,1993,Oulun läänin vaalipiiri,1
+Lappeenranta,1993,Kymen läänin vaalipiiri,2
+Lappeenranta,1986,Helsingin kaupungin vaalipiiri,1
+Lappeenranta,1990,Kymen läänin vaalipiiri,7
+Lappeenranta,1988,Mikkelin läänin vaalipiiri,1
+Lappeenranta,1988,Turun läänin eteläinen vaalipiiri,1
+Lappeenranta,1992,Kymen läänin vaalipiiri,1
+Lappeenranta,1987,Kymen läänin vaalipiiri,5
+Lappeenranta,1990,Uudenmaan läänin vaalipiiri,4
+Lappeenranta,1988,Kymen läänin vaalipiiri,5
+Lappeenranta,1989,Turun läänin pohjoinen vaalipiiri,1
+Lappeenranta,1991,Kymen läänin vaalipiiri,1
+Lappeenranta,1989,Kymen läänin vaalipiiri,2
+Lappeenranta,1986,Kymen läänin vaalipiiri,4
+Lappeenranta,1993,Uudenmaan läänin vaalipiiri,1
+Lappeenranta,1993,Turun läänin eteläinen vaalipiiri,2
+Lappeenranta,1991,Turun läänin eteläinen vaalipiiri,2
+Lappeenranta,1994,Turun läänin eteläinen vaalipiiri,1
+Lappeenranta,1989,Turun läänin eteläinen vaalipiiri,1
+Lappeenranta,1994,Kymen läänin vaalipiiri,4
+Lappeenranta,1990,Oulun läänin vaalipiiri,1
+Lappeenranta,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Lappeenranta,1994,Kuopion läänin vaalipiiri,1
+Lappeenranta,1987,Uudenmaan läänin vaalipiiri,1
+Lappeenranta,1986,Turun läänin pohjoinen vaalipiiri,1
+Lappeenranta,1988,Keski-Suomen läänin vaalipiiri,1
+Lappeenranta,1988,Oulun läänin vaalipiiri,1
+Lappeenranta,1986,Mikkelin läänin vaalipiiri,1
+Lappeenranta,1987,Oulun läänin vaalipiiri,1
+Lappeenranta,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Lappeenranta,1987,Keski-Suomen läänin vaalipiiri,1
+Lappeenranta,1995,Uudenmaan läänin vaalipiiri,1
+Lappeenranta,1990,Turun läänin eteläinen vaalipiiri,1
+Lappeenranta,1987,Hämeen läänin pohjoinen vaalipiiri,3
+Lappeenranta,1987,Vaasan läänin vaalipiiri,1
+Lappeenranta,1990,Turun läänin pohjoinen vaalipiiri,1
+Lappeenranta,1990,Vaasan läänin vaalipiiri,1
+Lappeenranta,1995,Turun läänin eteläinen vaalipiiri,1
+Lappeenranta,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Hämeenlinna,1987,Hämeen läänin eteläinen vaalipiiri,8
+Hämeenlinna,1988,Hämeen läänin eteläinen vaalipiiri,10
+Hämeenlinna,1990,Hämeen läänin pohjoinen vaalipiiri,6
+Hämeenlinna,1988,Oulun läänin vaalipiiri,1
+Hämeenlinna,1986,Hämeen läänin eteläinen vaalipiiri,9
+Hämeenlinna,1987,Hämeen läänin pohjoinen vaalipiiri,6
+Hämeenlinna,1986,Oulun läänin vaalipiiri,1
+Hämeenlinna,1990,Hämeen läänin eteläinen vaalipiiri,5
+Hämeenlinna,1991,Hämeen läänin eteläinen vaalipiiri,1
+Hämeenlinna,1993,Uudenmaan läänin vaalipiiri,1
+Hämeenlinna,1993,Turun läänin pohjoinen vaalipiiri,2
+Hämeenlinna,1989,Hämeen läänin eteläinen vaalipiiri,9
+Hämeenlinna,1987,Helsingin kaupungin vaalipiiri,1
+Hämeenlinna,1990,Kymen läänin vaalipiiri,1
+Hämeenlinna,1995,Uudenmaan läänin vaalipiiri,2
+Hämeenlinna,1994,Hämeen läänin pohjoinen vaalipiiri,7
+Hämeenlinna,1994,Hämeen läänin eteläinen vaalipiiri,1
+Hämeenlinna,1987,Keski-Suomen läänin vaalipiiri,1
+Hämeenlinna,1992,Hämeen läänin pohjoinen vaalipiiri,6
+Hämeenlinna,1990,Helsingin kaupungin vaalipiiri,2
+Hämeenlinna,1993,Hämeen läänin pohjoinen vaalipiiri,7
+Hämeenlinna,1995,Keski-Suomen läänin vaalipiiri,2
+Hämeenlinna,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Hämeenlinna,1990,Vaasan läänin vaalipiiri,2
+Hämeenlinna,1991,Turun läänin eteläinen vaalipiiri,2
+Hämeenlinna,1990,Turun läänin pohjoinen vaalipiiri,2
+Hämeenlinna,1988,Hämeen läänin pohjoinen vaalipiiri,4
+Hämeenlinna,1989,Turun läänin pohjoinen vaalipiiri,1
+Hämeenlinna,1988,Helsingin kaupungin vaalipiiri,3
+Hämeenlinna,1992,Helsingin kaupungin vaalipiiri,1
+Hämeenlinna,1989,Uudenmaan läänin vaalipiiri,4
+Hämeenlinna,1987,Oulun läänin vaalipiiri,1
+Hämeenlinna,1986,Helsingin kaupungin vaalipiiri,6
+Hämeenlinna,1994,Turun läänin pohjoinen vaalipiiri,1
+Hämeenlinna,1993,Mikkelin läänin vaalipiiri,1
+Hämeenlinna,1990,NaN,1
+Hämeenlinna,1994,Uudenmaan läänin vaalipiiri,1
+Hämeenlinna,1995,Hämeen läänin pohjoinen vaalipiiri,3
+Hämeenlinna,1987,Kymen läänin vaalipiiri,1
+Hämeenlinna,1993,Keski-Suomen läänin vaalipiiri,1
+Hämeenlinna,1988,Uudenmaan läänin vaalipiiri,2
+Hämeenlinna,1993,Hämeen läänin eteläinen vaalipiiri,2
+Hämeenlinna,1986,Uudenmaan läänin vaalipiiri,2
+Hämeenlinna,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Hämeenlinna,1986,Turun läänin pohjoinen vaalipiiri,1
+Hämeenlinna,1992,Hämeen läänin eteläinen vaalipiiri,1
+Hämeenlinna,1987,Turun läänin eteläinen vaalipiiri,2
+Hämeenlinna,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Hämeenlinna,1994,Helsingin kaupungin vaalipiiri,1
+Hämeenlinna,1989,Helsingin kaupungin vaalipiiri,1
+Hämeenlinna,1994,Keski-Suomen läänin vaalipiiri,1
+Hämeenlinna,1991,Helsingin kaupungin vaalipiiri,1
+Hämeenlinna,1989,Oulun läänin vaalipiiri,1
+Hämeenlinna,1994,Lapin läänin vaalipiiri,1
+Hämeenlinna,1987,Uudenmaan läänin vaalipiiri,1
+Vaasa,1991,Vaasan läänin vaalipiiri,29
+Vaasa,1989,Vaasan läänin vaalipiiri,8
+Vaasa,1988,Mikkelin läänin vaalipiiri,2
+Vaasa,1987,Uudenmaan läänin vaalipiiri,7
+Vaasa,1990,Vaasan läänin vaalipiiri,28
+Vaasa,1990,Kymen läänin vaalipiiri,3
+Vaasa,1991,Turun läänin eteläinen vaalipiiri,2
+Vaasa,1991,Uudenmaan läänin vaalipiiri,4
+Vaasa,1993,Turun läänin eteläinen vaalipiiri,4
+Vaasa,1986,Vaasan läänin vaalipiiri,30
+Vaasa,1991,Oulun läänin vaalipiiri,3
+Vaasa,1992,Vaasan läänin vaalipiiri,12
+Vaasa,1989,Mikkelin läänin vaalipiiri,1
+Vaasa,1990,Hämeen läänin pohjoinen vaalipiiri,3
+Vaasa,1989,Turun läänin eteläinen vaalipiiri,1
+Vaasa,1988,Hämeen läänin eteläinen vaalipiiri,1
+Vaasa,1990,Pohjois-Karjalan läänin vaalipiiri,2
+Vaasa,1987,Vaasan läänin vaalipiiri,19
+Vaasa,1986,Uudenmaan läänin vaalipiiri,5
+Vaasa,1988,Vaasan läänin vaalipiiri,17
+Vaasa,1990,Helsingin kaupungin vaalipiiri,7
+Vaasa,1993,Vaasan läänin vaalipiiri,15
+Vaasa,1995,Turun läänin eteläinen vaalipiiri,1
+Vaasa,1991,Turun läänin pohjoinen vaalipiiri,3
+Vaasa,1986,Turun läänin eteläinen vaalipiiri,3
+Vaasa,1994,Vaasan läänin vaalipiiri,3
+Vaasa,1994,Keski-Suomen läänin vaalipiiri,2
+Vaasa,1993,Oulun läänin vaalipiiri,4
+Vaasa,1987,Hämeen läänin eteläinen vaalipiiri,2
+Vaasa,1986,Hämeen läänin eteläinen vaalipiiri,5
+Vaasa,1988,Kuopion läänin vaalipiiri,1
+Vaasa,1995,Kymen läänin vaalipiiri,1
+Vaasa,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Vaasa,1995,Vaasan läänin vaalipiiri,4
+Vaasa,1994,Helsingin kaupungin vaalipiiri,2
+Vaasa,1992,Kuopion läänin vaalipiiri,1
+Vaasa,1987,Kuopion läänin vaalipiiri,1
+Vaasa,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Vaasa,1993,Mikkelin läänin vaalipiiri,1
+Vaasa,1991,Kymen läänin vaalipiiri,2
+Vaasa,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Vaasa,1992,Hämeen läänin eteläinen vaalipiiri,1
+Vaasa,1994,Turun läänin pohjoinen vaalipiiri,2
+Vaasa,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Vaasa,1988,Uudenmaan läänin vaalipiiri,2
+Vaasa,1993,Turun läänin pohjoinen vaalipiiri,3
+Vaasa,1989,Helsingin kaupungin vaalipiiri,2
+Vaasa,1994,Turun läänin eteläinen vaalipiiri,2
+Vaasa,1990,Turun läänin eteläinen vaalipiiri,1
+Vaasa,1988,Lapin läänin vaalipiiri,2
+Vaasa,1992,Uudenmaan läänin vaalipiiri,1
+Vaasa,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Vaasa,1989,Oulun läänin vaalipiiri,3
+Vaasa,1990,Uudenmaan läänin vaalipiiri,2
+Vaasa,1989,Lapin läänin vaalipiiri,3
+Vaasa,1989,Turun läänin pohjoinen vaalipiiri,1
+Vaasa,1988,Helsingin kaupungin vaalipiiri,2
+Vaasa,1989,Kymen läänin vaalipiiri,3
+Vaasa,1991,Hämeen läänin pohjoinen vaalipiiri,2
+Vaasa,1987,NaN,1
+Vaasa,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Vaasa,1987,Turun läänin eteläinen vaalipiiri,1
+Vaasa,1988,Kymen läänin vaalipiiri,2
+Vaasa,1993,Uudenmaan läänin vaalipiiri,1
+Vaasa,1992,Helsingin kaupungin vaalipiiri,1
+Vaasa,1993,Hämeen läänin pohjoinen vaalipiiri,5
+Vaasa,1990,Oulun läänin vaalipiiri,2
+Vaasa,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Vaasa,1993,Kuopion läänin vaalipiiri,2
+Vaasa,1987,Keski-Suomen läänin vaalipiiri,1
+Vaasa,1987,Hämeen läänin pohjoinen vaalipiiri,2
+Vaasa,1986,Oulun läänin vaalipiiri,1
+Vaasa,1986,Lapin läänin vaalipiiri,3
+Vaasa,1994,Uudenmaan läänin vaalipiiri,1
+Vaasa,1987,Kymen läänin vaalipiiri,1
+Vaasa,1986,Hämeen läänin pohjoinen vaalipiiri,2
+Vaasa,1991,Hämeen läänin eteläinen vaalipiiri,1
+Vaasa,1994,Kuopion läänin vaalipiiri,2
+Vaasa,1988,Oulun läänin vaalipiiri,1
+Vaasa,1989,Keski-Suomen läänin vaalipiiri,1
+Vaasa,1993,Keski-Suomen läänin vaalipiiri,2
+Vaasa,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Vaasa,1990,Kuopion läänin vaalipiiri,1
+Vaasa,1991,Lapin läänin vaalipiiri,1
+Vaasa,1992,Keski-Suomen läänin vaalipiiri,1
+Vaasa,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Vaasa,1988,Turun läänin eteläinen vaalipiiri,1
+Seinäjoki,1991,Vaasan läänin vaalipiiri,9
+Seinäjoki,1989,Turun läänin eteläinen vaalipiiri,1
+Seinäjoki,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Seinäjoki,1986,Vaasan läänin vaalipiiri,9
+Seinäjoki,1988,Vaasan läänin vaalipiiri,5
+Seinäjoki,1992,Vaasan läänin vaalipiiri,1
+Seinäjoki,1993,Lapin läänin vaalipiiri,1
+Seinäjoki,1994,Hämeen läänin eteläinen vaalipiiri,1
+Seinäjoki,1986,Uudenmaan läänin vaalipiiri,2
+Seinäjoki,1990,Vaasan läänin vaalipiiri,11
+Seinäjoki,1989,Vaasan läänin vaalipiiri,4
+Seinäjoki,1990,Helsingin kaupungin vaalipiiri,1
+Seinäjoki,1986,Hämeen läänin eteläinen vaalipiiri,3
+Seinäjoki,1988,Lapin läänin vaalipiiri,1
+Seinäjoki,1995,Hämeen läänin pohjoinen vaalipiiri,2
+Seinäjoki,1986,Keski-Suomen läänin vaalipiiri,1
+Seinäjoki,1992,Oulun läänin vaalipiiri,2
+Seinäjoki,1989,Mikkelin läänin vaalipiiri,1
+Seinäjoki,1988,Helsingin kaupungin vaalipiiri,1
+Seinäjoki,1993,Vaasan läänin vaalipiiri,5
+Seinäjoki,1987,Vaasan läänin vaalipiiri,4
+Seinäjoki,1988,Keski-Suomen läänin vaalipiiri,2
+Seinäjoki,1987,Hämeen läänin pohjoinen vaalipiiri,2
+Seinäjoki,1987,Pohjois-Karjalan läänin vaalipiiri,2
+Seinäjoki,1988,Hämeen läänin eteläinen vaalipiiri,1
+Seinäjoki,1988,Mikkelin läänin vaalipiiri,1
+Seinäjoki,1986,Mikkelin läänin vaalipiiri,2
+Seinäjoki,1989,Turun läänin pohjoinen vaalipiiri,1
+Seinäjoki,1988,Oulun läänin vaalipiiri,2
+Seinäjoki,1986,Lapin läänin vaalipiiri,1
+Seinäjoki,1990,Oulun läänin vaalipiiri,1
+Seinäjoki,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Seinäjoki,1995,Vaasan läänin vaalipiiri,2
+Seinäjoki,1994,Lapin läänin vaalipiiri,1
+Seinäjoki,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Seinäjoki,1988,Kymen läänin vaalipiiri,1
+Seinäjoki,1993,Turun läänin pohjoinen vaalipiiri,1
+Seinäjoki,1993,Keski-Suomen läänin vaalipiiri,1
+Seinäjoki,1987,Turun läänin eteläinen vaalipiiri,1
+Rovaniemi,1986,Lapin läänin vaalipiiri,17
+Rovaniemi,1993,Lapin läänin vaalipiiri,9
+Rovaniemi,1991,Lapin läänin vaalipiiri,7
+Rovaniemi,1986,Uudenmaan läänin vaalipiiri,2
+Rovaniemi,1989,Turun läänin eteläinen vaalipiiri,4
+Rovaniemi,1992,Uudenmaan läänin vaalipiiri,3
+Rovaniemi,1988,Turun läänin pohjoinen vaalipiiri,2
+Rovaniemi,1987,Turun läänin eteläinen vaalipiiri,1
+Rovaniemi,1989,Uudenmaan läänin vaalipiiri,3
+Rovaniemi,1988,Helsingin kaupungin vaalipiiri,9
+Rovaniemi,1989,Oulun läänin vaalipiiri,12
+Rovaniemi,1995,Hämeen läänin pohjoinen vaalipiiri,7
+Rovaniemi,1987,Uudenmaan läänin vaalipiiri,9
+Rovaniemi,1994,Kuopion läänin vaalipiiri,2
+Rovaniemi,1989,Hämeen läänin pohjoinen vaalipiiri,7
+Rovaniemi,1988,Oulun läänin vaalipiiri,8
+Rovaniemi,1986,Mikkelin läänin vaalipiiri,2
+Rovaniemi,1990,Kymen läänin vaalipiiri,3
+Rovaniemi,1989,Lapin läänin vaalipiiri,12
+Rovaniemi,1993,Keski-Suomen läänin vaalipiiri,1
+Rovaniemi,1986,Hämeen läänin eteläinen vaalipiiri,4
+Rovaniemi,1995,Lapin läänin vaalipiiri,7
+Rovaniemi,1992,Keski-Suomen läänin vaalipiiri,1
+Rovaniemi,1990,Hämeen läänin pohjoinen vaalipiiri,4
+Rovaniemi,1990,Vaasan läänin vaalipiiri,4
+Rovaniemi,1990,Lapin läänin vaalipiiri,11
+Rovaniemi,1987,Pohjois-Karjalan läänin vaalipiiri,2
+Rovaniemi,1988,Hämeen läänin eteläinen vaalipiiri,1
+Rovaniemi,1992,Lapin läänin vaalipiiri,3
+Rovaniemi,1990,Oulun läänin vaalipiiri,2
+Rovaniemi,1991,Oulun läänin vaalipiiri,3
+Rovaniemi,1990,Helsingin kaupungin vaalipiiri,5
+Rovaniemi,1986,Turun läänin eteläinen vaalipiiri,5
+Rovaniemi,1992,Oulun läänin vaalipiiri,3
+Rovaniemi,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Rovaniemi,1988,Mikkelin läänin vaalipiiri,1
+Rovaniemi,1991,Helsingin kaupungin vaalipiiri,1
+Rovaniemi,1994,Lapin läänin vaalipiiri,3
+Rovaniemi,1991,Uudenmaan läänin vaalipiiri,2
+Rovaniemi,1988,Vaasan läänin vaalipiiri,1
+Rovaniemi,1988,Uudenmaan läänin vaalipiiri,2
+Rovaniemi,1989,Kuopion läänin vaalipiiri,1
+Rovaniemi,1991,Turun läänin pohjoinen vaalipiiri,1
+Rovaniemi,1994,Uudenmaan läänin vaalipiiri,2
+Rovaniemi,1994,Helsingin kaupungin vaalipiiri,2
+Rovaniemi,1990,Turun läänin eteläinen vaalipiiri,3
+Rovaniemi,1989,Vaasan läänin vaalipiiri,1
+Rovaniemi,1995,Oulun läänin vaalipiiri,3
+Rovaniemi,1991,Kymen läänin vaalipiiri,4
+Rovaniemi,1995,Kuopion läänin vaalipiiri,1
+Rovaniemi,1990,Uudenmaan läänin vaalipiiri,1
+Rovaniemi,1987,Hämeen läänin pohjoinen vaalipiiri,3
+Rovaniemi,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Rovaniemi,1993,Vaasan läänin vaalipiiri,2
+Rovaniemi,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Rovaniemi,1991,Mikkelin läänin vaalipiiri,1
+Rovaniemi,1989,Mikkelin läänin vaalipiiri,1
+Rovaniemi,1987,Hämeen läänin eteläinen vaalipiiri,1
+Rovaniemi,1989,Keski-Suomen läänin vaalipiiri,1
+Rovaniemi,1992,Helsingin kaupungin vaalipiiri,1
+Rovaniemi,1987,Lapin läänin vaalipiiri,3
+Rovaniemi,1987,Helsingin kaupungin vaalipiiri,4
+Rovaniemi,1992,Hämeen läänin pohjoinen vaalipiiri,3
+Rovaniemi,1987,Oulun läänin vaalipiiri,2
+Rovaniemi,1986,Helsingin kaupungin vaalipiiri,1
+Rovaniemi,1994,Keski-Suomen läänin vaalipiiri,2
+Rovaniemi,1986,Kuopion läänin vaalipiiri,1
+Rovaniemi,1988,Lapin läänin vaalipiiri,3
+Rovaniemi,1988,Kymen läänin vaalipiiri,1
+Rovaniemi,1989,Helsingin kaupungin vaalipiiri,2
+Rovaniemi,1993,Oulun läänin vaalipiiri,2
+Rovaniemi,1992,Vaasan läänin vaalipiiri,1
+Rovaniemi,1993,Kuopion läänin vaalipiiri,1
+Rovaniemi,1993,Kymen läänin vaalipiiri,1
+Rovaniemi,1988,Kuopion läänin vaalipiiri,1
+Mikkeli,1993,Kuopion läänin vaalipiiri,1
+Mikkeli,1986,Turun läänin pohjoinen vaalipiiri,1
+Mikkeli,1988,Turun läänin eteläinen vaalipiiri,2
+Mikkeli,1989,Mikkelin läänin vaalipiiri,4
+Mikkeli,1989,Keski-Suomen läänin vaalipiiri,5
+Mikkeli,1990,Mikkelin läänin vaalipiiri,2
+Mikkeli,1987,Hämeen läänin pohjoinen vaalipiiri,2
+Mikkeli,1986,Mikkelin läänin vaalipiiri,9
+Mikkeli,1995,Keski-Suomen läänin vaalipiiri,1
+Mikkeli,1988,Oulun läänin vaalipiiri,2
+Mikkeli,1988,Uudenmaan läänin vaalipiiri,4
+Mikkeli,1988,Helsingin kaupungin vaalipiiri,1
+Mikkeli,1992,Vaasan läänin vaalipiiri,2
+Mikkeli,1994,Oulun läänin vaalipiiri,1
+Mikkeli,1990,Turun läänin pohjoinen vaalipiiri,2
+Mikkeli,1992,Turun läänin pohjoinen vaalipiiri,2
+Mikkeli,1993,Kymen läänin vaalipiiri,5
+Mikkeli,1993,Keski-Suomen läänin vaalipiiri,3
+Mikkeli,1993,Helsingin kaupungin vaalipiiri,1
+Mikkeli,1987,Mikkelin läänin vaalipiiri,8
+Mikkeli,1991,Uudenmaan läänin vaalipiiri,1
+Mikkeli,1994,Mikkelin läänin vaalipiiri,2
+Mikkeli,1989,Turun läänin eteläinen vaalipiiri,2
+Mikkeli,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Mikkeli,1995,Mikkelin läänin vaalipiiri,10
+Mikkeli,1994,Hämeen läänin eteläinen vaalipiiri,2
+Mikkeli,1986,Uudenmaan läänin vaalipiiri,2
+Mikkeli,1989,Turun läänin pohjoinen vaalipiiri,4
+Mikkeli,1991,Keski-Suomen läänin vaalipiiri,1
+Mikkeli,1987,Uudenmaan läänin vaalipiiri,4
+Mikkeli,1989,Oulun läänin vaalipiiri,3
+Mikkeli,1988,Mikkelin läänin vaalipiiri,5
+Mikkeli,1989,Hämeen läänin pohjoinen vaalipiiri,4
+Mikkeli,1989,Helsingin kaupungin vaalipiiri,1
+Mikkeli,1990,Uudenmaan läänin vaalipiiri,3
+Mikkeli,1993,Mikkelin läänin vaalipiiri,6
+Mikkeli,1987,Kymen läänin vaalipiiri,1
+Mikkeli,1990,NaN,1
+Mikkeli,1993,Oulun läänin vaalipiiri,2
+Mikkeli,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Mikkeli,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Mikkeli,1987,Helsingin kaupungin vaalipiiri,2
+Mikkeli,1987,Vaasan läänin vaalipiiri,2
+Mikkeli,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Mikkeli,1986,Hämeen läänin eteläinen vaalipiiri,1
+Mikkeli,1990,Oulun läänin vaalipiiri,2
+Mikkeli,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Mikkeli,1991,Kuopion läänin vaalipiiri,1
+Mikkeli,1994,Helsingin kaupungin vaalipiiri,1
+Mikkeli,1990,Kymen läänin vaalipiiri,1
+Mikkeli,1988,Kuopion läänin vaalipiiri,1
+Mikkeli,1989,Vaasan läänin vaalipiiri,2
+Mikkeli,1995,Vaasan läänin vaalipiiri,1
+Mikkeli,1988,Vaasan läänin vaalipiiri,1
+Mikkeli,1992,Kuopion läänin vaalipiiri,1
+Mikkeli,1987,Hämeen läänin eteläinen vaalipiiri,1
+Mikkeli,1990,Hämeen läänin pohjoinen vaalipiiri,4
+Mikkeli,1986,Lapin läänin vaalipiiri,2
+Mikkeli,1990,Kuopion läänin vaalipiiri,2
+Mikkeli,1991,Helsingin kaupungin vaalipiiri,1
+Mikkeli,1986,Kuopion läänin vaalipiiri,1
+Mikkeli,1995,Kuopion läänin vaalipiiri,1
+Mikkeli,1994,Uudenmaan läänin vaalipiiri,1
+Mikkeli,1992,Helsingin kaupungin vaalipiiri,1
+Mikkeli,1992,Oulun läänin vaalipiiri,1
+Mikkeli,1987,Pohjois-Karjalan läänin vaalipiiri,3
+Mikkeli,1987,Kuopion läänin vaalipiiri,1
+Mikkeli,1991,Kymen läänin vaalipiiri,1
+Mikkeli,1990,Hämeen läänin eteläinen vaalipiiri,1
+Mikkeli,1988,Hämeen läänin eteläinen vaalipiiri,2
+Mikkeli,1990,Turun läänin eteläinen vaalipiiri,1
+Mikkeli,1994,Lapin läänin vaalipiiri,1
+Mikkeli,1988,Lapin läänin vaalipiiri,1
+Mikkeli,1995,Turun läänin pohjoinen vaalipiiri,1
+Mikkeli,1989,Uudenmaan läänin vaalipiiri,2
+Mikkeli,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Mikkeli,1992,Mikkelin läänin vaalipiiri,1
+Mikkeli,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Mikkeli,1990,Keski-Suomen läänin vaalipiiri,1
+Mikkeli,1995,Kymen läänin vaalipiiri,1
+Mikkeli,1995,Oulun läänin vaalipiiri,1
+Mikkeli,1989,Kuopion läänin vaalipiiri,1
+Kotka,1986,Oulun läänin vaalipiiri,2
+Kotka,1989,Uudenmaan läänin vaalipiiri,1
+Kotka,1995,Mikkelin läänin vaalipiiri,1
+Kotka,1995,Kymen läänin vaalipiiri,15
+Kotka,1989,Kymen läänin vaalipiiri,21
+Kotka,1991,Hämeen läänin pohjoinen vaalipiiri,3
+Kotka,1986,Turun läänin eteläinen vaalipiiri,6
+Kotka,1987,Helsingin kaupungin vaalipiiri,4
+Kotka,1994,Oulun läänin vaalipiiri,1
+Kotka,1993,Kymen läänin vaalipiiri,8
+Kotka,1991,Kymen läänin vaalipiiri,5
+Kotka,1987,Vaasan läänin vaalipiiri,2
+Kotka,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Kotka,1988,Turun läänin pohjoinen vaalipiiri,4
+Kotka,1986,Kuopion läänin vaalipiiri,3
+Kotka,1986,Uudenmaan läänin vaalipiiri,4
+Kotka,1987,Uudenmaan läänin vaalipiiri,5
+Kotka,1988,Kymen läänin vaalipiiri,13
+Kotka,1990,Kymen läänin vaalipiiri,14
+Kotka,1987,Hämeen läänin eteläinen vaalipiiri,1
+Kotka,1989,Lapin läänin vaalipiiri,3
+Kotka,1986,Helsingin kaupungin vaalipiiri,5
+Kotka,1988,Vaasan läänin vaalipiiri,1
+Kotka,1994,Kymen läänin vaalipiiri,4
+Kotka,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Kotka,1993,Mikkelin läänin vaalipiiri,1
+Kotka,1987,Kymen läänin vaalipiiri,13
+Kotka,1992,Kymen läänin vaalipiiri,3
+Kotka,1986,Kymen läänin vaalipiiri,7
+Kotka,1986,Hämeen läänin pohjoinen vaalipiiri,2
+Kotka,1988,Keski-Suomen läänin vaalipiiri,2
+Kotka,1990,Vaasan läänin vaalipiiri,1
+Kotka,1987,Turun läänin eteläinen vaalipiiri,8
+Kotka,1986,Turun läänin pohjoinen vaalipiiri,4
+Kotka,1994,Hämeen läänin pohjoinen vaalipiiri,3
+Kotka,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Kotka,1987,Hämeen läänin pohjoinen vaalipiiri,10
+Kotka,1986,Vaasan läänin vaalipiiri,1
+Kotka,1992,Vaasan läänin vaalipiiri,1
+Kotka,1988,Oulun läänin vaalipiiri,2
+Kotka,1990,Turun läänin pohjoinen vaalipiiri,1
+Kotka,1990,Uudenmaan läänin vaalipiiri,1
+Kotka,1995,Vaasan läänin vaalipiiri,3
+Kotka,1986,NaN,2
+Kotka,1989,Mikkelin läänin vaalipiiri,2
+Kotka,1990,Turun läänin eteläinen vaalipiiri,1
+Kotka,1987,NaN,2
+Kotka,1991,Lapin läänin vaalipiiri,1
+Kotka,1990,Helsingin kaupungin vaalipiiri,1
+Kotka,1988,Kuopion läänin vaalipiiri,1
+Kotka,1988,Helsingin kaupungin vaalipiiri,3
+Kotka,1988,Uudenmaan läänin vaalipiiri,3
+Kotka,1987,Oulun läänin vaalipiiri,2
+Kotka,1987,Turun läänin pohjoinen vaalipiiri,2
+Kotka,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Kotka,1992,Helsingin kaupungin vaalipiiri,1
+Kotka,1993,Hämeen läänin eteläinen vaalipiiri,1
+Kotka,1987,Kuopion läänin vaalipiiri,1
+Kotka,1995,Kuopion läänin vaalipiiri,1
+Kotka,1991,Turun läänin pohjoinen vaalipiiri,1
+Kotka,1994,NaN,1
+Kotka,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Kotka,1993,Vaasan läänin vaalipiiri,3
+Kotka,1994,Kuopion läänin vaalipiiri,1
+Kotka,1988,Mikkelin läänin vaalipiiri,1
+Kotka,1989,Turun läänin pohjoinen vaalipiiri,3
+Kotka,1987,Mikkelin läänin vaalipiiri,1
+Kotka,1988,Hämeen läänin eteläinen vaalipiiri,1
+Kotka,1994,Uudenmaan läänin vaalipiiri,1
+Kotka,1986,Hämeen läänin eteläinen vaalipiiri,1
+Kotka,1989,Helsingin kaupungin vaalipiiri,2
+Kotka,1993,Uudenmaan läänin vaalipiiri,1
+Kotka,1987,Keski-Suomen läänin vaalipiiri,1
+Kotka,1990,Hämeen läänin eteläinen vaalipiiri,1
+Kotka,1989,Turun läänin eteläinen vaalipiiri,1
+Kotka,1986,Keski-Suomen läänin vaalipiiri,1
+Kotka,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Kotka,1989,Oulun läänin vaalipiiri,1
+Salo,1994,Uudenmaan läänin vaalipiiri,1
+Salo,1991,Turun läänin eteläinen vaalipiiri,2
+Salo,1993,Turun läänin eteläinen vaalipiiri,3
+Salo,1990,Turun läänin eteläinen vaalipiiri,2
+Salo,1986,Uudenmaan läänin vaalipiiri,1
+Salo,1994,Helsingin kaupungin vaalipiiri,1
+Salo,1991,Uudenmaan läänin vaalipiiri,1
+Salo,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Salo,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Salo,1994,Turun läänin eteläinen vaalipiiri,2
+Salo,1986,Hämeen läänin eteläinen vaalipiiri,1
+Salo,1988,Turun läänin eteläinen vaalipiiri,2
+Salo,1987,Turun läänin eteläinen vaalipiiri,2
+Salo,1990,Kymen läänin vaalipiiri,1
+Salo,1986,Turun läänin eteläinen vaalipiiri,2
+Salo,1986,Keski-Suomen läänin vaalipiiri,1
+Salo,1995,Uudenmaan läänin vaalipiiri,1
+Salo,1992,Turun läänin eteläinen vaalipiiri,2
+Salo,1990,Kuopion läänin vaalipiiri,1
+Salo,1995,Turun läänin pohjoinen vaalipiiri,1
+Salo,1988,Uudenmaan läänin vaalipiiri,1
+Salo,1987,Keski-Suomen läänin vaalipiiri,1
+Porvoo,1986,Helsingin kaupungin vaalipiiri,2
+Porvoo,1993,Turun läänin eteläinen vaalipiiri,2
+Porvoo,1986,Lapin läänin vaalipiiri,1
+Porvoo,1993,Keski-Suomen läänin vaalipiiri,1
+Porvoo,1988,Uudenmaan läänin vaalipiiri,4
+Porvoo,1990,Helsingin kaupungin vaalipiiri,2
+Porvoo,1990,Hämeen läänin eteläinen vaalipiiri,1
+Porvoo,1990,Uudenmaan läänin vaalipiiri,4
+Porvoo,1993,Kymen läänin vaalipiiri,4
+Porvoo,1987,Hämeen läänin eteläinen vaalipiiri,1
+Porvoo,1990,Turun läänin eteläinen vaalipiiri,2
+Porvoo,1987,Uudenmaan läänin vaalipiiri,2
+Porvoo,1993,Turun läänin pohjoinen vaalipiiri,2
+Porvoo,1989,Turun läänin pohjoinen vaalipiiri,2
+Porvoo,1990,Keski-Suomen läänin vaalipiiri,2
+Porvoo,1991,Kymen läänin vaalipiiri,1
+Porvoo,1988,Kymen läänin vaalipiiri,1
+Porvoo,1992,Kymen läänin vaalipiiri,2
+Porvoo,1989,Uudenmaan läänin vaalipiiri,3
+Porvoo,1993,Oulun läänin vaalipiiri,2
+Porvoo,1993,Helsingin kaupungin vaalipiiri,2
+Porvoo,1993,Uudenmaan läänin vaalipiiri,4
+Porvoo,1994,Uudenmaan läänin vaalipiiri,2
+Porvoo,1995,Kymen läänin vaalipiiri,1
+Porvoo,1992,Uudenmaan läänin vaalipiiri,2
+Porvoo,1994,Kymen läänin vaalipiiri,1
+Porvoo,1986,Uudenmaan läänin vaalipiiri,2
+Porvoo,1993,Lapin läänin vaalipiiri,1
+Porvoo,1989,Keski-Suomen läänin vaalipiiri,1
+Porvoo,1994,Lapin läänin vaalipiiri,1
+Porvoo,1995,Uudenmaan läänin vaalipiiri,4
+Porvoo,1991,Helsingin kaupungin vaalipiiri,1
+Porvoo,1988,Helsingin kaupungin vaalipiiri,1
+Porvoo,1993,Mikkelin läänin vaalipiiri,1
+Porvoo,1986,Kuopion läänin vaalipiiri,1
+Porvoo,1989,Hämeen läänin eteläinen vaalipiiri,1
+Porvoo,1988,Keski-Suomen läänin vaalipiiri,1
+Porvoo,1986,Hämeen läänin eteläinen vaalipiiri,1
+Porvoo,1993,Kuopion läänin vaalipiiri,2
+Porvoo,1990,Turun läänin pohjoinen vaalipiiri,1
+Porvoo,1987,Kymen läänin vaalipiiri,1
+Porvoo,1987,Helsingin kaupungin vaalipiiri,1
+Porvoo,1995,Helsingin kaupungin vaalipiiri,1
+Kokkola,1990,Lapin läänin vaalipiiri,1
+Kokkola,1988,Oulun läänin vaalipiiri,1
+Kokkola,1987,Turun läänin pohjoinen vaalipiiri,2
+Kokkola,1986,Oulun läänin vaalipiiri,2
+Kokkola,1990,Vaasan läänin vaalipiiri,4
+Kokkola,1992,Oulun läänin vaalipiiri,1
+Kokkola,1987,Kuopion läänin vaalipiiri,1
+Kokkola,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Kokkola,1987,Hämeen läänin eteläinen vaalipiiri,2
+Kokkola,1993,NaN,1
+Kokkola,1992,Vaasan läänin vaalipiiri,3
+Kokkola,1995,Vaasan läänin vaalipiiri,2
+Kokkola,1986,Vaasan läänin vaalipiiri,6
+Kokkola,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Kokkola,1993,Oulun läänin vaalipiiri,1
+Kokkola,1989,Oulun läänin vaalipiiri,1
+Kokkola,1987,Turun läänin eteläinen vaalipiiri,1
+Kokkola,1986,NaN,1
+Kokkola,1989,Mikkelin läänin vaalipiiri,1
+Kokkola,1992,Hämeen läänin eteläinen vaalipiiri,1
+Kokkola,1989,Vaasan läänin vaalipiiri,1
+Kokkola,1991,Helsingin kaupungin vaalipiiri,1
+Kokkola,1986,Uudenmaan läänin vaalipiiri,1
+Kokkola,1987,Vaasan läänin vaalipiiri,2
+Kokkola,1994,Helsingin kaupungin vaalipiiri,1
+Kokkola,1990,Helsingin kaupungin vaalipiiri,2
+Kokkola,1992,Uudenmaan läänin vaalipiiri,1
+Kokkola,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Kokkola,1987,Helsingin kaupungin vaalipiiri,1
+Kokkola,1993,Vaasan läänin vaalipiiri,1
+Kokkola,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Hyvinkää,1987,Uudenmaan läänin vaalipiiri,12
+Hyvinkää,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Hyvinkää,1987,Helsingin kaupungin vaalipiiri,5
+Hyvinkää,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Hyvinkää,1994,Uudenmaan läänin vaalipiiri,3
+Hyvinkää,1988,Uudenmaan läänin vaalipiiri,12
+Hyvinkää,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Hyvinkää,1988,Helsingin kaupungin vaalipiiri,4
+Hyvinkää,1993,Uudenmaan läänin vaalipiiri,3
+Hyvinkää,1986,Uudenmaan läänin vaalipiiri,4
+Hyvinkää,1987,Turun läänin eteläinen vaalipiiri,1
+Hyvinkää,1990,Uudenmaan läänin vaalipiiri,1
+Hyvinkää,1989,Uudenmaan läänin vaalipiiri,4
+Hyvinkää,1990,Hämeen läänin eteläinen vaalipiiri,1
+Hyvinkää,1993,Vaasan läänin vaalipiiri,2
+Hyvinkää,1989,Keski-Suomen läänin vaalipiiri,1
+Hyvinkää,1986,Hämeen läänin eteläinen vaalipiiri,2
+Hyvinkää,1988,Hämeen läänin eteläinen vaalipiiri,1
+Hyvinkää,1988,Turun läänin eteläinen vaalipiiri,3
+Hyvinkää,1991,Uudenmaan läänin vaalipiiri,3
+Hyvinkää,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Hyvinkää,1988,Turun läänin pohjoinen vaalipiiri,2
+Hyvinkää,1988,Kymen läänin vaalipiiri,1
+Hyvinkää,1986,Turun läänin pohjoinen vaalipiiri,1
+Hyvinkää,1987,Mikkelin läänin vaalipiiri,1
+Lohja,1988,NaN,1
+Lohja,1990,Vaasan läänin vaalipiiri,1
+Lohja,1991,Kuopion läänin vaalipiiri,15
+Lohja,1991,Uudenmaan läänin vaalipiiri,32
+Lohja,1987,Uudenmaan läänin vaalipiiri,5
+Lohja,1993,Turun läänin pohjoinen vaalipiiri,2
+Lohja,1986,Helsingin kaupungin vaalipiiri,2
+Lohja,1990,Helsingin kaupungin vaalipiiri,8
+Lohja,1988,Helsingin kaupungin vaalipiiri,4
+Lohja,1992,Uudenmaan läänin vaalipiiri,2
+Lohja,1993,Uudenmaan läänin vaalipiiri,2
+Lohja,1995,Uudenmaan läänin vaalipiiri,4
+Lohja,1991,Turun läänin pohjoinen vaalipiiri,1
+Lohja,1986,Mikkelin läänin vaalipiiri,1
+Lohja,1991,Keski-Suomen läänin vaalipiiri,3
+Lohja,1991,Oulun läänin vaalipiiri,2
+Lohja,1989,Uudenmaan läänin vaalipiiri,5
+Lohja,1992,Keski-Suomen läänin vaalipiiri,1
+Lohja,1994,Hämeen läänin eteläinen vaalipiiri,1
+Lohja,1986,Turun läänin pohjoinen vaalipiiri,1
+Lohja,1988,Oulun läänin vaalipiiri,2
+Lohja,1986,Kuopion läänin vaalipiiri,1
+Lohja,1988,Mikkelin läänin vaalipiiri,1
+Lohja,1988,Uudenmaan läänin vaalipiiri,6
+Lohja,1991,Hämeen läänin eteläinen vaalipiiri,1
+Lohja,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Lohja,1994,Uudenmaan läänin vaalipiiri,2
+Lohja,1990,Uudenmaan läänin vaalipiiri,2
+Lohja,1991,Helsingin kaupungin vaalipiiri,1
+Lohja,1989,Helsingin kaupungin vaalipiiri,1
+Lohja,1993,Turun läänin eteläinen vaalipiiri,2
+Lohja,1989,Oulun läänin vaalipiiri,1
+Lohja,1995,Hämeen läänin pohjoinen vaalipiiri,2
+Lohja,1989,Kymen läänin vaalipiiri,1
+Lohja,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Lohja,1995,Vaasan läänin vaalipiiri,1
+Lohja,1992,Vaasan läänin vaalipiiri,1
+Järvenpää,1993,Lapin läänin vaalipiiri,1
+Järvenpää,1988,Mikkelin läänin vaalipiiri,1
+Järvenpää,1989,Uudenmaan läänin vaalipiiri,5
+Järvenpää,1988,Helsingin kaupungin vaalipiiri,1
+Järvenpää,1994,Uudenmaan läänin vaalipiiri,1
+Järvenpää,1988,Uudenmaan läänin vaalipiiri,3
+Järvenpää,1987,Uudenmaan läänin vaalipiiri,1
+Järvenpää,1994,Hämeen läänin eteläinen vaalipiiri,2
+Järvenpää,1986,Hämeen läänin eteläinen vaalipiiri,1
+Järvenpää,1987,Helsingin kaupungin vaalipiiri,1
+Järvenpää,1987,Hämeen läänin eteläinen vaalipiiri,1
+Järvenpää,1989,Keski-Suomen läänin vaalipiiri,1
+Järvenpää,1993,Uudenmaan läänin vaalipiiri,1
+Järvenpää,1986,NaN,1
+Järvenpää,1989,Helsingin kaupungin vaalipiiri,1
+Järvenpää,1993,Mikkelin läänin vaalipiiri,1
+Järvenpää,1986,Uudenmaan läänin vaalipiiri,1
+Järvenpää,1990,Uudenmaan läänin vaalipiiri,1
+Järvenpää,1995,Helsingin kaupungin vaalipiiri,1
+Järvenpää,1992,Turun läänin pohjoinen vaalipiiri,1
+Järvenpää,1993,Oulun läänin vaalipiiri,1
+Järvenpää,1995,Hämeen läänin eteläinen vaalipiiri,1
+Rauma,1986,Hämeen läänin eteläinen vaalipiiri,1
+Rauma,1990,Turun läänin pohjoinen vaalipiiri,15
+Rauma,1987,Turun läänin pohjoinen vaalipiiri,13
+Rauma,1993,Turun läänin eteläinen vaalipiiri,12
+Rauma,1988,Turun läänin eteläinen vaalipiiri,2
+Rauma,1993,Kymen läänin vaalipiiri,7
+Rauma,1995,Turun läänin pohjoinen vaalipiiri,2
+Rauma,1992,Kymen läänin vaalipiiri,1
+Rauma,1994,Oulun läänin vaalipiiri,3
+Rauma,1992,Turun läänin pohjoinen vaalipiiri,6
+Rauma,1995,Kuopion läänin vaalipiiri,1
+Rauma,1994,Kuopion läänin vaalipiiri,2
+Rauma,1986,Turun läänin pohjoinen vaalipiiri,7
+Rauma,1988,Helsingin kaupungin vaalipiiri,1
+Rauma,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Rauma,1993,Turun läänin pohjoinen vaalipiiri,16
+Rauma,1986,Uudenmaan läänin vaalipiiri,3
+Rauma,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Rauma,1993,Helsingin kaupungin vaalipiiri,4
+Rauma,1988,Turun läänin pohjoinen vaalipiiri,13
+Rauma,1989,Kymen läänin vaalipiiri,3
+Rauma,1994,Turun läänin pohjoinen vaalipiiri,6
+Rauma,1990,Turun läänin eteläinen vaalipiiri,3
+Rauma,1993,Uudenmaan läänin vaalipiiri,3
+Rauma,1989,Turun läänin pohjoinen vaalipiiri,13
+Rauma,1993,Hämeen läänin pohjoinen vaalipiiri,5
+Rauma,1991,Turun läänin pohjoinen vaalipiiri,4
+Rauma,1989,Turun läänin eteläinen vaalipiiri,2
+Rauma,1993,Kuopion läänin vaalipiiri,1
+Rauma,1992,Uudenmaan läänin vaalipiiri,1
+Rauma,1993,Lapin läänin vaalipiiri,3
+Rauma,1987,Oulun läänin vaalipiiri,1
+Rauma,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Rauma,1993,Oulun läänin vaalipiiri,3
+Rauma,1986,Vaasan läänin vaalipiiri,1
+Rauma,1987,Kymen läänin vaalipiiri,1
+Rauma,1987,Lapin läänin vaalipiiri,2
+Rauma,1986,Lapin läänin vaalipiiri,1
+Rauma,1991,Helsingin kaupungin vaalipiiri,2
+Rauma,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Rauma,1990,Uudenmaan läänin vaalipiiri,4
+Rauma,1986,Hämeen läänin pohjoinen vaalipiiri,2
+Rauma,1995,Uudenmaan läänin vaalipiiri,2
+Rauma,1987,Keski-Suomen läänin vaalipiiri,1
+Rauma,1991,Turun läänin eteläinen vaalipiiri,1
+Rauma,1993,Vaasan läänin vaalipiiri,1
+Rauma,1986,Turun läänin eteläinen vaalipiiri,4
+Rauma,1987,Uudenmaan läänin vaalipiiri,1
+Rauma,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Rauma,1993,Mikkelin läänin vaalipiiri,1
+Rauma,1989,Helsingin kaupungin vaalipiiri,1
+Rauma,1995,Turun läänin eteläinen vaalipiiri,1
+Rauma,1987,Turun läänin eteläinen vaalipiiri,1
+Rauma,1993,Keski-Suomen läänin vaalipiiri,1
+Rauma,1994,Uudenmaan läänin vaalipiiri,1
+Rauma,1993,NaN,1
+Rauma,1992,Helsingin kaupungin vaalipiiri,1
+Kerava,1988,Helsingin kaupungin vaalipiiri,2
+Kerava,1986,Uudenmaan läänin vaalipiiri,8
+Kerava,1989,Uudenmaan läänin vaalipiiri,4
+Kerava,1993,Kymen läänin vaalipiiri,2
+Kerava,1990,Helsingin kaupungin vaalipiiri,1
+Kerava,1988,Uudenmaan läänin vaalipiiri,2
+Kerava,1994,Uudenmaan läänin vaalipiiri,1
+Kerava,1987,Turun läänin pohjoinen vaalipiiri,1
+Kerava,1989,Keski-Suomen läänin vaalipiiri,1
+Kerava,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Kerava,1986,Hämeen läänin eteläinen vaalipiiri,2
+Kerava,1993,Mikkelin läänin vaalipiiri,2
+Kerava,1987,Uudenmaan läänin vaalipiiri,1
+Kerava,1994,Oulun läänin vaalipiiri,1
+Kerava,1993,Oulun läänin vaalipiiri,1
+Kerava,1994,Kymen läänin vaalipiiri,1
+Kerava,1994,Lapin läänin vaalipiiri,1
+Kerava,1990,Uudenmaan läänin vaalipiiri,2
+Kerava,1989,Hämeen läänin eteläinen vaalipiiri,1
+Kerava,1992,Uudenmaan läänin vaalipiiri,1
+Kerava,1993,Uudenmaan läänin vaalipiiri,1
+Kerava,1987,Hämeen läänin eteläinen vaalipiiri,1
+Kerava,1993,Lapin läänin vaalipiiri,1
+Kerava,1991,Uudenmaan läänin vaalipiiri,1
+Kerava,1995,Mikkelin läänin vaalipiiri,1
+Kerava,1995,Kymen läänin vaalipiiri,1
+Kerava,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Kerava,1993,Pohjois-Karjalan läänin vaalipiiri,2
+Kerava,1988,Oulun läänin vaalipiiri,1
+Kerava,1994,Mikkelin läänin vaalipiiri,1
+Kerava,1992,Hämeen läänin eteläinen vaalipiiri,1
+Kajaani,1986,Hämeen läänin pohjoinen vaalipiiri,4
+Kajaani,1989,Oulun läänin vaalipiiri,11
+Kajaani,1987,Uudenmaan läänin vaalipiiri,4
+Kajaani,1988,Lapin läänin vaalipiiri,2
+Kajaani,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Kajaani,1986,Turun läänin pohjoinen vaalipiiri,3
+Kajaani,1995,Oulun läänin vaalipiiri,7
+Kajaani,1990,Turun läänin pohjoinen vaalipiiri,1
+Kajaani,1990,Uudenmaan läänin vaalipiiri,2
+Kajaani,1994,Helsingin kaupungin vaalipiiri,2
+Kajaani,1995,Lapin läänin vaalipiiri,1
+Kajaani,1988,Oulun läänin vaalipiiri,10
+Kajaani,1986,Uudenmaan läänin vaalipiiri,4
+Kajaani,1991,Kymen läänin vaalipiiri,1
+Kajaani,1992,Kuopion läänin vaalipiiri,1
+Kajaani,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Kajaani,1995,Mikkelin läänin vaalipiiri,1
+Kajaani,1988,Turun läänin pohjoinen vaalipiiri,2
+Kajaani,1993,Oulun läänin vaalipiiri,6
+Kajaani,1995,Keski-Suomen läänin vaalipiiri,1
+Kajaani,1987,Oulun läänin vaalipiiri,6
+Kajaani,1990,Oulun läänin vaalipiiri,4
+Kajaani,1986,Lapin läänin vaalipiiri,9
+Kajaani,1989,Vaasan läänin vaalipiiri,2
+Kajaani,1986,Oulun läänin vaalipiiri,12
+Kajaani,1988,Vaasan läänin vaalipiiri,1
+Kajaani,1986,Kuopion läänin vaalipiiri,1
+Kajaani,1989,Turun läänin pohjoinen vaalipiiri,2
+Kajaani,1986,Mikkelin läänin vaalipiiri,3
+Kajaani,1987,Hämeen läänin pohjoinen vaalipiiri,2
+Kajaani,1989,Hämeen läänin eteläinen vaalipiiri,2
+Kajaani,1992,Turun läänin pohjoinen vaalipiiri,1
+Kajaani,1994,Keski-Suomen läänin vaalipiiri,1
+Kajaani,1994,NaN,1
+Kajaani,1994,Uudenmaan läänin vaalipiiri,2
+Kajaani,1993,Mikkelin läänin vaalipiiri,3
+Kajaani,1994,Oulun läänin vaalipiiri,4
+Kajaani,1987,Helsingin kaupungin vaalipiiri,2
+Kajaani,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Kajaani,1986,Vaasan läänin vaalipiiri,1
+Kajaani,1993,Helsingin kaupungin vaalipiiri,1
+Kajaani,1987,Kuopion läänin vaalipiiri,1
+Kajaani,1993,Lapin läänin vaalipiiri,1
+Kajaani,1986,Hämeen läänin eteläinen vaalipiiri,2
+Kajaani,1989,Lapin läänin vaalipiiri,1
+Kajaani,1987,NaN,1
+Kajaani,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Kajaani,1993,Kymen läänin vaalipiiri,2
+Kajaani,1995,Uudenmaan läänin vaalipiiri,1
+Kajaani,1989,Mikkelin läänin vaalipiiri,1
+Kajaani,1992,Oulun läänin vaalipiiri,1
+Kajaani,1987,Lapin läänin vaalipiiri,1
+Kajaani,1987,Hämeen läänin eteläinen vaalipiiri,1
+Kajaani,1991,Helsingin kaupungin vaalipiiri,1
+Kajaani,1989,Keski-Suomen läänin vaalipiiri,1
+Kajaani,1990,Mikkelin läänin vaalipiiri,1
+Kajaani,1986,NaN,2
+Kajaani,1989,Helsingin kaupungin vaalipiiri,1
+Kajaani,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Kajaani,1992,Uudenmaan läänin vaalipiiri,1
+Kajaani,1986,Helsingin kaupungin vaalipiiri,1
+Kajaani,1986,Kymen läänin vaalipiiri,1
+Kajaani,1988,Uudenmaan läänin vaalipiiri,1
+Kajaani,1988,Pohjois-Karjalan läänin vaalipiiri,2
+Kajaani,1990,Hämeen läänin eteläinen vaalipiiri,1
+Kajaani,1987,Turun läänin eteläinen vaalipiiri,1
+Kajaani,1987,Kymen läänin vaalipiiri,1
+Kajaani,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Kaarina,1989,Turun läänin eteläinen vaalipiiri,1
+Kaarina,1993,Turun läänin eteläinen vaalipiiri,1
+Kaarina,1987,Oulun läänin vaalipiiri,1
+Kaarina,1989,Hämeen läänin eteläinen vaalipiiri,1
+Kaarina,1991,Turun läänin eteläinen vaalipiiri,2
+Kaarina,1990,Turun läänin eteläinen vaalipiiri,1
+Kaarina,1992,Turun läänin eteläinen vaalipiiri,1
+Nokia,1995,Lapin läänin vaalipiiri,3
+Nokia,1991,Hämeen läänin pohjoinen vaalipiiri,5
+Nokia,1993,Uudenmaan läänin vaalipiiri,3
+Nokia,1992,Turun läänin pohjoinen vaalipiiri,1
+Nokia,1994,Kuopion läänin vaalipiiri,3
+Nokia,1994,Uudenmaan läänin vaalipiiri,2
+Nokia,1988,Kymen läänin vaalipiiri,2
+Nokia,1994,Oulun läänin vaalipiiri,3
+Nokia,1987,Turun läänin pohjoinen vaalipiiri,1
+Nokia,1994,Helsingin kaupungin vaalipiiri,2
+Nokia,1989,Helsingin kaupungin vaalipiiri,1
+Nokia,1995,Helsingin kaupungin vaalipiiri,7
+Nokia,1993,Lapin läänin vaalipiiri,2
+Nokia,1993,Helsingin kaupungin vaalipiiri,1
+Nokia,1991,Uudenmaan läänin vaalipiiri,4
+Nokia,1995,Keski-Suomen läänin vaalipiiri,2
+Nokia,1995,Turun läänin eteläinen vaalipiiri,8
+Nokia,1986,Hämeen läänin pohjoinen vaalipiiri,17
+Nokia,1995,Turun läänin pohjoinen vaalipiiri,2
+Nokia,1986,Turun läänin pohjoinen vaalipiiri,1
+Nokia,1986,Vaasan läänin vaalipiiri,3
+Nokia,1987,Vaasan läänin vaalipiiri,2
+Nokia,1993,Hämeen läänin pohjoinen vaalipiiri,5
+Nokia,1995,Uudenmaan läänin vaalipiiri,3
+Nokia,1988,Hämeen läänin pohjoinen vaalipiiri,3
+Nokia,1994,Hämeen läänin pohjoinen vaalipiiri,3
+Nokia,1992,Turun läänin eteläinen vaalipiiri,1
+Nokia,1991,Helsingin kaupungin vaalipiiri,1
+Nokia,1992,Hämeen läänin pohjoinen vaalipiiri,3
+Nokia,1988,Helsingin kaupungin vaalipiiri,3
+Nokia,1992,Helsingin kaupungin vaalipiiri,1
+Nokia,1994,Vaasan läänin vaalipiiri,2
+Nokia,1987,Turun läänin eteläinen vaalipiiri,3
+Nokia,1990,Helsingin kaupungin vaalipiiri,1
+Nokia,1989,Hämeen läänin pohjoinen vaalipiiri,2
+Nokia,1986,Turun läänin eteläinen vaalipiiri,2
+Nokia,1995,Hämeen läänin eteläinen vaalipiiri,1
+Nokia,1988,Vaasan läänin vaalipiiri,1
+Nokia,1989,Uudenmaan läänin vaalipiiri,1
+Nokia,1987,Lapin läänin vaalipiiri,1
+Nokia,1993,Turun läänin pohjoinen vaalipiiri,1
+Nokia,1987,Uudenmaan läänin vaalipiiri,1
+Nokia,1987,Kymen läänin vaalipiiri,1
+Nokia,1990,Hämeen läänin pohjoinen vaalipiiri,3
+Nokia,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Nokia,1994,Turun läänin eteläinen vaalipiiri,3
+Nokia,1993,Hämeen läänin eteläinen vaalipiiri,1
+Nokia,1992,Uudenmaan läänin vaalipiiri,4
+Nokia,1993,Kymen läänin vaalipiiri,1
+Nokia,1993,Oulun läänin vaalipiiri,3
+Nokia,1994,Hämeen läänin eteläinen vaalipiiri,1
+Nokia,1987,Keski-Suomen läänin vaalipiiri,1
+Nokia,1988,Oulun läänin vaalipiiri,1
+Nokia,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Nokia,1986,Uudenmaan läänin vaalipiiri,3
+Nokia,1986,Keski-Suomen läänin vaalipiiri,3
+Nokia,1991,Turun läänin pohjoinen vaalipiiri,1
+Nokia,1986,Oulun läänin vaalipiiri,1
+Nokia,1988,Turun läänin pohjoinen vaalipiiri,1
+Nokia,1987,Mikkelin läänin vaalipiiri,1
+Nokia,1988,Kuopion läänin vaalipiiri,1
+Nokia,1988,Hämeen läänin eteläinen vaalipiiri,1
+Nokia,1987,Hämeen läänin pohjoinen vaalipiiri,4
+Nokia,1993,Turun läänin eteläinen vaalipiiri,2
+Nokia,1995,Oulun läänin vaalipiiri,1
+Nokia,1990,Uudenmaan läänin vaalipiiri,1
+Nokia,1987,Helsingin kaupungin vaalipiiri,1
+Nokia,1990,Turun läänin pohjoinen vaalipiiri,1
+Nokia,1988,Keski-Suomen läänin vaalipiiri,1
+Nokia,1995,Mikkelin läänin vaalipiiri,1
+Nokia,1989,Vaasan läänin vaalipiiri,1
+Ylöjärvi,1990,Hämeen läänin pohjoinen vaalipiiri,3
+Ylöjärvi,1987,Hämeen läänin pohjoinen vaalipiiri,3
+Ylöjärvi,1988,Hämeen läänin pohjoinen vaalipiiri,2
+Ylöjärvi,1988,Uudenmaan läänin vaalipiiri,1
+Savonlinna,1986,Mikkelin läänin vaalipiiri,7
+Savonlinna,1990,Mikkelin läänin vaalipiiri,3
+Savonlinna,1995,Uudenmaan läänin vaalipiiri,1
+Savonlinna,1987,Kymen läänin vaalipiiri,1
+Savonlinna,1988,Mikkelin läänin vaalipiiri,4
+Savonlinna,1989,Mikkelin läänin vaalipiiri,6
+Savonlinna,1987,Uudenmaan läänin vaalipiiri,1
+Savonlinna,1993,Kymen läänin vaalipiiri,1
+Savonlinna,1990,Turun läänin eteläinen vaalipiiri,1
+Savonlinna,1989,Helsingin kaupungin vaalipiiri,3
+Savonlinna,1987,Mikkelin läänin vaalipiiri,5
+Savonlinna,1993,Mikkelin läänin vaalipiiri,1
+Savonlinna,1987,Helsingin kaupungin vaalipiiri,2
+Savonlinna,1987,Turun läänin pohjoinen vaalipiiri,1
+Savonlinna,1988,Helsingin kaupungin vaalipiiri,1
+Savonlinna,1995,Mikkelin läänin vaalipiiri,3
+Savonlinna,1995,Kymen läänin vaalipiiri,1
+Savonlinna,1987,Keski-Suomen läänin vaalipiiri,1
+Savonlinna,1989,Hämeen läänin eteläinen vaalipiiri,1
+Savonlinna,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Savonlinna,1994,Oulun läänin vaalipiiri,1
+Savonlinna,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Savonlinna,1993,Turun läänin eteläinen vaalipiiri,1
+Savonlinna,1993,Oulun läänin vaalipiiri,1
+Savonlinna,1987,Turun läänin eteläinen vaalipiiri,1
+Savonlinna,1992,Keski-Suomen läänin vaalipiiri,1
+Savonlinna,1989,Turun läänin eteläinen vaalipiiri,1
+Savonlinna,1991,Turun läänin eteläinen vaalipiiri,1
+Savonlinna,1993,Vaasan läänin vaalipiiri,1
+Savonlinna,1988,Turun läänin pohjoinen vaalipiiri,1
+Kangasala,1994,Hämeen läänin pohjoinen vaalipiiri,3
+Kangasala,1986,Hämeen läänin eteläinen vaalipiiri,1
+Kangasala,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Kangasala,1989,Pohjois-Karjalan läänin vaalipiiri,1
+Kangasala,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Kangasala,1995,Hämeen läänin pohjoinen vaalipiiri,2
+Riihimäki,1987,Hämeen läänin eteläinen vaalipiiri,6
+Riihimäki,1989,Hämeen läänin eteläinen vaalipiiri,4
+Riihimäki,1990,Uudenmaan läänin vaalipiiri,2
+Riihimäki,1987,Turun läänin eteläinen vaalipiiri,2
+Riihimäki,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Riihimäki,1988,Hämeen läänin eteläinen vaalipiiri,2
+Riihimäki,1989,Helsingin kaupungin vaalipiiri,1
+Riihimäki,1986,Hämeen läänin eteläinen vaalipiiri,4
+Riihimäki,1987,Uudenmaan läänin vaalipiiri,1
+Riihimäki,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Riihimäki,1993,Uudenmaan läänin vaalipiiri,2
+Riihimäki,1988,Uudenmaan läänin vaalipiiri,5
+Riihimäki,1990,Turun läänin eteläinen vaalipiiri,2
+Riihimäki,1993,Keski-Suomen läänin vaalipiiri,1
+Riihimäki,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Riihimäki,1991,Helsingin kaupungin vaalipiiri,1
+Riihimäki,1990,Hämeen läänin eteläinen vaalipiiri,1
+Riihimäki,1992,Turun läänin eteläinen vaalipiiri,1
+Riihimäki,1993,Hämeen läänin eteläinen vaalipiiri,1
+Riihimäki,1990,Helsingin kaupungin vaalipiiri,1
+Riihimäki,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Riihimäki,1994,Lapin läänin vaalipiiri,3
+Riihimäki,1986,Helsingin kaupungin vaalipiiri,1
+Riihimäki,1995,Turun läänin pohjoinen vaalipiiri,1
+Riihimäki,1988,Helsingin kaupungin vaalipiiri,2
+Riihimäki,1989,Mikkelin läänin vaalipiiri,1
+Riihimäki,1993,Mikkelin läänin vaalipiiri,1
+Riihimäki,1992,Kymen läänin vaalipiiri,1
+Riihimäki,1987,Oulun läänin vaalipiiri,1
+Riihimäki,1989,Turun läänin eteläinen vaalipiiri,1
+Riihimäki,1989,Uudenmaan läänin vaalipiiri,1
+Riihimäki,1991,Uudenmaan läänin vaalipiiri,1
+Imatra,1991,Kymen läänin vaalipiiri,9
+Imatra,1986,Helsingin kaupungin vaalipiiri,8
+Imatra,1994,Turun läänin eteläinen vaalipiiri,2
+Imatra,1986,NaN,8
+Imatra,1988,Turun läänin eteläinen vaalipiiri,2
+Imatra,1986,Uudenmaan läänin vaalipiiri,4
+Imatra,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Imatra,1993,Turun läänin pohjoinen vaalipiiri,5
+Imatra,1993,Kymen läänin vaalipiiri,2
+Imatra,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Imatra,1993,Keski-Suomen läänin vaalipiiri,2
+Imatra,1986,Lapin läänin vaalipiiri,8
+Imatra,1989,Oulun läänin vaalipiiri,2
+Imatra,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Imatra,1992,Oulun läänin vaalipiiri,7
+Imatra,1986,Oulun läänin vaalipiiri,7
+Imatra,1987,Uudenmaan läänin vaalipiiri,2
+Imatra,1992,Uudenmaan läänin vaalipiiri,2
+Imatra,1992,NaN,4
+Imatra,1991,Oulun läänin vaalipiiri,3
+Imatra,1990,Turun läänin pohjoinen vaalipiiri,4
+Imatra,1994,Uudenmaan läänin vaalipiiri,4
+Imatra,1991,Lapin läänin vaalipiiri,1
+Imatra,1991,Helsingin kaupungin vaalipiiri,4
+Imatra,1986,Turun läänin pohjoinen vaalipiiri,3
+Imatra,1989,Hämeen läänin eteläinen vaalipiiri,3
+Imatra,1993,Vaasan läänin vaalipiiri,1
+Imatra,1986,Mikkelin läänin vaalipiiri,2
+Imatra,1991,Turun läänin pohjoinen vaalipiiri,4
+Imatra,1993,Kuopion läänin vaalipiiri,3
+Imatra,1993,NaN,2
+Imatra,1986,Turun läänin eteläinen vaalipiiri,4
+Imatra,1988,Kymen läänin vaalipiiri,11
+Imatra,1986,Kymen läänin vaalipiiri,7
+Imatra,1989,Kymen läänin vaalipiiri,5
+Imatra,1987,Kymen läänin vaalipiiri,9
+Imatra,1994,Vaasan läänin vaalipiiri,1
+Imatra,1993,Oulun läänin vaalipiiri,2
+Imatra,1994,Helsingin kaupungin vaalipiiri,3
+Imatra,1987,Turun läänin pohjoinen vaalipiiri,4
+Imatra,1993,Turun läänin eteläinen vaalipiiri,3
+Imatra,1988,Uudenmaan läänin vaalipiiri,1
+Imatra,1992,Turun läänin pohjoinen vaalipiiri,5
+Imatra,1994,Kuopion läänin vaalipiiri,4
+Imatra,1992,Lapin läänin vaalipiiri,1
+Imatra,1995,Oulun läänin vaalipiiri,3
+Imatra,1990,Kymen läänin vaalipiiri,3
+Imatra,1993,Lapin läänin vaalipiiri,3
+Imatra,1995,Uudenmaan läänin vaalipiiri,4
+Imatra,1993,Uudenmaan läänin vaalipiiri,11
+Imatra,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Imatra,1989,Turun läänin pohjoinen vaalipiiri,3
+Imatra,1992,Helsingin kaupungin vaalipiiri,2
+Imatra,1990,Vaasan läänin vaalipiiri,2
+Imatra,1987,Turun läänin eteläinen vaalipiiri,1
+Imatra,1990,Uudenmaan läänin vaalipiiri,3
+Imatra,1992,Kuopion läänin vaalipiiri,1
+Imatra,1995,Turun läänin eteläinen vaalipiiri,1
+Imatra,1992,Hämeen läänin eteläinen vaalipiiri,2
+Imatra,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Imatra,1992,Turun läänin eteläinen vaalipiiri,1
+Imatra,1986,Hämeen läänin eteläinen vaalipiiri,1
+Imatra,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Imatra,1995,Kymen läänin vaalipiiri,4
+Imatra,1989,Uudenmaan läänin vaalipiiri,1
+Imatra,1993,Helsingin kaupungin vaalipiiri,2
+Imatra,1988,Turun läänin pohjoinen vaalipiiri,1
+Imatra,1988,Oulun läänin vaalipiiri,2
+Imatra,1986,Keski-Suomen läänin vaalipiiri,2
+Imatra,1990,Oulun läänin vaalipiiri,3
+Imatra,1987,Hämeen läänin eteläinen vaalipiiri,1
+Imatra,1989,Helsingin kaupungin vaalipiiri,3
+Imatra,1991,Turun läänin eteläinen vaalipiiri,1
+Imatra,1987,Oulun läänin vaalipiiri,3
+Imatra,1990,Helsingin kaupungin vaalipiiri,1
+Imatra,1987,Lapin läänin vaalipiiri,2
+Imatra,1995,Lapin läänin vaalipiiri,1
+Imatra,1987,Helsingin kaupungin vaalipiiri,1
+Imatra,1987,NaN,1
+Imatra,1990,Lapin läänin vaalipiiri,1
+Imatra,1992,Kymen läänin vaalipiiri,1
+Imatra,1994,Keski-Suomen läänin vaalipiiri,1
+Imatra,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Imatra,1988,Helsingin kaupungin vaalipiiri,1
+Imatra,1995,Kuopion läänin vaalipiiri,1
+Imatra,1994,NaN,2
+Imatra,1995,Turun läänin pohjoinen vaalipiiri,1
+Imatra,1986,Vaasan läänin vaalipiiri,1
+Imatra,1995,Vaasan läänin vaalipiiri,1
+Raisio,1991,Oulun läänin vaalipiiri,1
+Raisio,1991,Turun läänin eteläinen vaalipiiri,4
+Raisio,1994,Keski-Suomen läänin vaalipiiri,1
+Raisio,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Raisio,1989,Turun läänin eteläinen vaalipiiri,3
+Raisio,1993,Turun läänin eteläinen vaalipiiri,3
+Raisio,1987,Turun läänin eteläinen vaalipiiri,2
+Raisio,1992,Turun läänin eteläinen vaalipiiri,2
+Raisio,1994,Turun läänin pohjoinen vaalipiiri,4
+Raisio,1994,Helsingin kaupungin vaalipiiri,2
+Raisio,1986,Keski-Suomen läänin vaalipiiri,1
+Raisio,1993,Turun läänin pohjoinen vaalipiiri,1
+Raisio,1994,Turun läänin eteläinen vaalipiiri,2
+Raisio,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Raahe,1986,Oulun läänin vaalipiiri,13
+Raahe,1994,Oulun läänin vaalipiiri,2
+Raahe,1987,Oulun läänin vaalipiiri,4
+Raahe,1988,Uudenmaan läänin vaalipiiri,2
+Raahe,1986,Turun läänin eteläinen vaalipiiri,1
+Raahe,1989,Oulun läänin vaalipiiri,3
+Raahe,1992,Turun läänin pohjoinen vaalipiiri,3
+Raahe,1994,Kuopion läänin vaalipiiri,2
+Raahe,1986,Kuopion läänin vaalipiiri,1
+Raahe,1993,Oulun läänin vaalipiiri,2
+Raahe,1988,Oulun läänin vaalipiiri,8
+Raahe,1988,Lapin läänin vaalipiiri,4
+Raahe,1994,Uudenmaan läänin vaalipiiri,1
+Raahe,1986,Mikkelin läänin vaalipiiri,1
+Raahe,1995,Kuopion läänin vaalipiiri,2
+Raahe,1986,Vaasan läänin vaalipiiri,2
+Raahe,1991,Uudenmaan läänin vaalipiiri,1
+Raahe,1992,Oulun läänin vaalipiiri,3
+Raahe,1994,Lapin läänin vaalipiiri,1
+Raahe,1987,Kymen läänin vaalipiiri,1
+Raahe,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Raahe,1991,Oulun läänin vaalipiiri,1
+Raahe,1995,Oulun läänin vaalipiiri,1
+Raahe,1989,Lapin läänin vaalipiiri,1
+Raahe,1986,Kymen läänin vaalipiiri,1
+Raahe,1986,Lapin läänin vaalipiiri,1
+Raahe,1986,Keski-Suomen läänin vaalipiiri,1
+Raahe,1987,Keski-Suomen läänin vaalipiiri,1
+Raahe,1989,Turun läänin pohjoinen vaalipiiri,1
+Raahe,1986,Hämeen läänin eteläinen vaalipiiri,1
+Raahe,1990,Oulun läänin vaalipiiri,1
+Raahe,1987,Uudenmaan läänin vaalipiiri,1
+Raahe,1989,Turun läänin eteläinen vaalipiiri,1
+Raahe,1993,Vaasan läänin vaalipiiri,1
+Raahe,1988,Turun läänin eteläinen vaalipiiri,1
+Tornio,1988,Lapin läänin vaalipiiri,11
+Tornio,1993,Lapin läänin vaalipiiri,4
+Tornio,1991,Turun läänin eteläinen vaalipiiri,2
+Tornio,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Tornio,1986,Lapin läänin vaalipiiri,8
+Tornio,1989,Lapin läänin vaalipiiri,7
+Tornio,1993,Oulun läänin vaalipiiri,3
+Tornio,1995,Keski-Suomen läänin vaalipiiri,1
+Tornio,1987,Kuopion läänin vaalipiiri,1
+Tornio,1987,Uudenmaan läänin vaalipiiri,3
+Tornio,1989,Helsingin kaupungin vaalipiiri,3
+Tornio,1991,Oulun läänin vaalipiiri,2
+Tornio,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Tornio,1991,Lapin läänin vaalipiiri,5
+Tornio,1986,Mikkelin läänin vaalipiiri,1
+Tornio,1987,Lapin läänin vaalipiiri,8
+Tornio,1986,Oulun läänin vaalipiiri,1
+Tornio,1990,Oulun läänin vaalipiiri,1
+Tornio,1988,Vaasan läänin vaalipiiri,1
+Tornio,1993,Turun läänin pohjoinen vaalipiiri,2
+Tornio,1994,Helsingin kaupungin vaalipiiri,2
+Tornio,1989,Vaasan läänin vaalipiiri,2
+Tornio,1994,Kuopion läänin vaalipiiri,2
+Tornio,1993,Kymen läänin vaalipiiri,2
+Tornio,1995,Oulun läänin vaalipiiri,2
+Tornio,1995,Lapin läänin vaalipiiri,6
+Tornio,1988,Oulun läänin vaalipiiri,3
+Tornio,1987,Oulun läänin vaalipiiri,2
+Tornio,1986,Turun läänin eteläinen vaalipiiri,2
+Tornio,1994,Lapin läänin vaalipiiri,3
+Tornio,1989,Hämeen läänin eteläinen vaalipiiri,1
+Tornio,1990,Lapin läänin vaalipiiri,4
+Tornio,1990,Turun läänin eteläinen vaalipiiri,1
+Tornio,1987,Hämeen läänin eteläinen vaalipiiri,2
+Tornio,1990,Hämeen läänin pohjoinen vaalipiiri,2
+Tornio,1995,Helsingin kaupungin vaalipiiri,1
+Tornio,1992,Lapin läänin vaalipiiri,5
+Tornio,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Tornio,1990,Keski-Suomen läänin vaalipiiri,1
+Tornio,1993,NaN,1
+Iisalmi,1993,NaN,1
+Iisalmi,1986,Kuopion läänin vaalipiiri,2
+Iisalmi,1987,Kuopion läänin vaalipiiri,1
+Iisalmi,1988,Kuopion läänin vaalipiiri,1
+Iisalmi,1989,Uudenmaan läänin vaalipiiri,2
+Iisalmi,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Iisalmi,1989,Oulun läänin vaalipiiri,2
+Iisalmi,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Iisalmi,1995,Kuopion läänin vaalipiiri,1
+Iisalmi,1989,Kymen läänin vaalipiiri,1
+Iisalmi,1991,Keski-Suomen läänin vaalipiiri,1
+Iisalmi,1991,Turun läänin pohjoinen vaalipiiri,1
+Iisalmi,1994,Kuopion läänin vaalipiiri,2
+Iisalmi,1990,Uudenmaan läänin vaalipiiri,1
+Iisalmi,1988,Mikkelin läänin vaalipiiri,1
+Iisalmi,1990,Kymen läänin vaalipiiri,1
+Iisalmi,1991,Oulun läänin vaalipiiri,1
+Iisalmi,1992,Kuopion läänin vaalipiiri,1
+Iisalmi,1991,Kuopion läänin vaalipiiri,2
+Iisalmi,1987,Uudenmaan läänin vaalipiiri,1
+Iisalmi,1986,Hämeen läänin eteläinen vaalipiiri,1
+Iisalmi,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Iisalmi,1994,Vaasan läänin vaalipiiri,1
+Iisalmi,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Iisalmi,1994,Helsingin kaupungin vaalipiiri,1
+Iisalmi,1993,Vaasan läänin vaalipiiri,1
+Iisalmi,1993,Turun läänin pohjoinen vaalipiiri,1
+Iisalmi,1992,Turun läänin pohjoinen vaalipiiri,1
+Valkeakoski,1990,Hämeen läänin pohjoinen vaalipiiri,10
+Valkeakoski,1988,Hämeen läänin eteläinen vaalipiiri,1
+Valkeakoski,1993,Turun läänin pohjoinen vaalipiiri,1
+Valkeakoski,1995,Turun läänin pohjoinen vaalipiiri,1
+Valkeakoski,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Valkeakoski,1995,Hämeen läänin pohjoinen vaalipiiri,5
+Valkeakoski,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Valkeakoski,1989,Hämeen läänin eteläinen vaalipiiri,3
+Valkeakoski,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Valkeakoski,1989,Turun läänin pohjoinen vaalipiiri,1
+Valkeakoski,1988,Kymen läänin vaalipiiri,2
+Valkeakoski,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Valkeakoski,1990,Hämeen läänin eteläinen vaalipiiri,10
+Valkeakoski,1986,Hämeen läänin eteläinen vaalipiiri,5
+Valkeakoski,1987,Hämeen läänin eteläinen vaalipiiri,1
+Valkeakoski,1990,NaN,4
+Valkeakoski,1988,Oulun läänin vaalipiiri,1
+Valkeakoski,1988,Uudenmaan läänin vaalipiiri,1
+Valkeakoski,1990,Helsingin kaupungin vaalipiiri,2
+Valkeakoski,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Valkeakoski,1986,Mikkelin läänin vaalipiiri,1
+Valkeakoski,1995,Hämeen läänin eteläinen vaalipiiri,1
+Valkeakoski,1989,Uudenmaan läänin vaalipiiri,1
+Valkeakoski,1986,NaN,1
+Valkeakoski,1987,Uudenmaan läänin vaalipiiri,1
+Kurikka,1990,Vaasan läänin vaalipiiri,2
+Kurikka,1991,Vaasan läänin vaalipiiri,4
+Kurikka,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Kurikka,1986,Vaasan läänin vaalipiiri,2
+Kurikka,1987,Vaasan läänin vaalipiiri,1
+Kemi,1994,Lapin läänin vaalipiiri,14
+Kemi,1986,Oulun läänin vaalipiiri,12
+Kemi,1986,Vaasan läänin vaalipiiri,7
+Kemi,1988,Helsingin kaupungin vaalipiiri,6
+Kemi,1989,Lapin läänin vaalipiiri,21
+Kemi,1990,Hämeen läänin eteläinen vaalipiiri,2
+Kemi,1987,Lapin läänin vaalipiiri,22
+Kemi,1993,Lapin läänin vaalipiiri,24
+Kemi,1989,Keski-Suomen läänin vaalipiiri,2
+Kemi,1991,Uudenmaan läänin vaalipiiri,2
+Kemi,1993,Vaasan läänin vaalipiiri,3
+Kemi,1993,Kuopion läänin vaalipiiri,6
+Kemi,1988,Keski-Suomen läänin vaalipiiri,1
+Kemi,1991,Lapin läänin vaalipiiri,15
+Kemi,1988,Oulun läänin vaalipiiri,7
+Kemi,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Kemi,1994,Vaasan läänin vaalipiiri,1
+Kemi,1992,Helsingin kaupungin vaalipiiri,2
+Kemi,1986,Keski-Suomen läänin vaalipiiri,1
+Kemi,1986,NaN,9
+Kemi,1986,Lapin läänin vaalipiiri,29
+Kemi,1988,Lapin läänin vaalipiiri,21
+Kemi,1994,Turun läänin eteläinen vaalipiiri,2
+Kemi,1995,Lapin läänin vaalipiiri,12
+Kemi,1993,Helsingin kaupungin vaalipiiri,1
+Kemi,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Kemi,1987,Keski-Suomen läänin vaalipiiri,1
+Kemi,1986,Hämeen läänin eteläinen vaalipiiri,3
+Kemi,1989,Kymen läänin vaalipiiri,2
+Kemi,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Kemi,1989,Uudenmaan läänin vaalipiiri,7
+Kemi,1986,Helsingin kaupungin vaalipiiri,5
+Kemi,1988,Turun läänin pohjoinen vaalipiiri,7
+Kemi,1989,Turun läänin pohjoinen vaalipiiri,4
+Kemi,1986,Turun läänin eteläinen vaalipiiri,9
+Kemi,1986,Uudenmaan läänin vaalipiiri,4
+Kemi,1988,Vaasan läänin vaalipiiri,1
+Kemi,1990,Lapin läänin vaalipiiri,7
+Kemi,1986,Mikkelin läänin vaalipiiri,2
+Kemi,1989,Turun läänin eteläinen vaalipiiri,3
+Kemi,1988,Uudenmaan läänin vaalipiiri,4
+Kemi,1994,Uudenmaan läänin vaalipiiri,1
+Kemi,1993,Oulun läänin vaalipiiri,4
+Kemi,1994,Oulun läänin vaalipiiri,7
+Kemi,1992,Lapin läänin vaalipiiri,8
+Kemi,1994,Turun läänin pohjoinen vaalipiiri,4
+Kemi,1986,Hämeen läänin pohjoinen vaalipiiri,9
+Kemi,1989,Hämeen läänin eteläinen vaalipiiri,2
+Kemi,1991,Hämeen läänin eteläinen vaalipiiri,1
+Kemi,1987,Turun läänin eteläinen vaalipiiri,2
+Kemi,1988,Kymen läänin vaalipiiri,2
+Kemi,1987,Turun läänin pohjoinen vaalipiiri,3
+Kemi,1991,Kymen läänin vaalipiiri,3
+Kemi,1994,Kuopion läänin vaalipiiri,4
+Kemi,1987,Uudenmaan läänin vaalipiiri,7
+Kemi,1990,Uudenmaan läänin vaalipiiri,2
+Kemi,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Kemi,1987,Hämeen läänin eteläinen vaalipiiri,2
+Kemi,1991,Oulun läänin vaalipiiri,1
+Kemi,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Kemi,1992,Oulun läänin vaalipiiri,3
+Kemi,1989,Kuopion läänin vaalipiiri,1
+Kemi,1993,Kymen läänin vaalipiiri,3
+Kemi,1990,Turun läänin eteläinen vaalipiiri,2
+Kemi,1989,Oulun läänin vaalipiiri,4
+Kemi,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Kemi,1991,Vaasan läänin vaalipiiri,1
+Kemi,1991,Turun läänin eteläinen vaalipiiri,2
+Kemi,1987,Vaasan läänin vaalipiiri,4
+Kemi,1995,Kuopion läänin vaalipiiri,2
+Kemi,1986,Turun läänin pohjoinen vaalipiiri,4
+Kemi,1987,NaN,4
+Kemi,1987,Oulun läänin vaalipiiri,3
+Kemi,1986,Kuopion läänin vaalipiiri,1
+Kemi,1988,Turun läänin eteläinen vaalipiiri,3
+Kemi,1990,Helsingin kaupungin vaalipiiri,2
+Kemi,1987,Helsingin kaupungin vaalipiiri,1
+Kemi,1989,Helsingin kaupungin vaalipiiri,2
+Kemi,1995,Oulun läänin vaalipiiri,2
+Kemi,1989,Vaasan läänin vaalipiiri,2
+Kemi,1992,Turun läänin pohjoinen vaalipiiri,1
+Kemi,1994,Helsingin kaupungin vaalipiiri,1
+Kemi,1995,Keski-Suomen läänin vaalipiiri,1
+Kemi,1995,Kymen läänin vaalipiiri,1
+Kemi,1989,Pohjois-Karjalan läänin vaalipiiri,1
+Kemi,1989,Mikkelin läänin vaalipiiri,1
+Kemi,1991,Helsingin kaupungin vaalipiiri,1
+Kemi,1993,Turun läänin pohjoinen vaalipiiri,2
+Kemi,1992,Uudenmaan läänin vaalipiiri,1
+Kemi,1992,Vaasan läänin vaalipiiri,1
+Kemi,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Kemi,1993,NaN,1
+Kemi,1990,Kymen läänin vaalipiiri,1
+Kemi,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Kemi,1987,Kuopion läänin vaalipiiri,1
+Kemi,1990,Oulun läänin vaalipiiri,1
+Varkaus,1993,Turun läänin pohjoinen vaalipiiri,1
+Varkaus,1986,Keski-Suomen läänin vaalipiiri,2
+Varkaus,1988,Kuopion läänin vaalipiiri,5
+Varkaus,1992,Kuopion läänin vaalipiiri,2
+Varkaus,1988,Mikkelin läänin vaalipiiri,1
+Varkaus,1994,Kuopion läänin vaalipiiri,7
+Varkaus,1986,Mikkelin läänin vaalipiiri,1
+Varkaus,1992,Oulun läänin vaalipiiri,1
+Varkaus,1990,Kuopion läänin vaalipiiri,4
+Varkaus,1993,Oulun läänin vaalipiiri,1
+Varkaus,1986,Kuopion läänin vaalipiiri,9
+Varkaus,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Varkaus,1993,Kuopion läänin vaalipiiri,5
+Varkaus,1986,Turun läänin eteläinen vaalipiiri,2
+Varkaus,1995,Mikkelin läänin vaalipiiri,3
+Varkaus,1987,Kuopion läänin vaalipiiri,2
+Varkaus,1990,Turun läänin eteläinen vaalipiiri,1
+Varkaus,1990,Kymen läänin vaalipiiri,2
+Varkaus,1989,Kuopion läänin vaalipiiri,1
+Varkaus,1995,Uudenmaan läänin vaalipiiri,1
+Varkaus,1995,Kuopion läänin vaalipiiri,5
+Varkaus,1991,Kuopion läänin vaalipiiri,1
+Varkaus,1990,Helsingin kaupungin vaalipiiri,2
+Varkaus,1992,Turun läänin pohjoinen vaalipiiri,1
+Varkaus,1986,Vaasan läänin vaalipiiri,1
+Varkaus,1986,Hämeen läänin eteläinen vaalipiiri,1
+Varkaus,1989,Oulun läänin vaalipiiri,1
+Varkaus,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Varkaus,1994,Oulun läänin vaalipiiri,1
+Varkaus,1986,Pohjois-Karjalan läänin vaalipiiri,2
+Varkaus,1994,Turun läänin eteläinen vaalipiiri,1
+Varkaus,1986,NaN,1
+Varkaus,1993,Vaasan läänin vaalipiiri,1
+Varkaus,1988,Helsingin kaupungin vaalipiiri,1
+Jämsä,1992,Keski-Suomen läänin vaalipiiri,1
+Jämsä,1989,Mikkelin läänin vaalipiiri,1
+Jämsä,1991,Keski-Suomen läänin vaalipiiri,1
+Jämsä,1988,Keski-Suomen läänin vaalipiiri,1
+Jämsä,1990,Keski-Suomen läänin vaalipiiri,2
+Jämsä,1995,Keski-Suomen läänin vaalipiiri,1
+Jämsä,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Jämsä,1989,Keski-Suomen läänin vaalipiiri,1
+Jämsä,1991,Turun läänin eteläinen vaalipiiri,1
+Jämsä,1987,NaN,1
+Jämsä,1987,Keski-Suomen läänin vaalipiiri,1
+Hamina,1987,Kymen läänin vaalipiiri,7
+Hamina,1988,Kymen läänin vaalipiiri,10
+Hamina,1992,Kymen läänin vaalipiiri,3
+Hamina,1995,Kymen läänin vaalipiiri,11
+Hamina,1989,Mikkelin läänin vaalipiiri,2
+Hamina,1991,Kymen läänin vaalipiiri,3
+Hamina,1987,Turun läänin eteläinen vaalipiiri,2
+Hamina,1989,Kymen läänin vaalipiiri,15
+Hamina,1994,Keski-Suomen läänin vaalipiiri,1
+Hamina,1987,NaN,1
+Hamina,1990,Vaasan läänin vaalipiiri,1
+Hamina,1994,Kymen läänin vaalipiiri,4
+Hamina,1993,Kymen läänin vaalipiiri,8
+Hamina,1987,Vaasan läänin vaalipiiri,4
+Hamina,1990,Kymen läänin vaalipiiri,5
+Hamina,1987,Uudenmaan läänin vaalipiiri,2
+Hamina,1986,Mikkelin läänin vaalipiiri,1
+Hamina,1993,Mikkelin läänin vaalipiiri,1
+Hamina,1989,Lapin läänin vaalipiiri,1
+Hamina,1988,Helsingin kaupungin vaalipiiri,2
+Hamina,1987,Oulun läänin vaalipiiri,1
+Hamina,1989,Vaasan läänin vaalipiiri,1
+Hamina,1986,Vaasan läänin vaalipiiri,1
+Hamina,1986,Kymen läänin vaalipiiri,1
+Hamina,1995,Vaasan läänin vaalipiiri,1
+Hamina,1989,Uudenmaan läänin vaalipiiri,1
+Hamina,1994,Uudenmaan läänin vaalipiiri,1
+Naantali,1991,Uudenmaan läänin vaalipiiri,1
+Naantali,1986,Turun läänin eteläinen vaalipiiri,5
+Naantali,1989,Turun läänin pohjoinen vaalipiiri,1
+Naantali,1988,Turun läänin eteläinen vaalipiiri,2
+Naantali,1993,Turun läänin eteläinen vaalipiiri,2
+Naantali,1992,Turun läänin eteläinen vaalipiiri,2
+Naantali,1987,Hämeen läänin eteläinen vaalipiiri,1
+Naantali,1994,Turun läänin eteläinen vaalipiiri,2
+Naantali,1991,Turun läänin eteläinen vaalipiiri,2
+Naantali,1988,Helsingin kaupungin vaalipiiri,2
+Naantali,1994,Ahvenanmaan maakunnan vaalipiiri,2
+Naantali,1987,Turun läänin eteläinen vaalipiiri,1
+Naantali,1986,NaN,1
+Naantali,1989,Turun läänin eteläinen vaalipiiri,1
+Naantali,1994,Uudenmaan läänin vaalipiiri,1
+Naantali,1991,Vaasan läänin vaalipiiri,1
+Naantali,1987,Helsingin kaupungin vaalipiiri,2
+Naantali,1986,Vaasan läänin vaalipiiri,1
+Naantali,1987,Oulun läänin vaalipiiri,1
+Pietarsaari,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Pietarsaari,1986,Vaasan läänin vaalipiiri,3
+Pietarsaari,1991,Vaasan läänin vaalipiiri,1
+Pietarsaari,1987,Vaasan läänin vaalipiiri,1
+Pietarsaari,1986,Uudenmaan läänin vaalipiiri,1
+Pietarsaari,1993,Vaasan läänin vaalipiiri,1
+Pietarsaari,1991,Uudenmaan läänin vaalipiiri,1
+Pietarsaari,1987,Uudenmaan läänin vaalipiiri,1
+Pietarsaari,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Pietarsaari,1988,Helsingin kaupungin vaalipiiri,1
+Pietarsaari,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Pietarsaari,1989,Vaasan läänin vaalipiiri,1
+Äänekoski,1988,Keski-Suomen läänin vaalipiiri,1
+Äänekoski,1993,NaN,3
+Äänekoski,1988,Kuopion läänin vaalipiiri,1
+Äänekoski,1988,Kymen läänin vaalipiiri,2
+Äänekoski,1986,Keski-Suomen läänin vaalipiiri,8
+Äänekoski,1988,Uudenmaan läänin vaalipiiri,2
+Äänekoski,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Äänekoski,1988,Turun läänin eteläinen vaalipiiri,1
+Äänekoski,1987,Keski-Suomen läänin vaalipiiri,2
+Äänekoski,1990,Vaasan läänin vaalipiiri,1
+Äänekoski,1986,Hämeen läänin eteläinen vaalipiiri,1
+Äänekoski,1987,Helsingin kaupungin vaalipiiri,1
+Äänekoski,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Äänekoski,1990,Keski-Suomen läänin vaalipiiri,1
+Äänekoski,1990,Helsingin kaupungin vaalipiiri,1
+Äänekoski,1995,Keski-Suomen läänin vaalipiiri,2
+Heinola,1987,Keski-Suomen läänin vaalipiiri,3
+Heinola,1987,Mikkelin läänin vaalipiiri,5
+Heinola,1987,Turun läänin eteläinen vaalipiiri,1
+Heinola,1994,Mikkelin läänin vaalipiiri,1
+Heinola,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Heinola,1987,Hämeen läänin eteläinen vaalipiiri,3
+Heinola,1986,Turun läänin eteläinen vaalipiiri,1
+Heinola,1992,Turun läänin pohjoinen vaalipiiri,1
+Heinola,1995,Mikkelin läänin vaalipiiri,4
+Heinola,1991,Hämeen läänin eteläinen vaalipiiri,1
+Heinola,1993,Kymen läänin vaalipiiri,3
+Heinola,1990,Hämeen läänin eteläinen vaalipiiri,1
+Heinola,1987,Oulun läänin vaalipiiri,2
+Heinola,1986,Helsingin kaupungin vaalipiiri,2
+Heinola,1987,Turun läänin pohjoinen vaalipiiri,1
+Heinola,1994,Oulun läänin vaalipiiri,2
+Heinola,1987,Kymen läänin vaalipiiri,2
+Heinola,1988,Helsingin kaupungin vaalipiiri,1
+Heinola,1994,Kuopion läänin vaalipiiri,2
+Heinola,1987,Hämeen läänin pohjoinen vaalipiiri,3
+Heinola,1993,Oulun läänin vaalipiiri,3
+Heinola,1986,Oulun läänin vaalipiiri,1
+Heinola,1995,Uudenmaan läänin vaalipiiri,1
+Heinola,1986,Mikkelin läänin vaalipiiri,1
+Heinola,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Heinola,1993,Uudenmaan läänin vaalipiiri,1
+Heinola,1987,Uudenmaan läänin vaalipiiri,2
+Heinola,1995,Kymen läänin vaalipiiri,2
+Heinola,1987,Helsingin kaupungin vaalipiiri,1
+Heinola,1990,Helsingin kaupungin vaalipiiri,1
+Heinola,1992,Mikkelin läänin vaalipiiri,1
+Heinola,1993,Mikkelin läänin vaalipiiri,2
+Heinola,1993,Kuopion läänin vaalipiiri,1
+Heinola,1988,Mikkelin läänin vaalipiiri,1
+Heinola,1988,Hämeen läänin eteläinen vaalipiiri,1
+Heinola,1986,Hämeen läänin eteläinen vaalipiiri,1
+Pieksämäki,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Pieksämäki,1989,Oulun läänin vaalipiiri,2
+Pieksämäki,1994,Kuopion läänin vaalipiiri,2
+Pieksämäki,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Pieksämäki,1987,Mikkelin läänin vaalipiiri,7
+Pieksämäki,1995,Mikkelin läänin vaalipiiri,2
+Pieksämäki,1989,Keski-Suomen läänin vaalipiiri,1
+Pieksämäki,1986,Mikkelin läänin vaalipiiri,20
+Pieksämäki,1990,Kymen läänin vaalipiiri,1
+Pieksämäki,1988,Pohjois-Karjalan läänin vaalipiiri,2
+Pieksämäki,1993,Turun läänin pohjoinen vaalipiiri,3
+Pieksämäki,1990,Mikkelin läänin vaalipiiri,1
+Pieksämäki,1989,Helsingin kaupungin vaalipiiri,5
+Pieksämäki,1989,Mikkelin läänin vaalipiiri,2
+Pieksämäki,1995,Kuopion läänin vaalipiiri,1
+Pieksämäki,1992,Kuopion läänin vaalipiiri,1
+Pieksämäki,1987,Helsingin kaupungin vaalipiiri,3
+Pieksämäki,1989,NaN,1
+Pieksämäki,1995,Keski-Suomen läänin vaalipiiri,1
+Pieksämäki,1994,Uudenmaan läänin vaalipiiri,1
+Pieksämäki,1989,Turun läänin pohjoinen vaalipiiri,1
+Pieksämäki,1994,Keski-Suomen läänin vaalipiiri,1
+Pieksämäki,1986,Hämeen läänin eteläinen vaalipiiri,2
+Pieksämäki,1987,Uudenmaan läänin vaalipiiri,1
+Pieksämäki,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Pieksämäki,1994,Mikkelin läänin vaalipiiri,2
+Pieksämäki,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Pieksämäki,1987,Oulun läänin vaalipiiri,1
+Pieksämäki,1988,Turun läänin pohjoinen vaalipiiri,1
+Forssa,1990,Helsingin kaupungin vaalipiiri,1
+Forssa,1986,NaN,2
+Forssa,1989,Hämeen läänin eteläinen vaalipiiri,8
+Forssa,1986,Hämeen läänin eteläinen vaalipiiri,10
+Forssa,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Forssa,1987,Hämeen läänin eteläinen vaalipiiri,6
+Forssa,1992,Hämeen läänin eteläinen vaalipiiri,2
+Forssa,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Forssa,1994,Hämeen läänin eteläinen vaalipiiri,1
+Forssa,1988,Hämeen läänin eteläinen vaalipiiri,7
+Forssa,1995,Hämeen läänin eteläinen vaalipiiri,1
+Forssa,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Forssa,1993,Lapin läänin vaalipiiri,1
+Forssa,1990,Mikkelin läänin vaalipiiri,1
+Forssa,1995,Turun läänin eteläinen vaalipiiri,1
+Forssa,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Forssa,1995,Kuopion läänin vaalipiiri,1
+Forssa,1989,Turun läänin pohjoinen vaalipiiri,3
+Forssa,1993,Oulun läänin vaalipiiri,1
+Forssa,1990,Hämeen läänin eteläinen vaalipiiri,4
+Forssa,1991,Turun läänin eteläinen vaalipiiri,2
+Forssa,1995,Uudenmaan läänin vaalipiiri,1
+Forssa,1990,Turun läänin pohjoinen vaalipiiri,1
+Forssa,1987,Keski-Suomen läänin vaalipiiri,1
+Forssa,1988,Turun läänin eteläinen vaalipiiri,2
+Forssa,1993,Hämeen läänin eteläinen vaalipiiri,2
+Forssa,1992,Turun läänin eteläinen vaalipiiri,1
+Forssa,1989,Helsingin kaupungin vaalipiiri,1
+Forssa,1993,Uudenmaan läänin vaalipiiri,1
+Forssa,1988,Oulun läänin vaalipiiri,1
+Forssa,1986,Turun läänin pohjoinen vaalipiiri,1
+Forssa,1989,Lapin läänin vaalipiiri,1
+Forssa,1991,Turun läänin pohjoinen vaalipiiri,1
+Forssa,1991,Hämeen läänin eteläinen vaalipiiri,1
+Forssa,1993,Turun läänin pohjoinen vaalipiiri,1
+Forssa,1995,Turun läänin pohjoinen vaalipiiri,1
+Forssa,1990,Turun läänin eteläinen vaalipiiri,1
+Forssa,1986,Mikkelin läänin vaalipiiri,1
+Forssa,1995,Lapin läänin vaalipiiri,1
+Akaa,1988,Hämeen läänin eteläinen vaalipiiri,1
+Orimattila,1986,Kuopion läänin vaalipiiri,1
+Orimattila,1986,Uudenmaan läänin vaalipiiri,2
+Orimattila,1990,Uudenmaan läänin vaalipiiri,1
+Orimattila,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Orimattila,1988,Uudenmaan läänin vaalipiiri,2
+Orimattila,1986,Hämeen läänin eteläinen vaalipiiri,1
+Orimattila,1992,Kymen läänin vaalipiiri,1
+Orimattila,1987,Uudenmaan läänin vaalipiiri,1
+Orimattila,1991,Kymen läänin vaalipiiri,1
+Orimattila,1986,Kymen läänin vaalipiiri,1
+Loimaa,1991,Turun läänin eteläinen vaalipiiri,2
+Loimaa,1988,Turun läänin eteläinen vaalipiiri,4
+Loimaa,1986,Hämeen läänin eteläinen vaalipiiri,1
+Loimaa,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Loimaa,1986,Turun läänin eteläinen vaalipiiri,1
+Loimaa,1995,Turun läänin eteläinen vaalipiiri,2
+Loimaa,1993,Turun läänin eteläinen vaalipiiri,4
+Loimaa,1989,Hämeen läänin eteläinen vaalipiiri,1
+Loimaa,1993,Turun läänin pohjoinen vaalipiiri,1
+Loimaa,1994,Turun läänin eteläinen vaalipiiri,1
+Loimaa,1988,Pohjois-Karjalan läänin vaalipiiri,2
+Loimaa,1990,Hämeen läänin eteläinen vaalipiiri,2
+Loimaa,1987,Turun läänin eteläinen vaalipiiri,1
+Loimaa,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Loimaa,1992,Turun läänin eteläinen vaalipiiri,1
+Loimaa,1990,Turun läänin eteläinen vaalipiiri,1
+Kauhava,1994,Uudenmaan läänin vaalipiiri,1
+Kauhava,1992,Vaasan läänin vaalipiiri,3
+Kauhava,1986,Hämeen läänin eteläinen vaalipiiri,1
+Kauhava,1987,Turun läänin pohjoinen vaalipiiri,1
+Kauhava,1987,Helsingin kaupungin vaalipiiri,1
+Uusikaupunki,1993,Turun läänin eteläinen vaalipiiri,3
+Uusikaupunki,1994,Turun läänin eteläinen vaalipiiri,1
+Uusikaupunki,1987,Turun läänin eteläinen vaalipiiri,4
+Uusikaupunki,1991,Turun läänin eteläinen vaalipiiri,1
+Uusikaupunki,1988,Helsingin kaupungin vaalipiiri,1
+Uusikaupunki,1989,Helsingin kaupungin vaalipiiri,1
+Uusikaupunki,1987,Helsingin kaupungin vaalipiiri,1
+Uusikaupunki,1986,Turun läänin eteläinen vaalipiiri,1
+Ylivieska,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Ylivieska,1987,Oulun läänin vaalipiiri,2
+Ylivieska,1987,Uudenmaan läänin vaalipiiri,2
+Ylivieska,1990,Oulun läänin vaalipiiri,3
+Ylivieska,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Ylivieska,1989,Oulun läänin vaalipiiri,2
+Ylivieska,1986,Hämeen läänin eteläinen vaalipiiri,2
+Ylivieska,1993,Vaasan läänin vaalipiiri,2
+Ylivieska,1988,Helsingin kaupungin vaalipiiri,1
+Ylivieska,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Ylivieska,1989,Vaasan läänin vaalipiiri,1
+Ylivieska,1992,Oulun läänin vaalipiiri,1
+Ylivieska,1986,Kymen läänin vaalipiiri,1
+Ylivieska,1987,Kymen läänin vaalipiiri,1
+Kuusamo,1990,Oulun läänin vaalipiiri,8
+Kuusamo,1986,Oulun läänin vaalipiiri,16
+Kuusamo,1992,Uudenmaan läänin vaalipiiri,4
+Kuusamo,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Kuusamo,1987,Turun läänin pohjoinen vaalipiiri,3
+Kuusamo,1987,Oulun läänin vaalipiiri,27
+Kuusamo,1988,Oulun läänin vaalipiiri,6
+Kuusamo,1995,Oulun läänin vaalipiiri,2
+Kuusamo,1993,Uudenmaan läänin vaalipiiri,1
+Kuusamo,1987,Vaasan läänin vaalipiiri,5
+Kuusamo,1989,Uudenmaan läänin vaalipiiri,1
+Kuusamo,1987,Turun läänin eteläinen vaalipiiri,1
+Kuusamo,1987,Uudenmaan läänin vaalipiiri,2
+Kuusamo,1995,Kuopion läänin vaalipiiri,2
+Kuusamo,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Kuusamo,1987,Kuopion läänin vaalipiiri,3
+Kuusamo,1988,Helsingin kaupungin vaalipiiri,1
+Kuusamo,1989,Lapin läänin vaalipiiri,2
+Kuusamo,1991,Lapin läänin vaalipiiri,1
+Kuusamo,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Kuusamo,1991,Hämeen läänin eteläinen vaalipiiri,1
+Kuusamo,1987,Kymen läänin vaalipiiri,1
+Kuusamo,1994,Oulun läänin vaalipiiri,4
+Kuusamo,1993,Lapin läänin vaalipiiri,2
+Kuusamo,1988,Vaasan läänin vaalipiiri,1
+Kuusamo,1992,Turun läänin pohjoinen vaalipiiri,3
+Kuusamo,1988,Kuopion läänin vaalipiiri,1
+Kuusamo,1988,Uudenmaan läänin vaalipiiri,1
+Kuusamo,1992,Oulun läänin vaalipiiri,1
+Kuusamo,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Kuusamo,1989,Oulun läänin vaalipiiri,2
+Kuusamo,1987,Mikkelin läänin vaalipiiri,1
+Kuusamo,1992,Hämeen läänin eteläinen vaalipiiri,2
+Kuusamo,1994,Keski-Suomen läänin vaalipiiri,1
+Kuusamo,1986,Kuopion läänin vaalipiiri,1
+Kuusamo,1990,Turun läänin eteläinen vaalipiiri,1
+Kuusamo,1990,Lapin läänin vaalipiiri,1
+Kuusamo,1987,Helsingin kaupungin vaalipiiri,1
+Kuusamo,1991,Uudenmaan läänin vaalipiiri,1
+Kuusamo,1986,Helsingin kaupungin vaalipiiri,1
+Kuusamo,1993,Kuopion läänin vaalipiiri,1
+Kuusamo,1995,Lapin läänin vaalipiiri,1
+Kuusamo,1989,Turun läänin pohjoinen vaalipiiri,1
+Kuusamo,1990,Uudenmaan läänin vaalipiiri,1
+Kuusamo,1994,Vaasan läänin vaalipiiri,1
+Kuusamo,1990,Hämeen läänin eteläinen vaalipiiri,1
+Parainen,1993,Vaasan läänin vaalipiiri,1
+Parainen,1986,Turun läänin eteläinen vaalipiiri,4
+Parainen,1993,Turun läänin eteläinen vaalipiiri,1
+Parainen,1991,Turun läänin eteläinen vaalipiiri,1
+Parainen,1990,Helsingin kaupungin vaalipiiri,1
+Parainen,1986,Vaasan läänin vaalipiiri,1
+Parainen,1987,Turun läänin eteläinen vaalipiiri,1
+Loviisa,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Loviisa,1987,Uudenmaan läänin vaalipiiri,2
+Loviisa,1992,Turun läänin pohjoinen vaalipiiri,2
+Loviisa,1993,Pohjois-Karjalan läänin vaalipiiri,4
+Loviisa,1987,Kymen läänin vaalipiiri,5
+Loviisa,1994,Kymen läänin vaalipiiri,1
+Loviisa,1986,Uudenmaan läänin vaalipiiri,8
+Loviisa,1989,Helsingin kaupungin vaalipiiri,4
+Loviisa,1987,Turun läänin eteläinen vaalipiiri,1
+Loviisa,1987,Oulun läänin vaalipiiri,2
+Loviisa,1986,Pohjois-Karjalan läänin vaalipiiri,3
+Loviisa,1992,NaN,3
+Loviisa,1993,Helsingin kaupungin vaalipiiri,8
+Loviisa,1988,Kymen läänin vaalipiiri,3
+Loviisa,1995,Kymen läänin vaalipiiri,1
+Loviisa,1993,Hämeen läänin pohjoinen vaalipiiri,5
+Loviisa,1986,Helsingin kaupungin vaalipiiri,4
+Loviisa,1993,Kuopion läänin vaalipiiri,3
+Loviisa,1992,Kymen läänin vaalipiiri,2
+Loviisa,1993,NaN,4
+Loviisa,1992,Hämeen läänin pohjoinen vaalipiiri,5
+Loviisa,1993,Uudenmaan läänin vaalipiiri,11
+Loviisa,1986,Hämeen läänin pohjoinen vaalipiiri,3
+Loviisa,1992,Oulun läänin vaalipiiri,3
+Loviisa,1990,Kymen läänin vaalipiiri,2
+Loviisa,1986,Oulun läänin vaalipiiri,3
+Loviisa,1992,Helsingin kaupungin vaalipiiri,6
+Loviisa,1990,Uudenmaan läänin vaalipiiri,5
+Loviisa,1992,Turun läänin eteläinen vaalipiiri,2
+Loviisa,1986,Lapin läänin vaalipiiri,1
+Loviisa,1990,Hämeen läänin pohjoinen vaalipiiri,2
+Loviisa,1986,NaN,3
+Loviisa,1992,Uudenmaan läänin vaalipiiri,5
+Loviisa,1995,Uudenmaan läänin vaalipiiri,1
+Loviisa,1994,Helsingin kaupungin vaalipiiri,3
+Loviisa,1986,Kymen läänin vaalipiiri,1
+Loviisa,1995,Vaasan läänin vaalipiiri,1
+Loviisa,1991,Helsingin kaupungin vaalipiiri,1
+Loviisa,1989,Vaasan läänin vaalipiiri,2
+Loviisa,1990,Helsingin kaupungin vaalipiiri,3
+Loviisa,1990,Turun läänin pohjoinen vaalipiiri,3
+Loviisa,1989,Oulun läänin vaalipiiri,2
+Loviisa,1988,Lapin läänin vaalipiiri,1
+Loviisa,1993,Hämeen läänin eteläinen vaalipiiri,1
+Loviisa,1994,Uudenmaan läänin vaalipiiri,1
+Loviisa,1994,NaN,1
+Loviisa,1988,Uudenmaan läänin vaalipiiri,3
+Loviisa,1989,Kymen läänin vaalipiiri,1
+Loviisa,1987,Lapin läänin vaalipiiri,3
+Loviisa,1991,Turun läänin pohjoinen vaalipiiri,2
+Loviisa,1994,Kuopion läänin vaalipiiri,1
+Loviisa,1993,Turun läänin pohjoinen vaalipiiri,2
+Loviisa,1991,Kymen läänin vaalipiiri,1
+Loviisa,1989,Turun läänin pohjoinen vaalipiiri,2
+Loviisa,1993,Kymen läänin vaalipiiri,2
+Loviisa,1988,Helsingin kaupungin vaalipiiri,1
+Loviisa,1989,Uudenmaan läänin vaalipiiri,2
+Loviisa,1986,Vaasan läänin vaalipiiri,2
+Loviisa,1986,Turun läänin pohjoinen vaalipiiri,1
+Loviisa,1987,Mikkelin läänin vaalipiiri,1
+Loviisa,1994,Vaasan läänin vaalipiiri,1
+Loviisa,1986,Hämeen läänin eteläinen vaalipiiri,1
+Loviisa,1990,Lapin läänin vaalipiiri,1
+Lapua,1988,Vaasan läänin vaalipiiri,2
+Lapua,1990,Oulun läänin vaalipiiri,1
+Lapua,1995,Kuopion läänin vaalipiiri,1
+Lapua,1989,Mikkelin läänin vaalipiiri,1
+Lapua,1986,Helsingin kaupungin vaalipiiri,1
+Lapua,1986,Vaasan läänin vaalipiiri,2
+Lapua,1989,Hämeen läänin eteläinen vaalipiiri,2
+Lapua,1994,Hämeen läänin eteläinen vaalipiiri,1
+Lapua,1987,Vaasan läänin vaalipiiri,1
+Lapua,1995,Oulun läänin vaalipiiri,2
+Lapua,1989,Kymen läänin vaalipiiri,1
+Lapua,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Lapua,1987,Helsingin kaupungin vaalipiiri,1
+Lapua,1990,Uudenmaan läänin vaalipiiri,1
+Lapua,1995,Kymen läänin vaalipiiri,1
+Lapua,1986,Hämeen läänin eteläinen vaalipiiri,1
+Lapua,1993,Vaasan läänin vaalipiiri,2
+Lapua,1989,Vaasan läänin vaalipiiri,2
+Lapua,1995,Vaasan läänin vaalipiiri,1
+Kauhajoki,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Kauhajoki,1991,Vaasan läänin vaalipiiri,1
+Kauhajoki,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Kauhajoki,1995,Keski-Suomen läänin vaalipiiri,1
+Kauhajoki,1988,Oulun läänin vaalipiiri,1
+Kauhajoki,1986,Vaasan läänin vaalipiiri,2
+Kauhajoki,1987,Hämeen läänin eteläinen vaalipiiri,1
+Kankaanpää,1990,Turun läänin pohjoinen vaalipiiri,6
+Kankaanpää,1994,Turun läänin pohjoinen vaalipiiri,1
+Kankaanpää,1988,Turun läänin pohjoinen vaalipiiri,2
+Kankaanpää,1986,Turun läänin pohjoinen vaalipiiri,3
+Kankaanpää,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Kankaanpää,1987,Turun läänin pohjoinen vaalipiiri,3
+Kankaanpää,1995,Turun läänin pohjoinen vaalipiiri,1
+Kankaanpää,1992,Kuopion läänin vaalipiiri,1
+Kankaanpää,1990,NaN,1
+Kankaanpää,1988,Helsingin kaupungin vaalipiiri,2
+Kankaanpää,1989,Turun läänin pohjoinen vaalipiiri,1
+Kankaanpää,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Kankaanpää,1993,Turun läänin pohjoinen vaalipiiri,2
+Kankaanpää,1988,Turun läänin eteläinen vaalipiiri,1
+Kankaanpää,1990,Hämeen läänin eteläinen vaalipiiri,1
+Kankaanpää,1992,Hämeen läänin eteläinen vaalipiiri,1
+Kankaanpää,1991,Turun läänin pohjoinen vaalipiiri,2
+Kankaanpää,1987,NaN,1
+Kankaanpää,1992,Oulun läänin vaalipiiri,1
+Kankaanpää,1987,Kuopion läänin vaalipiiri,1
+Kankaanpää,1992,Turun läänin pohjoinen vaalipiiri,1
+Kankaanpää,1988,Kymen läänin vaalipiiri,1
+Ulvila,1986,Turun läänin pohjoinen vaalipiiri,2
+Kalajoki,1986,Hämeen läänin eteläinen vaalipiiri,1
+Kalajoki,1988,Keski-Suomen läänin vaalipiiri,1
+Kalajoki,1986,Oulun läänin vaalipiiri,3
+Kalajoki,1988,Oulun läänin vaalipiiri,2
+Kalajoki,1993,Oulun läänin vaalipiiri,1
+Kalajoki,1991,Oulun läänin vaalipiiri,1
+Kalajoki,1993,Kuopion läänin vaalipiiri,1
+Kalajoki,1992,Oulun läänin vaalipiiri,1
+Kalajoki,1995,Oulun läänin vaalipiiri,1
+Kalajoki,1991,Vaasan läänin vaalipiiri,2
+Kalajoki,1995,Kymen läänin vaalipiiri,1
+Maarianhamina,1988,Lapin läänin vaalipiiri,2
+Maarianhamina,1991,Turun läänin eteläinen vaalipiiri,1
+Maarianhamina,1994,Helsingin kaupungin vaalipiiri,1
+Maarianhamina,1992,Kymen läänin vaalipiiri,1
+Maarianhamina,1991,Kuopion läänin vaalipiiri,1
+Maarianhamina,1989,Keski-Suomen läänin vaalipiiri,1
+Maarianhamina,1991,Lapin läänin vaalipiiri,1
+Maarianhamina,1991,Uudenmaan läänin vaalipiiri,2
+Maarianhamina,1989,Uudenmaan läänin vaalipiiri,1
+Maarianhamina,1993,Kuopion läänin vaalipiiri,3
+Maarianhamina,1989,Turun läänin pohjoinen vaalipiiri,1
+Maarianhamina,1992,Ahvenanmaan maakunnan vaalipiiri,1
+Maarianhamina,1992,Turun läänin eteläinen vaalipiiri,1
+Maarianhamina,1993,Uudenmaan läänin vaalipiiri,1
+Maarianhamina,1990,Uudenmaan läänin vaalipiiri,2
+Maarianhamina,1990,Hämeen läänin pohjoinen vaalipiiri,2
+Maarianhamina,1990,Turun läänin eteläinen vaalipiiri,1
+Maarianhamina,1989,Kymen läänin vaalipiiri,1
+Maarianhamina,1991,Turun läänin pohjoinen vaalipiiri,1
+Maarianhamina,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Maarianhamina,1995,Uudenmaan läänin vaalipiiri,1
+Maarianhamina,1994,Ahvenanmaan maakunnan vaalipiiri,1
+Maarianhamina,1993,Vaasan läänin vaalipiiri,1
+Maarianhamina,1992,Uudenmaan läänin vaalipiiri,1
+Maarianhamina,1989,Kuopion läänin vaalipiiri,1
+Alavus,1986,Vaasan läänin vaalipiiri,1
+Alavus,1990,Hämeen läänin eteläinen vaalipiiri,1
+Alavus,1986,Hämeen läänin eteläinen vaalipiiri,2
+Alavus,1993,Kymen läänin vaalipiiri,1
+Paimio,1986,Turun läänin eteläinen vaalipiiri,5
+Paimio,1995,Vaasan läänin vaalipiiri,1
+Paimio,1986,Hämeen läänin eteläinen vaalipiiri,2
+Paimio,1994,Helsingin kaupungin vaalipiiri,1
+Paimio,1992,Turun läänin eteläinen vaalipiiri,1
+Paimio,1990,Turun läänin pohjoinen vaalipiiri,1
+Paimio,1988,Turun läänin eteläinen vaalipiiri,1
+Paimio,1991,Oulun läänin vaalipiiri,1
+Paimio,1993,Turun läänin eteläinen vaalipiiri,1
+Lieksa,1993,Pohjois-Karjalan läänin vaalipiiri,6
+Lieksa,1986,Pohjois-Karjalan läänin vaalipiiri,3
+Lieksa,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Lieksa,1990,Kuopion läänin vaalipiiri,1
+Lieksa,1994,Hämeen läänin pohjoinen vaalipiiri,2
+Lieksa,1994,Pohjois-Karjalan läänin vaalipiiri,2
+Lieksa,1994,Lapin läänin vaalipiiri,1
+Lieksa,1991,Pohjois-Karjalan läänin vaalipiiri,5
+Lieksa,1987,Pohjois-Karjalan läänin vaalipiiri,3
+Lieksa,1987,Turun läänin pohjoinen vaalipiiri,1
+Lieksa,1989,Pohjois-Karjalan läänin vaalipiiri,3
+Lieksa,1990,Pohjois-Karjalan läänin vaalipiiri,5
+Lieksa,1994,NaN,1
+Lieksa,1986,Oulun läänin vaalipiiri,1
+Lieksa,1991,Oulun läänin vaalipiiri,1
+Lieksa,1988,Pohjois-Karjalan läänin vaalipiiri,4
+Lieksa,1992,Turun läänin eteläinen vaalipiiri,1
+Lieksa,1987,Oulun läänin vaalipiiri,1
+Lieksa,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Lieksa,1994,Vaasan läänin vaalipiiri,1
+Lieksa,1994,Keski-Suomen läänin vaalipiiri,1
+Lieksa,1988,Vaasan läänin vaalipiiri,1
+Lieksa,1991,Uudenmaan läänin vaalipiiri,1
+Lieksa,1993,Turun läänin pohjoinen vaalipiiri,1
+Lieksa,1989,Turun läänin eteläinen vaalipiiri,1
+Lieksa,1995,Pohjois-Karjalan läänin vaalipiiri,2
+Lieksa,1988,Oulun läänin vaalipiiri,1
+Nivala,1987,Vaasan läänin vaalipiiri,1
+Nivala,1992,Kuopion läänin vaalipiiri,1
+Nivala,1989,Turun läänin pohjoinen vaalipiiri,1
+Nivala,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Nivala,1993,Oulun läänin vaalipiiri,1
+Kauniainen,1988,Turun läänin pohjoinen vaalipiiri,1
+Kauniainen,1990,Helsingin kaupungin vaalipiiri,2
+Kauniainen,1994,Lapin läänin vaalipiiri,4
+Kauniainen,1988,Helsingin kaupungin vaalipiiri,5
+Kauniainen,1991,Uudenmaan läänin vaalipiiri,2
+Kauniainen,1988,Lapin läänin vaalipiiri,3
+Kauniainen,1995,Kuopion läänin vaalipiiri,1
+Kauniainen,1995,Lapin läänin vaalipiiri,2
+Kauniainen,1987,Uudenmaan läänin vaalipiiri,2
+Kauniainen,1987,Mikkelin läänin vaalipiiri,1
+Kauniainen,1988,Mikkelin läänin vaalipiiri,6
+Kauniainen,1989,Keski-Suomen läänin vaalipiiri,3
+Kauniainen,1988,Kuopion läänin vaalipiiri,1
+Kauniainen,1992,Helsingin kaupungin vaalipiiri,1
+Kauniainen,1991,Vaasan läänin vaalipiiri,1
+Kauniainen,1986,Helsingin kaupungin vaalipiiri,1
+Kauniainen,1988,Uudenmaan läänin vaalipiiri,2
+Kauniainen,1992,Turun läänin eteläinen vaalipiiri,1
+Kauniainen,1995,Keski-Suomen läänin vaalipiiri,2
+Kauniainen,1989,Uudenmaan läänin vaalipiiri,6
+Kauniainen,1986,Uudenmaan läänin vaalipiiri,3
+Kauniainen,1989,Oulun läänin vaalipiiri,1
+Kauniainen,1989,Vaasan läänin vaalipiiri,1
+Kauniainen,1990,Lapin läänin vaalipiiri,1
+Kauniainen,1995,Helsingin kaupungin vaalipiiri,1
+Kauniainen,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Kauniainen,1994,Uudenmaan läänin vaalipiiri,1
+Kauniainen,1994,Oulun läänin vaalipiiri,1
+Kauniainen,1988,Hämeen läänin eteläinen vaalipiiri,1
+Kauniainen,1989,Helsingin kaupungin vaalipiiri,2
+Kauniainen,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Kauniainen,1990,Uudenmaan läänin vaalipiiri,1
+Kauniainen,1988,Kymen läänin vaalipiiri,1
+Kauniainen,1991,Helsingin kaupungin vaalipiiri,1
+Kauniainen,1992,Oulun läänin vaalipiiri,2
+Kauniainen,1988,Oulun läänin vaalipiiri,1
+Kauniainen,1994,Turun läänin eteläinen vaalipiiri,2
+Kauniainen,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Kauniainen,1992,Vaasan läänin vaalipiiri,1
+Kauniainen,1992,Lapin läänin vaalipiiri,1
+Kauniainen,1995,Turun läänin eteläinen vaalipiiri,1
+Kauniainen,1986,Hämeen läänin eteläinen vaalipiiri,1
+Kauniainen,1993,Uudenmaan läänin vaalipiiri,1
+Kitee,1989,Pohjois-Karjalan läänin vaalipiiri,2
+Kitee,1990,Pohjois-Karjalan läänin vaalipiiri,3
+Kitee,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Kitee,1988,Pohjois-Karjalan läänin vaalipiiri,2
+Kitee,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Kitee,1990,Hämeen läänin eteläinen vaalipiiri,1
+Kitee,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Kitee,1993,Turun läänin pohjoinen vaalipiiri,1
+Huittinen,1990,Turun läänin pohjoinen vaalipiiri,1
+Huittinen,1993,Turun läänin pohjoinen vaalipiiri,2
+Huittinen,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Huittinen,1994,Helsingin kaupungin vaalipiiri,1
+Huittinen,1991,Turun läänin pohjoinen vaalipiiri,2
+Huittinen,1994,Uudenmaan läänin vaalipiiri,1
+Huittinen,1991,Hämeen läänin pohjoinen vaalipiiri,2
+Huittinen,1992,Turun läänin pohjoinen vaalipiiri,1
+Huittinen,1986,Turun läänin pohjoinen vaalipiiri,2
+Huittinen,1994,Turun läänin pohjoinen vaalipiiri,2
+Huittinen,1993,Keski-Suomen läänin vaalipiiri,1
+Huittinen,1987,Turun läänin pohjoinen vaalipiiri,1
+Huittinen,1991,Vaasan läänin vaalipiiri,1
+Huittinen,1991,Kymen läänin vaalipiiri,1
+Huittinen,1988,Turun läänin pohjoinen vaalipiiri,1
+Närpiö,1987,Uudenmaan läänin vaalipiiri,2
+Närpiö,1987,Vaasan läänin vaalipiiri,2
+Närpiö,1988,Vaasan läänin vaalipiiri,1
+Närpiö,1986,Vaasan läänin vaalipiiri,1
+Närpiö,1992,Kymen läänin vaalipiiri,1
+Nurmes,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Nurmes,1990,Pohjois-Karjalan läänin vaalipiiri,2
+Nurmes,1987,Oulun läänin vaalipiiri,1
+Nurmes,1994,Uudenmaan läänin vaalipiiri,1
+Nurmes,1995,Pohjois-Karjalan läänin vaalipiiri,4
+Nurmes,1987,Pohjois-Karjalan läänin vaalipiiri,2
+Nurmes,1988,Turun läänin pohjoinen vaalipiiri,1
+Nurmes,1986,Pohjois-Karjalan läänin vaalipiiri,2
+Nurmes,1987,Helsingin kaupungin vaalipiiri,1
+Nurmes,1988,Kuopion läänin vaalipiiri,1
+Nurmes,1988,Helsingin kaupungin vaalipiiri,2
+Nurmes,1988,Oulun läänin vaalipiiri,1
+Nurmes,1989,Pohjois-Karjalan läänin vaalipiiri,3
+Nurmes,1994,NaN,1
+Nurmes,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Nurmes,1994,Pohjois-Karjalan läänin vaalipiiri,3
+Nurmes,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Nurmes,1994,Kuopion läänin vaalipiiri,1
+Keuruu,1987,Helsingin kaupungin vaalipiiri,2
+Keuruu,1986,Keski-Suomen läänin vaalipiiri,2
+Keuruu,1992,Keski-Suomen läänin vaalipiiri,1
+Keuruu,1987,Keski-Suomen läänin vaalipiiri,5
+Keuruu,1986,NaN,1
+Keuruu,1986,Hämeen läänin pohjoinen vaalipiiri,2
+Keuruu,1986,Turun läänin pohjoinen vaalipiiri,1
+Keuruu,1986,Mikkelin läänin vaalipiiri,1
+Keuruu,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Keuruu,1986,Hämeen läänin eteläinen vaalipiiri,1
+Keuruu,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Keuruu,1992,Helsingin kaupungin vaalipiiri,1
+Alajärvi,1986,Hämeen läänin eteläinen vaalipiiri,1
+Alajärvi,1986,Vaasan läänin vaalipiiri,2
+Alajärvi,1988,Keski-Suomen läänin vaalipiiri,2
+Alajärvi,1994,Vaasan läänin vaalipiiri,2
+Alajärvi,1995,Keski-Suomen läänin vaalipiiri,1
+Saarijärvi,1992,Keski-Suomen läänin vaalipiiri,1
+Saarijärvi,1986,Uudenmaan läänin vaalipiiri,2
+Saarijärvi,1990,Keski-Suomen läänin vaalipiiri,1
+Saarijärvi,1987,Turun läänin pohjoinen vaalipiiri,2
+Saarijärvi,1986,NaN,1
+Saarijärvi,1987,Keski-Suomen läänin vaalipiiri,1
+Saarijärvi,1988,Keski-Suomen läänin vaalipiiri,1
+Saarijärvi,1995,Uudenmaan läänin vaalipiiri,1
+Saarijärvi,1987,Oulun läänin vaalipiiri,1
+Orivesi,1993,Hämeen läänin pohjoinen vaalipiiri,3
+Orivesi,1988,Hämeen läänin pohjoinen vaalipiiri,2
+Orivesi,1992,Hämeen läänin pohjoinen vaalipiiri,2
+Orivesi,1990,Hämeen läänin pohjoinen vaalipiiri,2
+Orivesi,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Orivesi,1987,Hämeen läänin pohjoinen vaalipiiri,3
+Orivesi,1994,Hämeen läänin pohjoinen vaalipiiri,3
+Orivesi,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Orivesi,1993,Uudenmaan läänin vaalipiiri,1
+Karkkila,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Karkkila,1994,Turun läänin eteläinen vaalipiiri,7
+Karkkila,1987,NaN,1
+Karkkila,1988,Uudenmaan läänin vaalipiiri,1
+Karkkila,1986,Hämeen läänin eteläinen vaalipiiri,1
+Karkkila,1993,Oulun läänin vaalipiiri,2
+Karkkila,1994,Oulun läänin vaalipiiri,2
+Karkkila,1993,Vaasan läänin vaalipiiri,1
+Karkkila,1993,Keski-Suomen läänin vaalipiiri,1
+Karkkila,1994,Keski-Suomen läänin vaalipiiri,2
+Karkkila,1995,Uudenmaan läänin vaalipiiri,1
+Karkkila,1995,Hämeen läänin eteläinen vaalipiiri,1
+Karkkila,1994,Kuopion läänin vaalipiiri,1
+Karkkila,1994,Lapin läänin vaalipiiri,2
+Karkkila,1994,Vaasan läänin vaalipiiri,1
+Karkkila,1987,Uudenmaan läänin vaalipiiri,1
+Karkkila,1994,Uudenmaan läänin vaalipiiri,5
+Karkkila,1994,Pohjois-Karjalan läänin vaalipiiri,2
+Karkkila,1987,Pohjois-Karjalan läänin vaalipiiri,1
+Karkkila,1987,Hämeen läänin eteläinen vaalipiiri,1
+Karkkila,1990,Uudenmaan läänin vaalipiiri,1
+Karkkila,1994,Helsingin kaupungin vaalipiiri,1
+Somero,1986,Hämeen läänin eteläinen vaalipiiri,3
+Somero,1989,Hämeen läänin eteläinen vaalipiiri,3
+Somero,1988,Hämeen läänin eteläinen vaalipiiri,4
+Somero,1987,Hämeen läänin eteläinen vaalipiiri,3
+Somero,1989,Uudenmaan läänin vaalipiiri,2
+Somero,1994,Hämeen läänin eteläinen vaalipiiri,1
+Somero,1995,Turun läänin pohjoinen vaalipiiri,1
+Laitila,1987,Turun läänin eteläinen vaalipiiri,2
+Laitila,1986,Turun läänin eteläinen vaalipiiri,4
+Laitila,1988,Turun läänin eteläinen vaalipiiri,1
+Laitila,1993,Turun läänin eteläinen vaalipiiri,2
+Laitila,1992,Turun läänin eteläinen vaalipiiri,1
+Hanko,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Hanko,1987,Uudenmaan läänin vaalipiiri,9
+Hanko,1987,Turun läänin pohjoinen vaalipiiri,2
+Hanko,1988,Uudenmaan läänin vaalipiiri,8
+Hanko,1988,Helsingin kaupungin vaalipiiri,2
+Hanko,1990,Uudenmaan läänin vaalipiiri,10
+Hanko,1986,Helsingin kaupungin vaalipiiri,1
+Hanko,1991,Turun läänin pohjoinen vaalipiiri,1
+Hanko,1992,Uudenmaan läänin vaalipiiri,1
+Hanko,1988,Hämeen läänin eteläinen vaalipiiri,1
+Hanko,1990,Oulun läänin vaalipiiri,1
+Hanko,1989,Uudenmaan läänin vaalipiiri,2
+Hanko,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Hanko,1987,Pohjois-Karjalan läänin vaalipiiri,4
+Hanko,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Hanko,1993,Kymen läänin vaalipiiri,2
+Hanko,1987,Hämeen läänin pohjoinen vaalipiiri,2
+Hanko,1992,Helsingin kaupungin vaalipiiri,3
+Hanko,1990,Turun läänin eteläinen vaalipiiri,1
+Hanko,1987,Oulun läänin vaalipiiri,1
+Hanko,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Hanko,1988,Turun läänin eteläinen vaalipiiri,1
+Hanko,1995,Uudenmaan läänin vaalipiiri,2
+Hanko,1993,Uudenmaan läänin vaalipiiri,1
+Hanko,1986,Lapin läänin vaalipiiri,1
+Hanko,1987,Vaasan läänin vaalipiiri,1
+Hanko,1986,Turun läänin eteläinen vaalipiiri,1
+Hanko,1986,Turun läänin pohjoinen vaalipiiri,1
+Hanko,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Hanko,1993,Lapin läänin vaalipiiri,1
+Hanko,1991,Uudenmaan läänin vaalipiiri,1
+Hanko,1995,Oulun läänin vaalipiiri,1
+Hanko,1986,Vaasan läänin vaalipiiri,1
+Hanko,1987,Lapin läänin vaalipiiri,1
+Hanko,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Hanko,1991,NaN,1
+Kuhmo,1993,Hämeen läänin eteläinen vaalipiiri,2
+Kuhmo,1993,Turun läänin pohjoinen vaalipiiri,2
+Kuhmo,1989,Oulun läänin vaalipiiri,4
+Kuhmo,1994,Oulun läänin vaalipiiri,1
+Kuhmo,1993,NaN,4
+Kuhmo,1990,Oulun läänin vaalipiiri,9
+Kuhmo,1993,Uudenmaan läänin vaalipiiri,8
+Kuhmo,1993,Pohjois-Karjalan läänin vaalipiiri,2
+Kuhmo,1994,Lapin läänin vaalipiiri,1
+Kuhmo,1992,Uudenmaan läänin vaalipiiri,1
+Kuhmo,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Kuhmo,1993,Lapin läänin vaalipiiri,2
+Kuhmo,1987,Kuopion läänin vaalipiiri,1
+Kuhmo,1992,Oulun läänin vaalipiiri,5
+Kuhmo,1989,Helsingin kaupungin vaalipiiri,2
+Kuhmo,1988,Kuopion läänin vaalipiiri,1
+Kuhmo,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Kuhmo,1992,Kuopion läänin vaalipiiri,1
+Kuhmo,1987,Turun läänin pohjoinen vaalipiiri,2
+Kuhmo,1987,Oulun läänin vaalipiiri,3
+Kuhmo,1994,NaN,1
+Kuhmo,1988,Uudenmaan läänin vaalipiiri,3
+Kuhmo,1993,Helsingin kaupungin vaalipiiri,1
+Kuhmo,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Kuhmo,1988,Turun läänin eteläinen vaalipiiri,1
+Kuhmo,1993,Vaasan läänin vaalipiiri,2
+Kuhmo,1989,Kymen läänin vaalipiiri,1
+Kuhmo,1993,Oulun läänin vaalipiiri,2
+Kuhmo,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Kuhmo,1987,Keski-Suomen läänin vaalipiiri,1
+Kuhmo,1986,Oulun läänin vaalipiiri,1
+Kuhmo,1992,Mikkelin läänin vaalipiiri,1
+Kuhmo,1992,Turun läänin pohjoinen vaalipiiri,1
+Kuhmo,1991,Uudenmaan läänin vaalipiiri,1
+Kuhmo,1988,Kymen läänin vaalipiiri,1
+Kiuruvesi,1991,Kuopion läänin vaalipiiri,1
+Kiuruvesi,1993,Kuopion läänin vaalipiiri,3
+Kiuruvesi,1995,Kuopion läänin vaalipiiri,2
+Kiuruvesi,1986,Uudenmaan läänin vaalipiiri,1
+Kiuruvesi,1991,Kymen läänin vaalipiiri,1
+Kiuruvesi,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Kiuruvesi,1990,Oulun läänin vaalipiiri,1
+Pudasjärvi,1986,Oulun läänin vaalipiiri,60
+Pudasjärvi,1993,Pohjois-Karjalan läänin vaalipiiri,1
+Pudasjärvi,1992,Oulun läänin vaalipiiri,26
+Pudasjärvi,1988,Oulun läänin vaalipiiri,13
+Pudasjärvi,1987,Oulun läänin vaalipiiri,31
+Pudasjärvi,1990,Oulun läänin vaalipiiri,5
+Pudasjärvi,1994,Kuopion läänin vaalipiiri,2
+Pudasjärvi,1991,Oulun läänin vaalipiiri,6
+Pudasjärvi,1986,Mikkelin läänin vaalipiiri,2
+Pudasjärvi,1986,Kuopion läänin vaalipiiri,4
+Pudasjärvi,1993,Keski-Suomen läänin vaalipiiri,2
+Pudasjärvi,1986,Helsingin kaupungin vaalipiiri,3
+Pudasjärvi,1987,Kuopion läänin vaalipiiri,2
+Pudasjärvi,1986,Vaasan läänin vaalipiiri,2
+Pudasjärvi,1994,Oulun läänin vaalipiiri,8
+Pudasjärvi,1987,Mikkelin läänin vaalipiiri,3
+Pudasjärvi,1986,Keski-Suomen läänin vaalipiiri,1
+Pudasjärvi,1986,Uudenmaan läänin vaalipiiri,3
+Pudasjärvi,1989,Turun läänin pohjoinen vaalipiiri,6
+Pudasjärvi,1992,NaN,6
+Pudasjärvi,1986,Lapin läänin vaalipiiri,6
+Pudasjärvi,1992,Vaasan läänin vaalipiiri,1
+Pudasjärvi,1992,Hämeen läänin pohjoinen vaalipiiri,3
+Pudasjärvi,1994,Uudenmaan läänin vaalipiiri,2
+Pudasjärvi,1992,Turun läänin pohjoinen vaalipiiri,9
+Pudasjärvi,1987,Turun läänin pohjoinen vaalipiiri,6
+Pudasjärvi,1993,Oulun läänin vaalipiiri,9
+Pudasjärvi,1992,Kymen läänin vaalipiiri,3
+Pudasjärvi,1993,Uudenmaan läänin vaalipiiri,2
+Pudasjärvi,1989,Oulun läänin vaalipiiri,7
+Pudasjärvi,1993,Hämeen läänin pohjoinen vaalipiiri,3
+Pudasjärvi,1992,Uudenmaan läänin vaalipiiri,4
+Pudasjärvi,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Pudasjärvi,1993,Kymen läänin vaalipiiri,2
+Pudasjärvi,1987,NaN,4
+Pudasjärvi,1994,Keski-Suomen läänin vaalipiiri,1
+Pudasjärvi,1992,Hämeen läänin eteläinen vaalipiiri,3
+Pudasjärvi,1993,Kuopion läänin vaalipiiri,3
+Pudasjärvi,1994,Lapin läänin vaalipiiri,1
+Pudasjärvi,1993,Turun läänin pohjoinen vaalipiiri,9
+Pudasjärvi,1993,Hämeen läänin eteläinen vaalipiiri,1
+Pudasjärvi,1989,Lapin läänin vaalipiiri,1
+Pudasjärvi,1986,NaN,9
+Pudasjärvi,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Pudasjärvi,1986,Hämeen läänin eteläinen vaalipiiri,3
+Pudasjärvi,1986,Turun läänin pohjoinen vaalipiiri,4
+Pudasjärvi,1987,Lapin läänin vaalipiiri,1
+Pudasjärvi,1994,NaN,1
+Pudasjärvi,1993,Lapin läänin vaalipiiri,2
+Pudasjärvi,1986,Kymen läänin vaalipiiri,2
+Pudasjärvi,1991,Hämeen läänin eteläinen vaalipiiri,1
+Pudasjärvi,1986,Turun läänin eteläinen vaalipiiri,3
+Pudasjärvi,1993,Vaasan läänin vaalipiiri,2
+Pudasjärvi,1989,Kymen läänin vaalipiiri,1
+Pudasjärvi,1991,Turun läänin pohjoinen vaalipiiri,1
+Pudasjärvi,1987,Hämeen läänin eteläinen vaalipiiri,1
+Pudasjärvi,1990,Lapin läänin vaalipiiri,1
+Pudasjärvi,1988,Turun läänin pohjoinen vaalipiiri,1
+Pudasjärvi,1992,Lapin läänin vaalipiiri,1
+Pudasjärvi,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Pudasjärvi,1995,Uudenmaan läänin vaalipiiri,1
+Pudasjärvi,1988,Mikkelin läänin vaalipiiri,1
+Kemijärvi,1995,Lapin läänin vaalipiiri,8
+Kemijärvi,1986,Lapin läänin vaalipiiri,6
+Kemijärvi,1990,Kuopion läänin vaalipiiri,2
+Kemijärvi,1991,Lapin läänin vaalipiiri,13
+Kemijärvi,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Kemijärvi,1994,Oulun läänin vaalipiiri,5
+Kemijärvi,1992,Turun läänin eteläinen vaalipiiri,3
+Kemijärvi,1995,Uudenmaan läänin vaalipiiri,3
+Kemijärvi,1993,Helsingin kaupungin vaalipiiri,2
+Kemijärvi,1994,Lapin läänin vaalipiiri,11
+Kemijärvi,1987,Lapin läänin vaalipiiri,8
+Kemijärvi,1988,Lapin läänin vaalipiiri,3
+Kemijärvi,1987,Helsingin kaupungin vaalipiiri,1
+Kemijärvi,1993,Lapin läänin vaalipiiri,13
+Kemijärvi,1991,Helsingin kaupungin vaalipiiri,3
+Kemijärvi,1991,Uudenmaan läänin vaalipiiri,2
+Kemijärvi,1994,Kuopion läänin vaalipiiri,9
+Kemijärvi,1991,Kymen läänin vaalipiiri,2
+Kemijärvi,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Kemijärvi,1994,Turun läänin pohjoinen vaalipiiri,1
+Kemijärvi,1987,Uudenmaan läänin vaalipiiri,1
+Kemijärvi,1988,Uudenmaan läänin vaalipiiri,2
+Kemijärvi,1989,Oulun läänin vaalipiiri,1
+Kemijärvi,1992,Hämeen läänin eteläinen vaalipiiri,2
+Kemijärvi,1991,Oulun läänin vaalipiiri,2
+Kemijärvi,1992,Lapin läänin vaalipiiri,9
+Kemijärvi,1990,Uudenmaan läänin vaalipiiri,1
+Kemijärvi,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Kemijärvi,1991,Turun läänin pohjoinen vaalipiiri,2
+Kemijärvi,1995,Keski-Suomen läänin vaalipiiri,1
+Kemijärvi,1990,Lapin läänin vaalipiiri,2
+Kemijärvi,1993,NaN,2
+Kemijärvi,1995,Oulun läänin vaalipiiri,1
+Kemijärvi,1994,Helsingin kaupungin vaalipiiri,1
+Kemijärvi,1988,Turun läänin pohjoinen vaalipiiri,1
+Kemijärvi,1989,Lapin läänin vaalipiiri,4
+Kemijärvi,1991,Hämeen läänin pohjoinen vaalipiiri,2
+Kemijärvi,1995,Kymen läänin vaalipiiri,1
+Kemijärvi,1994,Keski-Suomen läänin vaalipiiri,1
+Kemijärvi,1986,Turun läänin pohjoinen vaalipiiri,1
+Kemijärvi,1995,Kuopion läänin vaalipiiri,1
+Kemijärvi,1992,Pohjois-Karjalan läänin vaalipiiri,1
+Kemijärvi,1992,Oulun läänin vaalipiiri,2
+Kemijärvi,1993,Kuopion läänin vaalipiiri,2
+Kemijärvi,1986,NaN,2
+Kemijärvi,1994,Hämeen läänin eteläinen vaalipiiri,1
+Kemijärvi,1993,Kymen läänin vaalipiiri,1
+Oulainen,1989,Oulun läänin vaalipiiri,1
+Oulainen,1986,Kymen läänin vaalipiiri,1
+Oulainen,1986,Oulun läänin vaalipiiri,1
+Oulainen,1987,Oulun läänin vaalipiiri,2
+Oulainen,1988,Oulun läänin vaalipiiri,1
+Oulainen,1986,Helsingin kaupungin vaalipiiri,1
+Kokemäki,1988,Turun läänin eteläinen vaalipiiri,1
+Kokemäki,1988,Turun läänin pohjoinen vaalipiiri,6
+Kokemäki,1986,Turun läänin pohjoinen vaalipiiri,1
+Kokemäki,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Kokemäki,1988,Helsingin kaupungin vaalipiiri,1
+Kokemäki,1987,Turun läänin pohjoinen vaalipiiri,4
+Kokemäki,1988,Pohjois-Karjalan läänin vaalipiiri,1
+Kokemäki,1994,Turun läänin pohjoinen vaalipiiri,2
+Kokemäki,1991,Turun läänin pohjoinen vaalipiiri,1
+Kokemäki,1986,Kuopion läänin vaalipiiri,1
+Kokemäki,1989,Turun läänin pohjoinen vaalipiiri,1
+Kokemäki,1993,Turun läänin pohjoinen vaalipiiri,1
+Kokemäki,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Kokemäki,1986,Hämeen läänin eteläinen vaalipiiri,1
+Kokemäki,1990,Uudenmaan läänin vaalipiiri,1
+Kokemäki,1990,Turun läänin pohjoinen vaalipiiri,3
+Kokemäki,1989,Mikkelin läänin vaalipiiri,1
+Suonenjoki,1991,Kuopion läänin vaalipiiri,1
+Suonenjoki,1995,Kuopion läänin vaalipiiri,1
+Suonenjoki,1993,Kuopion läänin vaalipiiri,1
+Suonenjoki,1989,Mikkelin läänin vaalipiiri,1
+Suonenjoki,1994,Kuopion läänin vaalipiiri,2
+Suonenjoki,1993,Uudenmaan läänin vaalipiiri,1
+Suonenjoki,1988,Kuopion läänin vaalipiiri,2
+Suonenjoki,1995,Keski-Suomen läänin vaalipiiri,1
+Suonenjoki,1995,Hämeen läänin pohjoinen vaalipiiri,1
+Suonenjoki,1987,Kuopion läänin vaalipiiri,1
+Haapajärvi,1993,Uudenmaan läänin vaalipiiri,2
+Haapajärvi,1986,Oulun läänin vaalipiiri,2
+Haapajärvi,1990,Uudenmaan läänin vaalipiiri,1
+Haapajärvi,1989,Kymen läänin vaalipiiri,1
+Haapajärvi,1986,Kymen läänin vaalipiiri,1
+Haapajärvi,1992,Turun läänin pohjoinen vaalipiiri,1
+Haapajärvi,1990,Turun läänin eteläinen vaalipiiri,1
+Haapajärvi,1990,Oulun läänin vaalipiiri,1
+Haapajärvi,1986,Vaasan läänin vaalipiiri,1
+Ikaalinen,1987,Hämeen läänin pohjoinen vaalipiiri,4
+Ikaalinen,1992,Hämeen läänin pohjoinen vaalipiiri,6
+Ikaalinen,1988,Turun läänin pohjoinen vaalipiiri,2
+Ikaalinen,1994,Hämeen läänin pohjoinen vaalipiiri,5
+Ikaalinen,1993,Hämeen läänin pohjoinen vaalipiiri,6
+Ikaalinen,1986,Turun läänin pohjoinen vaalipiiri,2
+Ikaalinen,1995,Turun läänin eteläinen vaalipiiri,1
+Ikaalinen,1987,NaN,1
+Ikaalinen,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Ikaalinen,1995,Hämeen läänin pohjoinen vaalipiiri,3
+Ikaalinen,1990,Hämeen läänin pohjoinen vaalipiiri,2
+Ikaalinen,1993,Turun läänin pohjoinen vaalipiiri,1
+Ikaalinen,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Ikaalinen,1991,Turun läänin pohjoinen vaalipiiri,1
+Ikaalinen,1990,Turun läänin pohjoinen vaalipiiri,1
+Ikaalinen,1995,Kymen läänin vaalipiiri,1
+Ikaalinen,1987,Turun läänin pohjoinen vaalipiiri,2
+Ikaalinen,1992,Turun läänin pohjoinen vaalipiiri,1
+Ikaalinen,1986,Oulun läänin vaalipiiri,1
+Ikaalinen,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Harjavalta,1988,Turun läänin pohjoinen vaalipiiri,2
+Harjavalta,1993,Hämeen läänin pohjoinen vaalipiiri,2
+Harjavalta,1994,Kuopion läänin vaalipiiri,2
+Harjavalta,1993,Turun läänin pohjoinen vaalipiiri,8
+Harjavalta,1990,Turun läänin pohjoinen vaalipiiri,1
+Harjavalta,1986,Turun läänin pohjoinen vaalipiiri,2
+Harjavalta,1989,Helsingin kaupungin vaalipiiri,2
+Harjavalta,1989,Turun läänin pohjoinen vaalipiiri,1
+Harjavalta,1989,Turun läänin eteläinen vaalipiiri,2
+Harjavalta,1993,Lapin läänin vaalipiiri,1
+Harjavalta,1987,Mikkelin läänin vaalipiiri,1
+Harjavalta,1990,Helsingin kaupungin vaalipiiri,1
+Harjavalta,1987,Uudenmaan läänin vaalipiiri,1
+Harjavalta,1993,Kymen läänin vaalipiiri,1
+Harjavalta,1987,Turun läänin pohjoinen vaalipiiri,1
+Harjavalta,1988,Helsingin kaupungin vaalipiiri,2
+Haapavesi,1990,Uudenmaan läänin vaalipiiri,4
+Haapavesi,1986,Oulun läänin vaalipiiri,3
+Haapavesi,1986,NaN,3
+Haapavesi,1987,Oulun läänin vaalipiiri,4
+Haapavesi,1987,Hämeen läänin eteläinen vaalipiiri,2
+Haapavesi,1989,Turun läänin pohjoinen vaalipiiri,1
+Haapavesi,1994,Oulun läänin vaalipiiri,1
+Haapavesi,1986,Turun läänin eteläinen vaalipiiri,2
+Haapavesi,1986,Kuopion läänin vaalipiiri,1
+Haapavesi,1994,Turun läänin eteläinen vaalipiiri,1
+Haapavesi,1990,Oulun läänin vaalipiiri,1
+Haapavesi,1987,Uudenmaan läänin vaalipiiri,1
+Haapavesi,1988,Oulun läänin vaalipiiri,1
+Haapavesi,1992,Kymen läänin vaalipiiri,1
+Haapavesi,1986,Turun läänin pohjoinen vaalipiiri,2
+Haapavesi,1987,Turun läänin pohjoinen vaalipiiri,1
+Haapavesi,1987,NaN,2
+Haapavesi,1986,Kymen läänin vaalipiiri,1
+Haapavesi,1986,Lapin läänin vaalipiiri,1
+Haapavesi,1986,Vaasan läänin vaalipiiri,1
+Haapavesi,1989,Oulun läänin vaalipiiri,1
+Haapavesi,1992,Turun läänin pohjoinen vaalipiiri,1
+Outokumpu,1987,Turun läänin pohjoinen vaalipiiri,3
+Outokumpu,1986,Hämeen läänin pohjoinen vaalipiiri,2
+Outokumpu,1992,Turun läänin pohjoinen vaalipiiri,1
+Outokumpu,1989,Lapin läänin vaalipiiri,9
+Outokumpu,1988,Oulun läänin vaalipiiri,1
+Outokumpu,1993,Turun läänin pohjoinen vaalipiiri,9
+Outokumpu,1989,Oulun läänin vaalipiiri,7
+Outokumpu,1993,NaN,1
+Outokumpu,1991,Helsingin kaupungin vaalipiiri,4
+Outokumpu,1989,Turun läänin pohjoinen vaalipiiri,11
+Outokumpu,1990,Lapin läänin vaalipiiri,6
+Outokumpu,1991,Hämeen läänin eteläinen vaalipiiri,5
+Outokumpu,1989,Hämeen läänin eteläinen vaalipiiri,6
+Outokumpu,1986,Vaasan läänin vaalipiiri,4
+Outokumpu,1994,Kuopion läänin vaalipiiri,4
+Outokumpu,1993,Uudenmaan läänin vaalipiiri,3
+Outokumpu,1986,Oulun läänin vaalipiiri,3
+Outokumpu,1993,Lapin läänin vaalipiiri,3
+Outokumpu,1986,Mikkelin läänin vaalipiiri,1
+Outokumpu,1995,Vaasan läänin vaalipiiri,1
+Outokumpu,1989,Turun läänin eteläinen vaalipiiri,7
+Outokumpu,1993,Turun läänin eteläinen vaalipiiri,3
+Outokumpu,1991,Lapin läänin vaalipiiri,7
+Outokumpu,1991,Kuopion läänin vaalipiiri,1
+Outokumpu,1989,Uudenmaan läänin vaalipiiri,3
+Outokumpu,1992,Pohjois-Karjalan läänin vaalipiiri,2
+Outokumpu,1994,Lapin läänin vaalipiiri,6
+Outokumpu,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Outokumpu,1990,Uudenmaan läänin vaalipiiri,3
+Outokumpu,1991,Pohjois-Karjalan läänin vaalipiiri,1
+Outokumpu,1990,Helsingin kaupungin vaalipiiri,2
+Outokumpu,1988,Turun läänin pohjoinen vaalipiiri,3
+Outokumpu,1991,Turun läänin pohjoinen vaalipiiri,4
+Outokumpu,1986,NaN,7
+Outokumpu,1993,Oulun läänin vaalipiiri,3
+Outokumpu,1989,Hämeen läänin pohjoinen vaalipiiri,2
+Outokumpu,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Outokumpu,1991,Turun läänin eteläinen vaalipiiri,2
+Outokumpu,1991,Oulun läänin vaalipiiri,1
+Outokumpu,1988,Pohjois-Karjalan läänin vaalipiiri,3
+Outokumpu,1988,Lapin läänin vaalipiiri,2
+Outokumpu,1989,Helsingin kaupungin vaalipiiri,8
+Outokumpu,1988,Vaasan läänin vaalipiiri,2
+Outokumpu,1993,Keski-Suomen läänin vaalipiiri,1
+Outokumpu,1988,Helsingin kaupungin vaalipiiri,6
+Outokumpu,1995,Lapin läänin vaalipiiri,1
+Outokumpu,1986,Turun läänin pohjoinen vaalipiiri,2
+Outokumpu,1989,Vaasan läänin vaalipiiri,2
+Outokumpu,1994,Turun läänin pohjoinen vaalipiiri,3
+Outokumpu,1992,Uudenmaan läänin vaalipiiri,3
+Outokumpu,1986,Turun läänin eteläinen vaalipiiri,1
+Outokumpu,1990,Oulun läänin vaalipiiri,4
+Outokumpu,1991,Hämeen läänin pohjoinen vaalipiiri,4
+Outokumpu,1993,Pohjois-Karjalan läänin vaalipiiri,3
+Outokumpu,1986,Lapin läänin vaalipiiri,5
+Outokumpu,1988,Turun läänin eteläinen vaalipiiri,4
+Outokumpu,1987,Uudenmaan läänin vaalipiiri,2
+Outokumpu,1989,Kuopion läänin vaalipiiri,2
+Outokumpu,1987,Turun läänin eteläinen vaalipiiri,1
+Outokumpu,1986,Helsingin kaupungin vaalipiiri,1
+Outokumpu,1994,Turun läänin eteläinen vaalipiiri,1
+Outokumpu,1989,Pohjois-Karjalan läänin vaalipiiri,2
+Outokumpu,1994,Ahvenanmaan maakunnan vaalipiiri,1
+Outokumpu,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Outokumpu,1993,Helsingin kaupungin vaalipiiri,1
+Outokumpu,1987,Lapin läänin vaalipiiri,2
+Outokumpu,1991,Vaasan läänin vaalipiiri,1
+Outokumpu,1994,Pohjois-Karjalan läänin vaalipiiri,1
+Outokumpu,1988,Uudenmaan läänin vaalipiiri,2
+Outokumpu,1993,Vaasan läänin vaalipiiri,1
+Outokumpu,1990,Turun läänin eteläinen vaalipiiri,2
+Outokumpu,1987,Oulun läänin vaalipiiri,1
+Outokumpu,1987,Vaasan läänin vaalipiiri,1
+Outokumpu,1995,Uudenmaan läänin vaalipiiri,1
+Outokumpu,1990,Turun läänin pohjoinen vaalipiiri,1
+Outokumpu,1988,Mikkelin läänin vaalipiiri,2
+Outokumpu,1992,Lapin läänin vaalipiiri,2
+Outokumpu,1987,NaN,1
+Outokumpu,1987,Hämeen läänin eteläinen vaalipiiri,2
+Outokumpu,1987,Kuopion läänin vaalipiiri,1
+Outokumpu,1993,Kymen läänin vaalipiiri,1
+Outokumpu,1995,Oulun läänin vaalipiiri,1
+Outokumpu,1991,Uudenmaan läänin vaalipiiri,1
+Outokumpu,1995,Pohjois-Karjalan läänin vaalipiiri,1
+Outokumpu,1994,NaN,1
+Virrat,1986,Vaasan läänin vaalipiiri,1
+Virrat,1986,Turun läänin pohjoinen vaalipiiri,1
+Virrat,1986,Hämeen läänin pohjoinen vaalipiiri,1
+Virrat,1987,Turun läänin eteläinen vaalipiiri,3
+Virrat,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Virrat,1989,Hämeen läänin pohjoinen vaalipiiri,1
+Virrat,1991,Keski-Suomen läänin vaalipiiri,1
+Virrat,1987,Turun läänin pohjoinen vaalipiiri,1
+Virrat,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Kristiinankaupunki,1988,Vaasan läänin vaalipiiri,1
+Kristiinankaupunki,1993,Vaasan läänin vaalipiiri,1
+Parkano,1993,Turun läänin pohjoinen vaalipiiri,3
+Parkano,1988,Hämeen läänin pohjoinen vaalipiiri,2
+Parkano,1990,Turun läänin pohjoinen vaalipiiri,3
+Parkano,1987,Helsingin kaupungin vaalipiiri,2
+Parkano,1994,Hämeen läänin pohjoinen vaalipiiri,1
+Parkano,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Parkano,1992,Turun läänin pohjoinen vaalipiiri,4
+Parkano,1987,Uudenmaan läänin vaalipiiri,1
+Parkano,1986,Turun läänin pohjoinen vaalipiiri,6
+Parkano,1988,Turun läänin pohjoinen vaalipiiri,3
+Parkano,1988,Helsingin kaupungin vaalipiiri,1
+Parkano,1994,Turun läänin pohjoinen vaalipiiri,1
+Parkano,1989,Turun läänin pohjoinen vaalipiiri,1
+Parkano,1987,Turun läänin pohjoinen vaalipiiri,4
+Parkano,1987,NaN,1
+Parkano,1986,Pohjois-Karjalan läänin vaalipiiri,1
+Parkano,1987,Vaasan läänin vaalipiiri,1
+Parkano,1990,Hämeen läänin pohjoinen vaalipiiri,1
+Parkano,1995,Turun läänin pohjoinen vaalipiiri,1
+Parkano,1992,Hämeen läänin pohjoinen vaalipiiri,1
+Parkano,1986,Hämeen läänin eteläinen vaalipiiri,3
+Parkano,1991,Turun läänin pohjoinen vaalipiiri,1
+Parkano,1990,Helsingin kaupungin vaalipiiri,1
+Parkano,1988,Turun läänin eteläinen vaalipiiri,1
+Parkano,1988,Uudenmaan läänin vaalipiiri,1
+Viitasaari,1987,Keski-Suomen läänin vaalipiiri,1
+Viitasaari,1987,Hämeen läänin eteläinen vaalipiiri,1
+Viitasaari,1986,Keski-Suomen läänin vaalipiiri,2
+Viitasaari,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Viitasaari,1990,Keski-Suomen läänin vaalipiiri,1
+Viitasaari,1993,Keski-Suomen läänin vaalipiiri,1
+Viitasaari,1987,Turun läänin eteläinen vaalipiiri,1
+Viitasaari,1992,Vaasan läänin vaalipiiri,1
+Viitasaari,1986,Hämeen läänin eteläinen vaalipiiri,1
+Ähtäri,1991,Keski-Suomen läänin vaalipiiri,1
+Ähtäri,1988,Hämeen läänin pohjoinen vaalipiiri,1
+Ähtäri,1987,Keski-Suomen läänin vaalipiiri,1
+Ähtäri,1992,Vaasan läänin vaalipiiri,1
+Ähtäri,1987,Hämeen läänin pohjoinen vaalipiiri,1
+Kannus,1993,Helsingin kaupungin vaalipiiri,1
+Kannus,1992,Oulun läänin vaalipiiri,1
+Kannus,1992,Uudenmaan läänin vaalipiiri,1
+Kannus,1994,Helsingin kaupungin vaalipiiri,1
+Kannus,1991,Hämeen läänin eteläinen vaalipiiri,1
+Kannus,1986,Uudenmaan läänin vaalipiiri,2
+Kannus,1994,Turun läänin pohjoinen vaalipiiri,1
+Kannus,1991,Hämeen läänin pohjoinen vaalipiiri,1
+Kannus,1987,Uudenmaan läänin vaalipiiri,1
+Kannus,1991,Oulun läänin vaalipiiri,1
+Pyhäjärvi,1987,Uudenmaan läänin vaalipiiri,1
+Pyhäjärvi,1989,Turun läänin pohjoinen vaalipiiri,4
+Pyhäjärvi,1992,Turun läänin pohjoinen vaalipiiri,1
+Pyhäjärvi,1990,Turun läänin pohjoinen vaalipiiri,4
+Pyhäjärvi,1993,Hämeen läänin pohjoinen vaalipiiri,1
+Pyhäjärvi,1988,Pohjois-Karjalan läänin vaalipiiri,4
+Pyhäjärvi,1995,Turun läänin pohjoinen vaalipiiri,1
+Pyhäjärvi,1992,Oulun läänin vaalipiiri,1
+Pyhäjärvi,1987,Keski-Suomen läänin vaalipiiri,1
+Pyhäjärvi,1986,Oulun läänin vaalipiiri,1
+Pyhäjärvi,1989,Oulun läänin vaalipiiri,1
+Pyhäjärvi,1988,Uudenmaan läänin vaalipiiri,1
+Pyhäjärvi,1990,Uudenmaan läänin vaalipiiri,2
+Pyhäjärvi,1987,Turun läänin pohjoinen vaalipiiri,1
+Pyhäjärvi,1988,Turun läänin pohjoinen vaalipiiri,1
+Pyhäjärvi,1990,Oulun läänin vaalipiiri,1
+Pyhäjärvi,1990,Turun läänin eteläinen vaalipiiri,1
+Pyhäjärvi,1986,Kymen läänin vaalipiiri,1
+Pyhäjärvi,1987,Turun läänin eteläinen vaalipiiri,1
+Pyhäjärvi,1993,Kuopion läänin vaalipiiri,1
+Kaskinen,1994,Vaasan läänin vaalipiiri,1
+Kaskinen,1986,Vaasan läänin vaalipiiri,4
+Kaskinen,1993,Keski-Suomen läänin vaalipiiri,1
+Kaskinen,1991,Turun läänin pohjoinen vaalipiiri,1
+Kaskinen,1990,Uudenmaan läänin vaalipiiri,1
+Kaskinen,1989,Turun läänin eteläinen vaalipiiri,1
+Kaskinen,1991,Vaasan läänin vaalipiiri,1
+Kaskinen,1993,Vaasan läänin vaalipiiri,1
