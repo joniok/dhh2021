@@ -5,10 +5,10 @@ out_path = "electoral_districts/shiny_data/" # output path
 
 # Map shape files and electoral disctricts of year 2020
 d1 <- get_municipalities(year = 2020) %>%
+  filter(maakunta_name_fi != "Ahvenanmaa") %>% # exclude Åland
   select(kunta, vuosi, nimi, vaalipiiri_code, vaalipiiri_name_fi, geom) %>%
   rename(electoral_district = vaalipiiri_name_fi)
 
-saveRDS(d1, file = paste0(out_path, "map_data.rds")) # export as RDS for shiny
 
 
 # Data files
@@ -24,6 +24,7 @@ names(df_list) <- stringr::str_replace_all(data_files, "data//|.csv", "")
 districts <- list(`2004-2013` = df_list[["city_speaker_districts_counts_04_13"]],
                   `1986-1995` = df_list[["city_speaker_districts_counts_86_95"]]) %>% 
   purrr::map_df(I, .id = "period") %>%
+  filter(!grepl("Ahvenanmaa", electoral_district)) %>% # Exclude Åland electoral district
   rename(speaker_district_count = mention_count) 
 
 ## parliamentary groups merged with electoral districts
@@ -31,6 +32,7 @@ groups <- list(`2004-2013` = df_list[["city_counts_statistics_by_parties_04_13"]
                `1986-1995` = df_list[["city_counts_statistics_by_parties_86_95"]]) %>%
   purrr::map_df(I, .id = "period") %>%
   rename(speaker_party_count = mention_count) %>%
+  filter(!grepl("Ahvenanmaa", party)) %>% # Exclude Åland representatives
   mutate(party = factor(party)) %>%
   left_join(districts, by = c("period", "city", "year"))
 
