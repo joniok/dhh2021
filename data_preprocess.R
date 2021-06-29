@@ -24,12 +24,14 @@ names(df_list) <- stringr::str_replace_all(data_files, "data//|.csv", "")
 districts <- list(`2004-2013` = df_list[["city_speaker_districts_counts_04_13"]],
                   `1986-1995` = df_list[["city_speaker_districts_counts_86_95"]]) %>% 
   purrr::map_df(I, .id = "period") %>%
+  rename(speaker_district_count = mention_count) %>%
   left_join(d1, by = "electoral_district")
 
 ## parliamentary groups merged with electoral districts including the shape files
 app_plot_data <- list(`2004-2013` = df_list[["city_counts_statistics_by_parties_04_13"]],
                `1986-1995` = df_list[["city_counts_statistics_by_parties_86_95"]]) %>%
   purrr::map_df(I, .id = "period") %>%
+  rename(speaker_party_count = mention_count) %>%
   mutate(party = factor(party)) %>%
   left_join(districts, by = c("period", "city", "year"))
 

@@ -51,8 +51,8 @@ server <- function(input, output, session){
     
     
     output$map_plot <- renderPlot({
-        ggplot(d1 %>% count(vaalipiiri_code), aes(fill = vaalipiiri_code)) + 
-            geom_sf(colour = alpha("white", 1/3))
+        ggplot(selected_data(), aes(fill = mention_count.x)) + 
+            geom_sf(colour = alpha("white", 1/3), fill = )
     })
 }
 
