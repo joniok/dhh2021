@@ -2,11 +2,8 @@ library(shiny)
 library(tidyverse)
 
 
-data_path <- "shiny_data/"
-d1 <- readRDS(paste0(data_path, "map_data.rds"))
+app_data <- readRDS("shiny_data/app_plot_data.rds")
 
-districts <- readRDS(paste0(data_path, "districts.rds"))
-groups <- readRDS(paste0(data_path, "groups.rds"))
 
 # Define UI for application 
 ui <- fluidPage(
@@ -36,7 +33,7 @@ ui <- fluidPage(
 server <- function(input, output, session){
     
     
-    selected_data <-  reactive({groups %>%
+    selected_data <-  reactive({app_plot_data %>%
             filter(period == input$time_period)
     })
     
