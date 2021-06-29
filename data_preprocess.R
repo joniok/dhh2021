@@ -28,12 +28,25 @@ districts <- list(`2004-2013` = df_list[["city_speaker_districts_counts_04_13"]]
   left_join(d1, by = "electoral_district")
 
 ## parliamentary groups merged with electoral districts including the shape files
-app_plot_data <- list(`2004-2013` = df_list[["city_counts_statistics_by_parties_04_13"]],
+groups <- list(`2004-2013` = df_list[["city_counts_statistics_by_parties_04_13"]],
                `1986-1995` = df_list[["city_counts_statistics_by_parties_86_95"]]) %>%
   purrr::map_df(I, .id = "period") %>%
   rename(speaker_party_count = mention_count) %>%
   mutate(party = factor(party)) %>%
   left_join(districts, by = c("period", "city", "year"))
+
+
+historical_names <- read.csv("historical_electoral_districts.csv", stringsAsFactors = FALSE)
+
+app_plot_data <- groups %>%
+  filter(electoral_district != "NaN") %>%
+  mutate(electoral_district = plyr::mapvalues(electoral_district,
+                                              from = historical_names$previous_name,
+                                              to = historical_names$current_name)) %>% # harmonize electoral disctrict names
+  group_by(period, year, party, electoral_district, vuosi, vaalipiiri_code) %>% # aggregate values
+  summarise(speaker_district_count = sum(speaker_district_count, na.rm = TRUE),
+            speaker_party_count = sum(speaker_party_count, na.rm = TRUE),
+            .groups = 'drop')
 
 ## Export processed data
 
