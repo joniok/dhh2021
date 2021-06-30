@@ -39,7 +39,7 @@ server <- function(input, output, session){
     
     observeEvent(input$time_period, {
         
-        group_options <- app_plot_data %>%
+        group_options <- app_data %>%
             filter(period == input$time_period) %>%
             filter(year == input$year) %>%
             mutate(party = droplevels(party)) %>%
@@ -58,25 +58,25 @@ server <- function(input, output, session){
     
     
     plot_data <- reactive({
-        app_plot_data %>%
+        app_data %>%
             filter(period == input$time_period) %>%
             filter(year == input$year) %>%
             filter(party == input$groups)
     })
     
-    global_limits <- reactive({
-        c(0, max(as.data.frame(app_plot_data$speaker_district_count)))
-        
-    })
-    
+    # global_limits <- reactive({
+    #     c(0, max(as.data.frame(app_data$speaker_district_count)))
+    # 
+    # })
+    # 
     
     output$map_plot <- renderPlot({
         ggplot() + 
             geom_sf(data = plot_data(), 
                     aes_string(fill = "speaker_district_count",
                                geometry = "geom",), 
-                    colour = alpha("white", 1/3)) +
-            viridis::scale_fill_viridis(limits = global_limits())
+                    colour = alpha("white", 1/3)) #+
+            #viridis::scale_fill_viridis(limits = global_limits())
     })
 }
 
