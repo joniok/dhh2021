@@ -52,4 +52,6 @@ app_plot_data <- groups %>%
 
 ## Export processed data
 
-saveRDS(app_plot_data, file = paste0(out_path, "app_plot_data.rds"))
+app_plot_data_sf <- sf::st_as_sf(app_plot_data)
+
+saveRDS(app_plot_data_sf, file = paste0(out_path, "app_plot_data.rds"))

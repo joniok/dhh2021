@@ -39,21 +39,23 @@ server <- function(input, output, session){
     
     observeEvent(input$time_period, {
         
+        if(input$time_period == "2004-2013"){
+            default_year <- 2008
+            updateSliderInput(inputId = "year", min = 2004, max = 2013, value = default_year)
+            
+        } else {
+            default_year <- 1990
+            updateSliderInput(inputId = "year", min = 1986, max = 1995, value = default_year)
+        }
+        
         group_options <- app_data %>%
             filter(period == input$time_period) %>%
-            filter(year == input$year) %>%
+            filter(year == default_year) %>%
             mutate(party = droplevels(party)) %>%
             pull(party) %>%
             levels()
         
         updateSelectInput(session = session, inputId = "groups", choices = group_options)
-        
-        if(input$time_period == "2004-2013"){
-            updateSliderInput(inputId = "year", min = 2004, max = 2013, value = 2008)
-        } else {
-            updateSliderInput(inputId = "year", min = 1986, max = 1995, value = 1990)
-        }
-        
     })
     
     
@@ -64,19 +66,20 @@ server <- function(input, output, session){
             filter(party == input$groups)
     })
     
-    # global_limits <- reactive({
-    #     c(0, max(as.data.frame(app_data$speaker_district_count)))
-    # 
-    # })
-    # 
+    global_limits <- reactive({
+        c(0, max(as.data.frame(app_data$speaker_district_count)))
+        
+    })
+    
     
     output$map_plot <- renderPlot({
         ggplot() + 
-            geom_sf(data = plot_data(), 
+            geom_sf(data = plot_data() %>%
+                        group_by(vaalipiiri_code) %>%, 
                     aes_string(fill = "speaker_district_count",
                                geometry = "geom",), 
-                    colour = alpha("white", 1/3)) #+
-            #viridis::scale_fill_viridis(limits = global_limits())
+                    colour = alpha("white", 1/3)) +
+            viridis::scale_fill_viridis(limits = global_limits())
     })
 }
 
