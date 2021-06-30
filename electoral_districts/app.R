@@ -67,6 +67,10 @@ server <- function(input, output, session){
     })
     
     global_limits <- reactive({
+        
+        app_data %>%
+            group_by(vaalipiiri_code)
+        
         c(0, max(as.data.frame(app_data$speaker_district_count)))
         
     })
@@ -74,12 +78,11 @@ server <- function(input, output, session){
     
     output$map_plot <- renderPlot({
         ggplot() + 
-            geom_sf(data = plot_data() %>%
-                        group_by(vaalipiiri_code) %>%, 
+            geom_sf(data = plot_data(), 
                     aes_string(fill = "speaker_district_count",
                                geometry = "geom",), 
                     colour = alpha("white", 1/3)) +
-            viridis::scale_fill_viridis(limits = global_limits())
+            viridis::scale_fill_viridis()#limits = global_limits())
     })
 }
 
