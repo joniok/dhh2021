@@ -4,12 +4,13 @@ library(tidyverse)
 
 app_data <- readRDS("shiny_data/app_plot_data.rds")
 
+global_limits <- c(0,  plyr::round_any(max(app_data$speaker_district_prop, na.rm = TRUE), 0.1))
 
 # Define UI for application 
 ui <- fluidPage(
     
     # Application title
-    #titlePanel("Old Faithful Geyser Data"),
+    #titlePanel(paste(global_limits,collapse = ", ")),
     
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
@@ -55,7 +56,7 @@ server <- function(input, output, session){
             pull(party) %>%
             levels()
         
-        updateSelectInput(session = session, inputId = "groups", choices = group_options)
+        updateSelectInput(session = session, inputId = "groups", choices = group_options, selected = group_options[1])
     })
     
     
@@ -66,23 +67,17 @@ server <- function(input, output, session){
             filter(party == input$groups)
     })
     
-    global_limits <- reactive({
-        
-        app_data %>%
-            group_by(vaalipiiri_code)
-        
-        c(0, max(as.data.frame(app_data$speaker_district_count)))
-        
-    })
     
     
     output$map_plot <- renderPlot({
         ggplot() + 
-            geom_sf(data = plot_data(), 
-                    aes_string(fill = "speaker_district_count",
-                               geometry = "geom",), 
+            geom_sf(data = plot_data() %>% 
+                        group_by(electoral_district) %>%
+                        summarise(speaker_district_prop = median(speaker_district_prop)), 
+                    aes_string(fill = "speaker_district_prop",
+                               geometry = "geom"), 
                     colour = alpha("white", 1/3)) +
-            viridis::scale_fill_viridis()#limits = global_limits())
+            viridis::scale_fill_viridis(limits = global_limits)
     })
 }
 

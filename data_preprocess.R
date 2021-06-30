@@ -51,7 +51,10 @@ groups_with_districts <- groups %>%
             speaker_party_count = sum(speaker_party_count, na.rm = TRUE),
             .groups = 'keep')
 
-
+annual_counts <- groups_with_districts %>%
+  group_by(period, year, electoral_district) %>%
+  summarise(district_total = sum(speaker_district_count),
+            party_total = sum(speaker_party_count), .groups = "keep")
 
 # add missing rows to data
 by_cols =  c("period", "year", "party", "electoral_district")
@@ -70,6 +73,9 @@ dummy_data <- list(period = unique(app_plot_data$period),
 
 app_plot_data <- groups_with_districts %>%
   bind_rows(dummy_data) %>%
+  left_join(annual_counts, by = c("period", "year", "electoral_district")) %>%
+  mutate(speaker_district_prop = speaker_district_count / district_total,
+         speaker_party_prop = speaker_party_count / party_total) %>%
   left_join(d1, by = "electoral_district") # add shapefiles of 2020 disctricts
   
   
