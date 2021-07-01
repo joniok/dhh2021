@@ -27,7 +27,7 @@ ui <- fluidPage(
             radioButtons("value", label = "Select values",
                          choices = list("By speaker's electoral district" = "speaker_district_prop", 
                                         "By speaker's party" = "speaker_party_prop"), 
-                         selected = "speaker_district_prop"),
+                         selected = "speaker_party_prop"),
             
             uiOutput("groups")
         ),
@@ -45,26 +45,20 @@ server <- function(input, output, session){
     observeEvent(input$value, {
         
         if(input$value == "speaker_district_prop"){
-            group_choices <- app_data %>%
-                filter(period == input$time_period) %>%
-                filter(year == input$year) %>%
-                mutate(party = droplevels(party)) %>%
-                pull(party) %>%
-                levels()
-            
             output$groups <- renderUI({
-                selectInput(inputId = "groups", label = "Select parlamentary group", choices = group_choices, selected = group_choices[1])
+                selectInput(inputId = "groups", label = "Select parlamentary group", choices = levels(app_data$party)
+                            , selected = levels(app_data$party)[1])
             })
         }
     })
     
     observe({
-        shinyjs::hide("groups")
         
         if(input$value == "speaker_district_prop"){
-            
-            
             shinyjs::show("groups")
+        } else {
+            shinyjs::hide("groups")
+            
         }
     })
     
@@ -79,41 +73,43 @@ server <- function(input, output, session){
             default_year <- 1990
             updateSliderInput(inputId = "year", min = 1986, max = 1995, value = default_year)
         }
+    })
+    
+    
+    
+    plot_data <- reactive({
         
-        
-        if(input$value == "speaker_district_prop"){
-            group_choices <- app_data %>%
+        if(input$value == "speaker_district_prop" & length(input$groups) > 0){
+            app_data %>%
                 filter(period == input$time_period) %>%
-                filter(year == default_year) %>%
-                mutate(party = droplevels(party)) %>%
-                pull(party) %>%
-                levels()
-            
-            updateSelectInput(session = session, inputId = "groups", choices = group_choices, selected = group_choices[1])
+                filter(year == input$year)  %>%
+                filter(party == input$groups)  %>%
+                group_by(electoral_district) %>%
+                summarize_at(.vars = input$value, .funs = median)
+        } else {
+            app_data %>%
+                filter(period == input$time_period) %>%
+                filter(year == input$year)
         }
     })
     
     
-    plot_data <- reactive({
-        app_data %>%
-            filter(period == input$time_period) %>%
-            filter(year == input$year) %>%
-            filter(party == input$groups)
+    
+    
+    output$map_plot <- renderPlot({
+        
+        if(input$value == "speaker_district_prop"){
+            ggplot() +
+                geom_sf(data = plot_data(),
+                        aes_string(fill = input$value,
+                                   geometry = "geom"),
+                        colour = alpha("white", 1/3)) +
+                viridis::scale_fill_viridis(limits = c(0,plyr::round_any(max(app_data[[input$value]], na.rm = TRUE), 0.1)))    
+            
+        } else {
+            
+        }
     })
-    
-    
-    
-    
-    # output$map_plot <- renderPlot({
-    #     ggplot() + 
-    #         geom_sf(data = plot_data() %>% 
-    #                     group_by(electoral_district) %>%
-    #                     summarize_at(.vars = input$value, .funs = median), 
-    #                 aes_string(fill = input$value,
-    #                            geometry = "geom"), 
-    #                 colour = alpha("white", 1/3)) +
-    #         viridis::scale_fill_viridis(limits = c(0,plyr::round_any(max(app_data[[input$value]], na.rm = TRUE), 0.1)))
-    # })
 }
 
 # Run the application 
