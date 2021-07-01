@@ -89,7 +89,11 @@ server <- function(input, output, session){
         } else {
             app_data %>%
                 filter(period == input$time_period) %>%
-                filter(year == input$year)
+                filter(year == input$year) %>%
+                group_by(electoral_district) %>%
+                filter(speaker_party_prop == max(speaker_party_prop, na.rm=TRUE)) %>%
+                group_by(electoral_district, party) %>%
+                summarize_at(.vars = input$value, .funs = median)
         }
     })
     
@@ -107,7 +111,11 @@ server <- function(input, output, session){
                 viridis::scale_fill_viridis(limits = c(0,plyr::round_any(max(app_data[[input$value]], na.rm = TRUE), 0.1)))    
             
         } else {
-            
+            ggplot() +
+                geom_sf(data = plot_data(),
+                        aes(fill = party,
+                            geometry = geom),
+                        colour = alpha("white", 1/3)) 
         }
     })
 }
