@@ -2,7 +2,7 @@ library("geofi")
 library("tidyverse")
 library("sf")
 
-out_path = "politics_and_place/" # output path
+out_path = "plot_data/" # output path
 
 # Map shape files and electoral disctricts of year 2020
 d1 <- get_municipalities(year = 2020) %>%
@@ -65,7 +65,6 @@ districts_counts <-districts_raw %>%
 districts <- districts_raw %>%
   bind_rows(excluded_cities_districts) %>%
   left_join(districts_counts, by = c("period", "year", "city")) %>%
-  mutate(speaker_electoral_district = factor(speaker_electoral_district)) %>%
   st_as_sf() # convert to shape file
 
 saveRDS(districts, file = paste0(out_path, "districts.rds"))

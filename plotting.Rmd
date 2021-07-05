@@ -1,8 +1,7 @@
 ---
 title: "Electoral districts and parlamentary groups"
-author: "Joni Oksanen"
-date: "02/07/2021"
 output: html_document
+runtime: shiny
 ---
 
 ```{r setup, include=FALSE}
@@ -12,34 +11,34 @@ library(tidyverse)
 library(ggsflabel)
 ```
 
-```{r data}
+```{r data, include=FALSE}
 raw_data <- readRDS("politics_and_place/districts.rds")
+
+district_choices <- unique(raw_data$electoral_district) %>% stringi::stri_sort(locale = "fi_FI")
 ```
 
 
-```{r plot_data_aggregate_fun}
+```{r plot_data_aggregate_fun, include=FALSE}
 
 preprocess_district_data <- function(df, time_period, cut, district){
-  
-  
-  
   df %>%
     filter(period == time_period) %>%
     filter(speaker_electoral_district == district) %>%
     mutate(time = ifelse(year < cut, 
-                         paste(min(year), "-", (cut-1)), 
-                         paste(cut, "-", year[which.max(year)]))) %>%
+                         paste(unlist(strsplit(time_period, "-"))[1], "-", (cut-1)), 
+                         paste(cut, "-", unlist(strsplit(time_period, "-"))[2]))) %>%
     group_by(electoral_district, speaker_electoral_district, time) %>%
     summarize(speaker_district_count = sum(speaker_district_count, na.rm = TRUE),
-                 speaker_district_total = sum(speaker_district_total, na.rm = TRUE), .groups = "drop") %>%
-    mutate(speaker_district_prop  = speaker_district_count / speaker_district_total)
+              speaker_district_total = sum(speaker_district_total, na.rm = TRUE), .groups = "drop") %>%
+    mutate(speaker_district_prop  = speaker_district_count / speaker_district_total) %>%
+    sf::st_as_sf()
   
 }
 ```
 
 
-```{r plot_fun}
-plot_map <- function(df,fill = "speaker_district_count", wrap_col = "time", title = NULL, subtitle = NULL){
+```{r plot_fun, include=FALSE}
+plot_map <- function(df,fill = "speaker_district_count", wrap_col = "time", title = NULL, subtitle = NULL, limits = c(0,0.75)){
   
   plot <- ggplot(df,
                  aes_string(fill = fill,
@@ -51,27 +50,56 @@ plot_map <- function(df,fill = "speaker_district_count", wrap_col = "time", titl
     #   fill = "grey",
     #   force = 100, nudge_x = -2, seed = 10) +
     theme_minimal() +
-theme(legend.position= "right",
-        axis.text = element_blank(),
-        axis.title = element_blank(),
-        panel.grid = element_blank()
-        ) +
-  facet_wrap(as.formula(paste("~", wrap_col)))
+    theme(legend.position= "right",
+          axis.text = element_blank(),
+          axis.title = element_blank(),
+          panel.grid = element_blank()
+    ) +
+    facet_wrap(as.formula(paste("~", wrap_col))) +
+    viridis::scale_fill_viridis(name = "Mentions", limits = limits)
 
-return(plot)
+  
+  return(plot)
 }
 ```
 
 
-## Mentions of municipalities by parlamentary group aggregated by electoral district 
+## Mentions of municipalities by MPs aggregated by MP's electoral district 
 
-```{r max_data}
-raw_data %>% 
-  preprocess_district_data(time_period = "1986-1995", cut = 1990, district = "Hämeen vaalipiiri") %>%
-  plot_map(fill = "speaker_district_prop", title = "Hämeen vaalipiiri", subtitle = paste("First year of the economic crisis:", 1990)) +
-  viridis::scale_fill_viridis(name = "Mentions\n(normalized)")
+```{r mp_districts_app, echo=FALSE, eval=TRUE}
+
+selectInput(
+  'district', 
+  label = 'Show mentions by MP from this electoral district:',
+  choices = district_choices, 
+  selected = district_choices[1]
+)
+
+plot_data1 <- reactive({
+  raw_data %>%
+    preprocess_district_data(time_period = "1986-1995", cut = 1990, district = input$district)
+  
+})
+
+renderPlot(
+  plot_data1() %>% 
+    plot_map(fill = "speaker_district_prop", title = input$disctrict, subtitle = paste("First year of the economic crisis:", 1990))
+)
+
+plot_data2 <- reactive({
+  raw_data %>%
+    preprocess_district_data(time_period = "2004-2013", cut = 2008, district = input$district)
+  
+})
+
+renderPlot(
+  plot_data2() %>% 
+    plot_map(fill = "speaker_district_prop", title = input$disctrict, subtitle = paste("First year of the economic crisis:", 2008)))
+
 
 ```
+
+
 
 ```
 
