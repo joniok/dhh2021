@@ -14,12 +14,34 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 <!--
+1)  Discuss with (or write an email to) your group leader to get information what extra work you need to do to earn the 5 credits.
 2)  Choose a public venue (blog post, google docs etc.) for your portfolio.
 3)  Write a documentation of your work during the hackathon (what you did as part of the group) that tells also about your experience of the project (reflect about what you brought to the group, what new did you learn, what you should learn in the future etc.). Length approximately 750-1000 words.
 4)  Collect all the relevant documents, information about your groups work as a sensibly documented collection of links (code, presentation, poster) into your portfolio.
 5)  Feel free to add whatever comes to mind into your hackathon portfolio.
 -->
+
+## DHH 2021 reflection
+
+  - our [GitHub](https://github.com/dhh21/semparl)
+  - our [final blog post at DHH21 blog](https://dhhackathon.wordpress.com/2021/05/28/semparl-cities-in-parliament/)
+  - our [Shiny app](https://jonioks.shinyapps.io/citiesinparl/) 
+
+
+I participated in the Digital Humanities Hackathon (DHH) 2021 as a team member in the Semantic parlament (Semparl) group. For the purposes of this hackathon, we were given access to [ParliamentSampo](https://seco.cs.aalto.fi/projects/semparl/en/), a work-in-progress search engine, where users can search for results from open data provided by the Finnish Parliament. In addition to word searches from text, the data in ParliamentSampo includes automatic background information of each document such as political party information for persons in the data and place names mentioned in the documents. After learning about the ParliamentSampo and how to use it, we started working from the initial topic of “politics and place”. We discussed our interest and backgrounds related to this project, our research theme was set on researching the development of city image in the Finnish parliamentary discussions during economic crises. Our final presentation in the form of a blog post can be read [here](https://dhhackathon.wordpress.com/2021/05/28/semparl-cities-in-parliament/)
+
+My initial interest regarding participation in DHH2021, was to cooperate with people from various backgrounds and to learn and apply methods that I will use in my personal doctoral results, i.e. modern natural language processing and language modeling tools. My background consists of mostly working and studying the quantitative and computational domain. Few years ago, I was interested in working with text data and NLP, so I ended up writing my master’s thesis in statistics about training word embeddings. Before applying to the hackathon, I did not have any previous experience with digital humanities, besides my thesis. However, I was already familiar with the topics that were mentioned in the application form, but have not yet worked with the topics in the context of multidisciplinary research or collaboration.
+
+The first days of the hackathon went so fast as we were trying to find the appropriate framework to conduct our study. After agreeing on the objectives of our brief, but in-depth analysis of parliamentary debates, I aligned myself in the data visualization and manipulation team. Both topics are something I have experience of working with and most of all enjoy spending time with. Even though my personal motivation to join the hackathon was learning something new by doing, I managed to get involved with things I have already done in the past. I did not mind this at all, as I noticed that I am actually good with these things as I immediately had ideas and how to produce them once someone mentioned visualizations. However, this hackathon was a learning event and I could have utilized the chance to do something new.
+
+From a perspective of teamwork and collaborating within our team, I also thought that I would be the most productive by focusing on creating the final outputs (i.e. plots, applications with UI) as there were not that many other team members with a quantitative background. I also did not want to take full control of the whole visualization part and offered the chance for others to be able to join or take lead in the data visualization process.
+
+In general, participating in this 10 day hackathon was an insightful experience. Most of all, I enjoyed the discussions that we had about the research theme. It is not easy to find a common ground without someone making tradeoffs in multidisciplinary research. I learned from my team members how they approached data from the perspective of their own background and discipline and how their thinking process formulated the research questions that they wanted to examine and how their research questions would align with the interests of other team members. In addition, I believe I was able to teach R and also speak about what R is capable of (as most of our team had used mostly Python). I still had to cut down some parts from our final presentation as we simply did neither have the time to implement them completely nor present the results of these analyses during our presentation. 
+
+I also learned that it is important to take into account the time at your disposal. In this sense, the hackathon did not provide realistic settings as usually you don’t have only 10 days to plan _and_ conduct your research. Taking into account the 10 days of hackathon, I think our topic was a bit too ambitious, but nevertheless we managed to deliver results, which I could have not expected to be produced from scratch within 10 days. I believe that our work was showcasing the possibilities of such an extensive linked data set by focusing on something else than examining the traditional party politics or policies. Among these reasons, I was inspired to continue some of the quantitative analyses that we had no time to complete during the hackathon, but we did produce data sets, which can be used in these analyses.
+
 
 
 <!--
