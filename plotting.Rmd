@@ -6,8 +6,8 @@ runtime: shiny
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-
 library(tidyverse)
+library(ggpubr)
 library(ggsflabel)
 ```
 
@@ -71,11 +71,12 @@ plot_map <- function(df,fill = "speaker_district_count", wrap_col = "time", titl
     theme(legend.position= "right",
           axis.text = element_blank(),
           axis.title = element_blank(),
-          panel.grid = element_blank()
+          panel.grid = element_blank(),
+          strip.text = element_text(size = 18)
     ) +
     facet_wrap(as.formula(paste("~", wrap_col))) +
     viridis::scale_fill_viridis(name = "Mentions", limits = limits)
-
+  
   
   return(plot)
 }
@@ -84,8 +85,7 @@ plot_map <- function(df,fill = "speaker_district_count", wrap_col = "time", titl
 
 ## Mentions of municipalities by MPs aggregated by MP's electoral district 
 
-```{r mp_districts_app, echo=FALSE, eval=TRUE}
-
+```{r mp_districts_input, echo=FALSE}
 selectInput(
   'district', 
   label = 'Show mentions by MP from this electoral district:',
@@ -93,16 +93,17 @@ selectInput(
   selected = district_choices[1]
 )
 
+```
+
+
+```{r mp_districts_app, echo=FALSE, eval=TRUE}
+
 plot_districts1 <- reactive({
   raw_data_disctricts %>%
     preprocess_district_data(time_period = "1986-1995", cut = 1990, district = input$district)
   
 })
 
-renderPlot(
-  plot_districts1() %>% 
-    plot_map(fill = "speaker_district_prop", title = input$disctrict, subtitle = paste("First year of the economic crisis:", 1990))
-)
 
 plot_districts2 <- reactive({
   raw_data_disctricts %>%
@@ -110,23 +111,37 @@ plot_districts2 <- reactive({
   
 })
 
+p1 <- reactive({plot_districts1() %>% 
+    plot_map(fill = "speaker_district_prop", title = paste("First year of the economic crisis:", 1990))
+})
+
+p2 <- reactive({plot_districts2() %>% 
+    plot_map(fill = "speaker_district_prop", title = paste("First year of the economic crisis:", 2008))
+})
+
 renderPlot(
-  plot_districts2() %>% 
-    plot_map(fill = "speaker_district_prop", title = input$disctrict, subtitle = paste("First year of the economic crisis:", 2008)))
+  ggarrange(p1(), p2(), ncol=1, nrow=2, common.legend = FALSE) %>%
+    annotate_figure(top = text_grob(input$district, size = 24, face = "bold")),
+  height = 1000
+)
 
 ```
 
 
-## Mentions of municipalities by MPs aggregated by MP's parliamentary group
+## Mentions of municipalities by MPs aggregated by parliamentary group
 
-```{r mp_groups_app, echo=FALSE, eval=TRUE}
-
+```{r mp_groups_input, echo = FALSE}
 selectInput(
   'party', 
   label = 'Show mentions by MP from this parliamentary group:',
   choices = group_choices, 
   selected = group_choices[1]
 )
+```
+
+
+
+```{r mp_groups_app, echo=FALSE, eval=TRUE}
 
 plot_groups1 <- reactive({
   raw_data_groups %>%
@@ -134,10 +149,6 @@ plot_groups1 <- reactive({
   
 })
 
-renderPlot(
-  plot_groups1() %>% 
-    plot_map(fill = "speaker_party_prop", title = input$party, subtitle = paste("First year of the economic crisis:", 1990))
-)
 
 plot_groups2 <- reactive({
   raw_data_groups %>%
@@ -145,9 +156,19 @@ plot_groups2 <- reactive({
   
 })
 
+p3 <- reactive({plot_groups1() %>% 
+    plot_map(fill = "speaker_party_prop", title = paste("First year of the economic crisis:", 1990))
+})
+
+p4 <- reactive({plot_groups2() %>% 
+    plot_map(fill = "speaker_party_prop", title = paste("First year of the economic crisis:", 2008))
+})
+
 renderPlot(
-  plot_groups2() %>% 
-    plot_map(fill = "speaker_party_prop", title = input$disctrict, subtitle = paste("First year of the economic crisis:", 2008)))
+  ggarrange(p3(), p4(), ncol=1, nrow=2, common.legend = FALSE) %>%
+    annotate_figure(top = text_grob(input$party, size = 24, face = "bold")),
+  height = 1000
+)
 
 ```
 

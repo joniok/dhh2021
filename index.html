@@ -1498,7 +1498,7 @@ div.tocify {
 <h1 class="title toc-ignore">DHH2021</h1>
 <h3 class="subtitle">Personal portfolio</h3>
 <h4 class="author">Joni Oksanen</h4>
-<h4 class="date">05.07.2021</h4>
+<h4 class="date">06.07.2021</h4>
 
 </div>
 
@@ -1510,8 +1510,8 @@ div.tocify {
 4)  Collect all the relevant documents, information about your groups work as a sensibly documented collection of links (code, presentation, poster) into your portfolio.
 5)  Feel free to add whatever comes to mind into your hackathon portfolio.
 -->
-<div id="dhh-2021-reflection" class="section level2">
-<h2><span class="header-section-number">0.1</span> DHH 2021 reflection</h2>
+<div id="dhh-2021-reflection" class="section level1">
+<h1><span class="header-section-number">1</span> DHH 2021 reflection</h1>
 <ul>
 <li>our <a href="https://github.com/dhh21/semparl">GitHub</a></li>
 <li>our <a href="https://dhhackathon.wordpress.com/2021/05/28/semparl-cities-in-parliament/">final blog post at DHH21 blog</a></li>
@@ -1523,6 +1523,11 @@ div.tocify {
 <p>From a perspective of teamwork and collaborating within our team, I also thought that I would be the most productive by focusing on creating the final outputs (i.e. <a href="https://github.com/dhh21/semparl/blob/main/plots/financial_crisis_rate.gif">plots</a>, <a href="https://jonioks.shinyapps.io/citiesinparl/">Shiny applications</a>) as there were not that many other team members with a quantitative background. I also did not want to take full control of the whole visualization part and offered the chance for others to be able to join or take lead in the data visualization process.</p>
 <p>In general, participating in this 10 day hackathon was an insightful experience. Most of all, I enjoyed the discussions that we had about the research theme. It is not easy to find a common ground without someone making tradeoffs in multidisciplinary research. I learned from my team members how they approached data from the perspective of their own background and discipline and how their thinking process formulated the research questions that they wanted to examine and how their research questions would align with the interests of other team members. In addition, I believe I was able to teach R and also speak about what R is capable of (as most of our team had used mostly Python). I still had to cut down some parts from our final presentation as we simply did neither have the time to implement them completely nor present the results of these analyses during our presentation.</p>
 <p>I also learned that it is important to take into account the time at your disposal. In this sense, the hackathon did not provide realistic settings as usually you don’t have only 10 days to plan <em>and</em> conduct your research. Taking into account the 10 days of hackathon, I think our topic was a bit too ambitious, but nevertheless we managed to deliver results, which I could have not expected to be produced from scratch within 10 days. I believe that our work was showcasing the possibilities of such an extensive linked data set by focusing on something else than examining the traditional party politics or policies. Among these reasons, I was inspired to continue some of the quantitative analyses that we had no time to complete during the hackathon, but we did produce data sets, which can be used in these analyses.</p>
+</div>
+<div id="further-analysis-examining-party-politics-and-regional-policies-of-electoral-disctricts-of-mps" class="section level1">
+<h1><span class="header-section-number">2</span> Further analysis: Examining party politics and regional policies of electoral disctricts of MPs</h1>
+<div id="limitations-of-data" class="section level2">
+<h2><span class="header-section-number">2.1</span> Limitations of data</h2>
 <!--
 1. Limitations of data
   - only the cities included in the original DHH-SEMPARL study are considered (-> requires futher analyzing and processing the data to have more reliable and valid results of the RQ/H)
@@ -1532,12 +1537,24 @@ div.tocify {
   
 3. Parlamentary groups
   - are defined by the MP's last/latest group, which causes some groups to appear before their inauguration as the MP has been member of multiple parlamentary groups in the past.
-  -  
-
 --->
+<div id="city-name-mentions" class="section level3">
+<h3><span class="header-section-number">2.1.1</span> City name mentions</h3>
+<p>Following analyses were conducted using a dataset produced originally as a part of original DHH2021 research project “Cities in parliament”. Our previous study only examined 107 munincipalities, which have the <a href="https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Finland">legal status of a city</a> as of 2021. There almost certainly is not included mentions, as the electoral district of Lappi includes only one city as the capital city of Helsinki is an electoral district of its own. Thus the results are highly biased towards highly populated areas, which include large cities.</p>
 </div>
-<div id="r-markdown" class="section level1">
-<h1><span class="header-section-number">1</span> R Markdown</h1>
+<div id="electoral-distirct" class="section level3">
+<h3><span class="header-section-number">2.1.2</span> Electoral distirct</h3>
+<p>The electoral district were added to cities by using the 2020 division provided by <a href="https://github.com/rOpenGov/geofi">geofi</a> package, which uses data provided by Statistics Finland. The historical names of each have been harmonized to match their current names, but the municipality level divison has not been taken into account. The some of borders of electoral districts have changed since 1986. The results reflect using the most current division, but they should been changed to reflect the regional division at the moment. However, similar regional divisions were only available from 2012. Having access to historical electoral districts would provide much more reliable results in this context. Also when examining the electoral district of MPs, the information was acquired from ParliamentSampo. If MP was selected from multiple districts, then the preceding information was discarded and the most recent districts was used. This is a limitation in ParliamentSampo biographies, not this analyses.</p>
+</div>
+<div id="parliamentary-groups" class="section level3">
+<h3><span class="header-section-number">2.1.3</span> Parliamentary groups</h3>
+<p>If MP has been a member of multiple parliamentary groups during their career, only the latest information was used. Thus it is possible that a parliamentary group can show up in a time period before its inauguration. This information is also acquired from ParliamentSampo and it would be possible to time match the correct parliament group with the date of the plenary speech, but we had no time to implement this during DHH as party politics were not our team projects’ the first priority.</p>
+</div>
+</div>
+<div id="discussion" class="section level2">
+<h2><span class="header-section-number">2.2</span> Discussion</h2>
+<p>We could improve the reliable and validity of the results by fixing the limitations of the data. Fixing the issues related to data is time consuming and labor-intensive and implementing these changes would not really fit in the scope of the hackathon, but fixing them in this research or in ParliamentSampo data would not be impossible. However, this research is more of a novel example of what kind of research could be done related to regional policies and the geography of politics and how the results could be visually represented.</p>
+</div>
 </div>
 
 

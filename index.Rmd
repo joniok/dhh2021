@@ -23,7 +23,7 @@ knitr::opts_chunk$set(echo = TRUE)
 5)  Feel free to add whatever comes to mind into your hackathon portfolio.
 -->
 
-## DHH 2021 reflection
+# DHH 2021 reflection
 
   - our [GitHub](https://github.com/dhh21/semparl)
   - our [final blog post at DHH21 blog](https://dhhackathon.wordpress.com/2021/05/28/semparl-cities-in-parliament/)
@@ -42,7 +42,10 @@ In general, participating in this 10 day hackathon was an insightful experience.
 
 I also learned that it is important to take into account the time at your disposal. In this sense, the hackathon did not provide realistic settings as usually you don’t have only 10 days to plan _and_ conduct your research. Taking into account the 10 days of hackathon, I think our topic was a bit too ambitious, but nevertheless we managed to deliver results, which I could have not expected to be produced from scratch within 10 days. I believe that our work was showcasing the possibilities of such an extensive linked data set by focusing on something else than examining the traditional party politics or policies. Among these reasons, I was inspired to continue some of the quantitative analyses that we had no time to complete during the hackathon, but we did produce data sets, which can be used in these analyses.
 
+# Further analysis: Examining party politics and regional policies of electoral disctricts of MPs
 
+
+## Limitations of data
 
 <!--
 1. Limitations of data
@@ -53,9 +56,23 @@ I also learned that it is important to take into account the time at your dispos
   
 3. Parlamentary groups
   - are defined by the MP's last/latest group, which causes some groups to appear before their inauguration as the MP has been member of multiple parlamentary groups in the past.
-  -  
-
 --->
 
+### City name mentions
 
-# R Markdown
+Following analyses were conducted using a dataset produced originally as a part of original DHH2021 research project "Cities in parliament". Our previous study only examined 107 munincipalities, which have the [legal status of a city](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Finland) as of 2021. There almost certainly is not included mentions, as the electoral district of Lappi includes only one city as the capital city of Helsinki is an electoral district of its own. Thus the results are highly biased towards highly populated areas, which include large cities.
+
+### Electoral distirct
+
+The electoral district were added to cities by using the 2020 division provided by [geofi](https://github.com/rOpenGov/geofi) package, which uses data provided by Statistics Finland. The historical names of each have been harmonized to match their current names, but the municipality level divison has not been taken into account. The some of borders of electoral districts have changed since 1986. The results reflect using the most current division, but they should been changed to reflect the regional division at the moment. However, similar regional divisions were only available from 2012. Having access to historical electoral districts would provide much more reliable results in this context. Also when examining the electoral district of MPs, the information was acquired from ParliamentSampo. If MP was selected from multiple districts, then the preceding information was discarded and the most recent districts was used. This is a limitation in ParliamentSampo biographies, not this analyses.
+
+### Parliamentary groups
+
+If MP has been a member of multiple parliamentary groups during their career, only the latest information was used. Thus it is possible that a parliamentary group can show up in a time period before its inauguration. This information is also acquired from ParliamentSampo and it would be possible to time match the correct parliament group with the date of the plenary speech, but we had no time to implement this during DHH as party politics were not our team projects' the first priority.
+
+
+
+
+## Discussion
+
+We could improve the reliable and validity of the results by fixing the limitations of the data. Fixing the issues related to data is time consuming and labor-intensive and implementing these changes would not really fit in the scope of the hackathon, but fixing them in this research or in ParliamentSampo data would not be impossible. However, this research is more of a novel example of what kind of research could be done related to regional policies and the geography of politics and how the results could be visually represented. 
