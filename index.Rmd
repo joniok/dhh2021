@@ -62,6 +62,7 @@ I also learned that it is important to take into account the time at your dispos
 
 Following analyses were conducted using a dataset produced originally as a part of original DHH2021 research project "Cities in parliament". Our previous study only examined 107 munincipalities, which have the [legal status of a city](https://en.wikipedia.org/wiki/List_of_cities_and_towns_in_Finland) as of 2021. There almost certainly is not included mentions, as the electoral district of Lappi includes only one city as the capital city of Helsinki is an electoral district of its own. Thus the results are highly biased towards highly populated areas, which include large cities.
 
+
 ### Electoral distirct
 
 The electoral district were added to cities by using the 2020 division provided by [geofi](https://github.com/rOpenGov/geofi) package, which uses data provided by Statistics Finland. The historical names of each have been harmonized to match their current names, but the municipality level divison has not been taken into account. The some of borders of electoral districts have changed since 1986. The results reflect using the most current division, but they should been changed to reflect the regional division at the moment. However, similar regional divisions were only available from 2012. Having access to historical electoral districts would provide much more reliable results in this context. Also when examining the electoral district of MPs, the information was acquired from ParliamentSampo. If MP was selected from multiple districts, then the preceding information was discarded and the most recent districts was used. This is a limitation in ParliamentSampo biographies, not this analyses.
@@ -70,6 +71,10 @@ The electoral district were added to cities by using the 2020 division provided 
 
 If MP has been a member of multiple parliamentary groups during their career, only the latest information was used. Thus it is possible that a parliamentary group can show up in a time period before its inauguration. This information is also acquired from ParliamentSampo and it would be possible to time match the correct parliament group with the date of the plenary speech, but we had no time to implement this during DHH as party politics were not our team projects' the first priority.
 
+
+### Time span
+
+Our original study covered two 10-year periods: 1) depression in Finland in the 1990's and 2) global financial crisis. This analyses is also separated in to these two periods, which cover 5 years before and after the peak/starting year of each economic crisis. Extending this research setting to cover larger period of time would more likely improve the reliability of the results. This quantitative examination is not really related to these economic crises, but we will use the data sets that were produced, but not analyzed during the hackathon.
 
 
 

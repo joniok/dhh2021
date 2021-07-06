@@ -12,14 +12,99 @@ library(ggsflabel)
 ```
 
 ```{r data, include=FALSE}
-raw_data_disctricts <- readRDS("plot_data/districts.rds")
-district_choices <- unique(raw_data_disctricts$electoral_district) %>% stringi::stri_sort(locale = "fi_FI")
+raw_data_districts <- readRDS("plot_data/districts.rds")
+district_choices <- unique(raw_data_districts$electoral_district) %>% stringi::stri_sort(locale = "fi_FI")
 
 raw_data_groups <- readRDS("plot_data/parl_groups.rds")
 group_choices <- unique(raw_data_groups$party) %>% stringi::stri_sort(local = "fi_FI")
 
 ```
 
+
+# Static plots
+
+## Municipality mentions by electoral district and year
+
+```{r lineplot_districts, echo=FALSE}
+lineplot_districts_data <- raw_data_districts %>%
+  select(-geom)  %>%
+  group_by(period, year, electoral_district) %>%
+  summarise(speaker_district_count = sum(speaker_district_count, na.rm = TRUE),
+            .groups = "drop") %>%
+  filter((period == "1986-1995" & year <= 1995)|(period == "2004-2013" & year >= 2003)) %>%
+  tibble()
+
+lineplot_districts <- ggplot(lineplot_districts_data, aes(x = year, y = speaker_district_count, col = electoral_district))  +
+  geom_line() +
+  labs(x= "", y= "", title = "Mentions by electoral district") +
+  theme_bw() +
+  theme(legend.position = "right") +
+  facet_wrap(~period, scales = "free_x")
+
+lineplot_districts
+```
+
+## Municipality mentions by parliamentary group and year
+
+
+```{r lineplot_group}
+lineplot_groups_data <- raw_data_groups %>%
+  select(-geom)  %>%
+  group_by(period, year, party) %>%
+  summarise(speaker_party_count = sum(speaker_party_count, na.rm = TRUE),
+            .groups = "drop") %>%
+  filter((period == "1986-1995" & year <= 1995)|(period == "2004-2013" & year >= 2003)) %>%
+  tibble()
+
+lineplot_groups <- ggplot(lineplot_groups_data, aes(x = year, y = speaker_party_count, col = party))  +
+  geom_line() +
+  labs(x= "", y= "", title = "Mentions by parliamentary group") +
+  theme_bw() +
+  theme(legend.position = "right") + 
+  facet_wrap(~period, scales = "free_x")
+
+lineplot_groups
+```
+
+
+
+## MPs mentioning regions in their own electoral disctric
+
+```{r lineplot_mp_districts, echo = FALSE, warning=FALSE, eval = FALSE}
+lineplot_mp_districts_data <- raw_data_districts %>%
+  tibble() %>%
+  filter(speaker_electoral_district == electoral_district) %>%
+  select(-geom)  %>%
+  group_by(period, year, speaker_electoral_district) %>%
+  summarise(speaker_district_count = sum(speaker_district_count, na.rm = TRUE),
+            speaker_district_total = sum(speaker_district_total, na.rm = TRUE), 
+            .groups = "drop") %>%
+  filter((period == "1986-1995" & year <= 1995)|(period == "2004-2013" & year >= 2003)) %>%
+  mutate(speaker_district_prop = speaker_district_count / speaker_district_total) 
+
+line1 <- ggplot(lineplot_mp_districts_data %>%  filter(period == "1986-1995"), aes(x = year, y = speaker_district_prop, col = speaker_electoral_district))  +
+  geom_line() +
+  labs(x= "", y= "", subtitle = "1986-1995") +
+  scale_x_continuous(breaks= scales::pretty_breaks(), limits = c(1986,1995)) +
+  theme_bw() +
+  theme(legend.position = "none") +
+  facet_wrap(~speaker_electoral_district)
+
+line2 <- ggplot(lineplot_mp_districts_data %>%  filter(period == "2004-2013"), aes(x = year, y = speaker_district_prop, col = speaker_electoral_district))  +
+  geom_line() +
+  labs(x= "", y= "", subtitle = "2004-2013") +
+  scale_x_continuous(breaks= scales::pretty_breaks(), limits = c(2004,2013)) +
+  theme_bw() +
+  theme(legend.position = "none") +
+  facet_wrap(~speaker_electoral_district)
+
+ggarrange(line1, line2, ncol=1, nrow=2, common.legend = FALSE)
+#patchwork::wrap_plots(list(line1, line2), ncol = 1)
+```
+
+
+
+# Interactive plots
 
 ```{r plot_data_aggregate_funs, include=FALSE}
 
@@ -99,14 +184,14 @@ selectInput(
 ```{r mp_districts_app, echo=FALSE, eval=TRUE}
 
 plot_districts1 <- reactive({
-  raw_data_disctricts %>%
+  raw_data_districts %>%
     preprocess_district_data(time_period = "1986-1995", cut = 1990, district = input$district)
   
 })
 
 
 plot_districts2 <- reactive({
-  raw_data_disctricts %>%
+  raw_data_districts %>%
     preprocess_district_data(time_period = "2004-2013", cut = 2008, district = input$district)
   
 })
