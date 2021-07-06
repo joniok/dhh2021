@@ -12,13 +12,16 @@ library(ggsflabel)
 ```
 
 ```{r data, include=FALSE}
-raw_data <- readRDS("politics_and_place/districts.rds")
+raw_data_disctricts <- readRDS("plot_data/districts.rds")
+district_choices <- unique(raw_data_disctricts$electoral_district) %>% stringi::stri_sort(locale = "fi_FI")
 
-district_choices <- unique(raw_data$electoral_district) %>% stringi::stri_sort(locale = "fi_FI")
+raw_data_groups <- readRDS("plot_data/parl_groups.rds")
+group_choices <- unique(raw_data_groups$party) %>% stringi::stri_sort(local = "fi_FI")
+
 ```
 
 
-```{r plot_data_aggregate_fun, include=FALSE}
+```{r plot_data_aggregate_funs, include=FALSE}
 
 preprocess_district_data <- function(df, time_period, cut, district){
   df %>%
@@ -31,6 +34,21 @@ preprocess_district_data <- function(df, time_period, cut, district){
     summarize(speaker_district_count = sum(speaker_district_count, na.rm = TRUE),
               speaker_district_total = sum(speaker_district_total, na.rm = TRUE), .groups = "drop") %>%
     mutate(speaker_district_prop  = speaker_district_count / speaker_district_total) %>%
+    sf::st_as_sf()
+  
+}
+
+preprocess_group_data <- function(df, time_period, cut, group){
+  df %>%
+    filter(period == time_period) %>%
+    filter(party == group) %>%
+    mutate(time = ifelse(year < cut, 
+                         paste(unlist(strsplit(time_period, "-"))[1], "-", (cut-1)), 
+                         paste(cut, "-", unlist(strsplit(time_period, "-"))[2]))) %>%
+    group_by(electoral_district, party, time) %>%
+    summarize(speaker_party_count = sum(speaker_party_count, na.rm = TRUE),
+              speaker_party_total = sum(speaker_party_total, na.rm = TRUE), .groups = "drop") %>%
+    mutate(speaker_party_prop  = speaker_party_count / speaker_party_total) %>%
     sf::st_as_sf()
   
 }
@@ -75,35 +93,61 @@ selectInput(
   selected = district_choices[1]
 )
 
-plot_data1 <- reactive({
-  raw_data %>%
+plot_districts1 <- reactive({
+  raw_data_disctricts %>%
     preprocess_district_data(time_period = "1986-1995", cut = 1990, district = input$district)
   
 })
 
 renderPlot(
-  plot_data1() %>% 
+  plot_districts1() %>% 
     plot_map(fill = "speaker_district_prop", title = input$disctrict, subtitle = paste("First year of the economic crisis:", 1990))
 )
 
-plot_data2 <- reactive({
-  raw_data %>%
+plot_districts2 <- reactive({
+  raw_data_disctricts %>%
     preprocess_district_data(time_period = "2004-2013", cut = 2008, district = input$district)
   
 })
 
 renderPlot(
-  plot_data2() %>% 
+  plot_districts2() %>% 
     plot_map(fill = "speaker_district_prop", title = input$disctrict, subtitle = paste("First year of the economic crisis:", 2008)))
 
-
 ```
 
 
+## Mentions of municipalities by MPs aggregated by MP's parliamentary group
+
+```{r mp_groups_app, echo=FALSE, eval=TRUE}
+
+selectInput(
+  'party', 
+  label = 'Show mentions by MP from this parliamentary group:',
+  choices = group_choices, 
+  selected = group_choices[1]
+)
+
+plot_groups1 <- reactive({
+  raw_data_groups %>%
+    preprocess_group_data(time_period = "1986-1995", cut = 1990, group = input$party)
+  
+})
+
+renderPlot(
+  plot_groups1() %>% 
+    plot_map(fill = "speaker_party_prop", title = input$party, subtitle = paste("First year of the economic crisis:", 1990))
+)
+
+plot_groups2 <- reactive({
+  raw_data_groups %>%
+    preprocess_group_data(time_period = "2004-2013", cut = 2008, group = input$party)
+  
+})
+
+renderPlot(
+  plot_groups2() %>% 
+    plot_map(fill = "speaker_party_prop", title = input$disctrict, subtitle = paste("First year of the economic crisis:", 2008)))
 
 ```
-
-
-
-## Most mentions of electoral districts by parlamentary group by year
 
