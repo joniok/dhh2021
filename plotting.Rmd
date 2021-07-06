@@ -70,7 +70,7 @@ lineplot_groups
 
 ## MPs mentioning regions in their own electoral disctric
 
-```{r lineplot_mp_districts, echo = FALSE, warning=FALSE, eval = FALSE}
+```{r lineplot_mp_districts, echo = FALSE, warning=FALSE, eval = TRUE}
 lineplot_mp_districts_data <- raw_data_districts %>%
   tibble() %>%
   filter(speaker_electoral_district == electoral_district) %>%
