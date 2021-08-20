@@ -76,6 +76,11 @@ If MP has been a member of multiple parliamentary groups during their career, on
 
 Our original study covered two 10-year periods: 1) depression in Finland in the 1990's and 2) global financial crisis. This analyses is also separated in to these two periods, which cover 5 years before and after the peak/starting year of each economic crisis. Extending this research setting to cover larger period of time would more likely improve the reliability of the results. This quantitative examination is not really related to these economic crises, but we will use the data sets that were produced, but not analyzed during the hackathon.
 
+## Data
+
+```{r, plots, child = 'plots.Rmd'}
+```
+
 
 
 ## Discussion
