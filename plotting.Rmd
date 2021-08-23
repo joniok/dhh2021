@@ -20,9 +20,6 @@ group_choices <- unique(raw_data_groups$party) %>% stringi::stri_sort(local = "f
 
 ```
 
-
-# Interactive plots
-
 ```{r plot_data_aggregate_funs, include=FALSE}
 
 preprocess_district_data <- function(df, time_period, cut, district){

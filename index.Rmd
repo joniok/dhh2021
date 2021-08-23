@@ -42,10 +42,17 @@ In general, participating in this 10 day hackathon was an insightful experience.
 
 I also learned that it is important to take into account the time at your disposal. In this sense, the hackathon did not provide realistic settings as usually you don’t have only 10 days to plan _and_ conduct your research. Taking into account the 10 days of hackathon, I think our topic was a bit too ambitious, but nevertheless we managed to deliver results, which I could have not expected to be produced from scratch within 10 days. I believe that our work was showcasing the possibilities of such an extensive linked data set by focusing on something else than examining the traditional party politics or policies. Among these reasons, I was inspired to continue some of the quantitative analyses that we had no time to complete during the hackathon, but we did produce data sets, which can be used in these analyses.
 
-# Further analysis: Examining party politics and regional policies of electoral disctricts of MPs
+# Further analysis
 
+## Data and observations
+
+Our DHH work focused on more qualitative approach to find out how party politics and regional policies of MPs are represented and expressed in the dataset of parliamentary debates. One initial idea was to research if the MP's own electoral district is mentioned more often than other places. 
+
+I wanted to return to this idea, but from a quantitative aspect. During the hackathon, we did not find a way to normalize the mention count of different municipalities. As we can expect that the more populous economically more influential cities would be mentioned more often than I single rural municipality with low and sparse population. In the hackathon, we tried using population and economical statistics, such as population or GDP, but this did not provide meaningful results as the normalized counts would not show any kind of change during time. We opted to use _rate per 100 000_, which is often used in epidemiology to present statistics at population level, but considering also the effect of change in population. However this did not show change in the relative number of how many times a single city was mentioned within a given year. In this report, I present the values normalized by the total number of speeches including a mention of a city.
 
 ## Limitations of data
+
+As these analyses were conducted on the same datasets, which were used in our original DHH-analyses, the data is not fully applicable to thoroughly research if MPs really dicuss their own electoral district more often that other parts of Finland or how to normalize the number of mentions. Thus, the results of this report are not fully reliable, but the validity could improved if the data would be recollected considering the limitations and fixing thedeficiencies.
 
 <!--
 1. Limitations of data
@@ -76,13 +83,23 @@ If MP has been a member of multiple parliamentary groups during their career, on
 
 Our original study covered two 10-year periods: 1) depression in Finland in the 1990's and 2) global financial crisis. This analyses is also separated in to these two periods, which cover 5 years before and after the peak/starting year of each economic crisis. Extending this research setting to cover larger period of time would more likely improve the reliability of the results. This quantitative examination is not really related to these economic crises, but we will use the data sets that were produced, but not analyzed during the hackathon.
 
-## Data
-
 ```{r, plots, child = 'plots.Rmd'}
 ```
 
 
 
+## Interactive tools for data exploration
+
+I have created a tool which allows users to explore the data themselves. In the first interactive selection user selects a electoral district and the maps presents how often MPs from the selected electoral district they have mentioned a municipality aggregated by electoral district. In the second selection user can select a parliamentary group and the maps visualizes which areas their MPs discuss in the plenary sessions aggregated by electoral district. One limitation of this map is that the electoral district division follows the borders of 2020 as it was the only openly available and creating datasets of historical electoral districts would be a project of its own.
+
+The first set of maps can be used to explore if there is any change in how often the MPs speak about their own electoral district after a cutoff year. In this case, the maps follows the same economic crises (1990s depression in Finland and 2008 financial crisis) as our DHH work. Our initial motivation to examine this was the necessity of employment actions in certain area. This map answers to that question in a novel way by answering the question that did the number of mentions change after a defined time point, but it also can be used to compare MPs by electoral districts to see, if districts are mostly interested in talking about their own area or other areas, such as the capital region. Also this comparison aggregated the MPs by their electoral district meaning that the group of MPs is not influenced by a party programmes or policies of a single party.
+
+The second set of maps can be used to examine which areas are the parliamentary groups interested in the most. The maps are similarly divided by the two economic crises to see if the interest in a certain geographical area has changed after a economic downfall. The maps work the best with parties that have many MPs during those periods. One major limitation is that these visualization are not taking the number of MPs in a parliamentary group into account as this historical information was not easily accessible.   
+
+### Selected examples
+
 ## Discussion
 
 We could improve the reliable and validity of the results by fixing the limitations of the data. Fixing the issues related to data is time consuming and labor-intensive and implementing these changes would not really fit in the scope of the hackathon, but fixing them in this research or in ParliamentSampo data would not be impossible. However, this research is more of a novel example of what kind of research could be done related to regional policies and the geography of politics and how the results could be visually represented. 
+
+Similar tools could be developed to examine the effects of other events than just economic crises. For example before and after a change in party leadership or an ecological crisis, which took place in a certain area. Also to improve the quantitative representation of aggregated parliamentary groups, it would be crucial to include the number of MPs and re-examine the number of mentions normalized by the number of MPs in the parliamentary group.
