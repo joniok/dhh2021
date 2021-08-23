@@ -80,6 +80,7 @@ parl_groups_raw <- list(`2004-2013` = df_list[["city_counts_statistics_by_partie
                         `1986-1995` = df_list[["city_counts_statistics_by_parties_86_95"]]) %>%
   purrr::map_df(I, .id = "period") %>%
   filter(!grepl("Ahvenanmaa", party)) %>%# Exclude Åland representatives
+  filter(!grepl("Sininen tulevaisuus|Demokraattinen Vaihtoehto", party)) %>% # exlude short aged groups
   filter(city != "Maarianhamina") %>%
   rename(speaker_party_count = mention_count) %>%
   left_join(d1, by = "city") %>%
