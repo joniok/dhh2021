@@ -20,9 +20,11 @@ break_labs <- function(x, n =20){
 ```
 
 
-## Data and obervations
+## Data and observations
 
-### Municipality mentions by electoral district and year
+We set $t_0$ as the first year of the economic crises, which is 1990 for 1990's depression in Finland and 2008 for the financial crisis. Thus we have 5 year before the crisis and 5 years after it $[t_{-5},\dots, t_0,\dots, t_{5}]$. We also aggregate the data by two factors:  1) the electoral district of the MP 2) the parliamentary group of the MP. All the municipalities that were included are the same as in our original DHH study, but now represented at the electoral district level. However, not all the municipalities in electoral districts are included due to the limitation of the original study.
+
+### Municipality mentions by electoral district
 
 ```{r lineplot_districts, echo=FALSE, fig.cap = "Figure 1"}
 lineplot_districts_data <- raw_data_districts %>%
@@ -31,7 +33,7 @@ lineplot_districts_data <- raw_data_districts %>%
   summarise(speaker_district_count = sum(speaker_district_count, na.rm = TRUE),
             .groups = "drop") %>%
   filter((period == "1986-1995" & year <= 1995)|(period == "2004-2013" & year >= 2003)) %>%
-  mutate(time = ifelse(period == "1986-1995", year - 1991, year - 2008)) %>%
+  mutate(time = ifelse(period == "1986-1995", year - 1990, year - 2008)) %>%
   mutate(electoral_district = break_labs(electoral_district)) %>%
   tibble()
 
@@ -41,13 +43,15 @@ lineplot_districts <- ggplot(lineplot_districts_data, aes(x = time, y = speaker_
   scale_x_continuous(breaks= scales::pretty_breaks(10), limits  = c(-5,5)) +
   scale_color_discrete(name="Time period",
                        breaks=c("1986-1995", "2004-2013"),
-                       labels=c(expression(paste("1986-1995 (",t[0], "=1991)", sep = "")), expression(paste("2004-2013 (",t[0], "=2008)", sep = "")))) +
+                       labels=c(expression(paste("1986-1995 (",t[0], "=1990)", sep = "")), expression(paste("2004-2013 (",t[0], "=2008)", sep = "")))) +
   theme_bw() +
   theme(legend.position = "top") +
   facet_wrap(~electoral_district)
 
 lineplot_districts
 ```
+
+In figure 1, we see absolute mentions of each municipality by electoral districts during both economic crises. Most of lines do not show any noticeable change after the first year of the crisis. Lapin vaalipiiri (Lapland) includes a spike at 2008, but after a year returns the same level as it was in the last year before the crisis began. Helsingin vaalipiiri (Helsinki) on one hand show drop in 1990, but in 2008 it shows growth in the number of mentions. To be noted that this electoral disctrict only covers the capital city and it is the most accurately covered districts of all. As expected, the capital is also the most often mentioned and captured distrcit, but also the northern districts, such a Lapland and Oulu are quite often mentioned, even if the most of the municipalities of their distrcit was not covered by the original study.
 
 
 ### Municipality mentions by parliamentary group and year
@@ -60,7 +64,7 @@ lineplot_groups_data <- raw_data_groups %>%
   summarise(speaker_party_count = sum(speaker_party_count, na.rm = TRUE),
             .groups = "drop") %>%
   filter((period == "1986-1995" & year <= 1995)|(period == "2004-2013" & year >= 2003)) %>%
-  mutate(time = ifelse(period == "1986-1995", year - 1991, year - 2008)) %>%
+  mutate(time = ifelse(period == "1986-1995", year - 1990, year - 2008)) %>%
   mutate(party = break_labs(party)) %>%
   tibble()
 
@@ -70,14 +74,14 @@ lineplot_groups <- ggplot(lineplot_groups_data, aes(x = time, y = speaker_party_
   scale_x_continuous(breaks= scales::pretty_breaks(10), limits  = c(-5,5)) +
   scale_color_discrete(name="Time period",
                        breaks=c("1986-1995", "2004-2013"),
-                       labels=c(expression(paste("1986-1995 (",t[0], "=1991)", sep = "")), expression(paste("2004-2013 (",t[0], "=2008)", sep = "")))) +
+                       labels=c(expression(paste("1986-1995 (",t[0], "=1990)", sep = "")), expression(paste("2004-2013 (",t[0], "=2008)", sep = "")))) +
   theme_bw() +
-  theme(legend.position = "top") + 
+  theme(legend.position = "top") +
   facet_wrap(~party)
 
 lineplot_groups
 ```
-
+ In figure 2, we have the number of speeches including a mention by a parliamentary group. All the groups that did not have consistent representation during both crises were omitted from this study. Some of the parties did change their name during the time period of the study (Suomen Kansan Demokraattinen Liitto, SKDL became Vasemmistoliitto and Suomen Maaseudun Puolue, SMP became Perussuomalaiset). The original data only showed the most recent group affiliation of the speaker, so in terms of parliamentary group name there might be historical inaccuracies. From figure 2, we can observe that the three most popular parties Kokoomus, Keskusta, Suomen Sosialidemokraattinen Puolue (SDP) are the most active speakers, but they were also among the groups with the most MPs during both time periods. This comparison does not take group size into account as the historical group size was not openly accessible. The two groups showing clear change are SKDL and Perussuomalaiset. SKDL was dissolved in 1990, which can be observed a clear drop in the figure. Perussuomalaiset managed to increase the number of MP in 2011 elections drastically, which can be observed from the figure as steep growth in the number of speeches.
 
 
 ### MPs mentioning regions in their own electoral disctric
@@ -89,10 +93,10 @@ lineplot_mp_districts_data <- raw_data_districts %>%
   filter(speaker_electoral_district == electoral_district) %>%
   group_by(period, year, speaker_electoral_district) %>%
   summarise(speaker_district_count = sum(speaker_district_count, na.rm = TRUE),
-            speaker_district_total = sum(speaker_district_total, na.rm = TRUE), 
+            speaker_district_total = sum(speaker_district_total, na.rm = TRUE),
             .groups = "drop") %>%
   filter((period == "1986-1995" & year <= 1995)|(period == "2004-2013" & year >= 2003)) %>%
-  mutate(time = ifelse(period == "1986-1995", year - 1991, year - 2008)) %>%
+  mutate(time = ifelse(period == "1986-1995", year - 1990, year - 2008)) %>%
   mutate(speaker_district_prop = speaker_district_count / speaker_district_total) %>%
   mutate(speaker_electoral_district = break_labs(speaker_electoral_district))
 
@@ -103,28 +107,15 @@ mp_districts_line <- ggplot(lineplot_mp_districts_data, aes(x = time, y = speake
   scale_x_continuous(breaks= scales::pretty_breaks(10), limits  = c(-5,5)) +
   scale_color_discrete(name="Time period",
                        breaks=c("1986-1995", "2004-2013"),
-                       labels=c(expression(paste("1986-1995 (",t[0], "=1991)", sep = "")), expression(paste("2004-2013 (",t[0], "=2008)", sep = "")))) +
+                       labels=c(expression(paste("1986-1995 (",t[0], "=1990)", sep = "")), expression(paste("2004-2013 (",t[0], "=2008)", sep = "")))) +
   theme_bw() +
   theme(legend.position = "top") +
   facet_wrap(~speaker_electoral_district)
 
 mp_districts_line
-
-# line1 <- ggplot(lineplot_mp_districts_data %>%  filter(period == "1986-1995"), aes(x = year, y = speaker_district_prop, col = speaker_electoral_district))  +
-#   geom_line() +
-#   labs(x= "", y= "", subtitle = "1986-1995") +
-#   scale_x_continuous(breaks= scales::pretty_breaks(), limits = c(1986,1995)) +
-#   theme_bw() +
-#   theme(legend.position = "none") +
-#   facet_wrap(~speaker_electoral_district)
-# 
-# line2 <- ggplot(lineplot_mp_districts_data %>%  filter(period == "2004-2013"), aes(x = year, y = speaker_district_prop, col = speaker_electoral_district))  +
-#   geom_line() +
-#   labs(x= "", y= "", subtitle = "2004-2013") +
-#   scale_x_continuous(breaks= scales::pretty_breaks(), limits = c(2004,2013)) +
-#   theme_bw() +
-#   theme(legend.position = "none") +
-#   facet_wrap(~speaker_electoral_district)
-
-#patchwork::wrap_plots(list(line1, line2), ncol = 1)
 ```
+
+In figure 3, we answer the original question of do MPs tend to speak about their own electoral district. The numbers are also normalized by the number of how many times this district was mentioned overall in the data. Thus, a value over 0.5 would mean that the MPs of this district are the ones who speak about the district most often in the plenary sessions. The district of Vaasa is the only one which shows clear change after the crises and Pirkanmaa shows a slight growth before 1990. Mentions of Uusimaa drop after 1990, but continue to grow after 2008. Based on this plot the MPs of Keski-Suomi and Satakunta are the ones who like to speak about their own regions the most.
+
+Making conclusions from this is not reliable due to the limitations of the data used, but this novel example does not provide any evidence that an economic crisis would make the MPs speak about the region they are representing more than in the preceding time.
+
